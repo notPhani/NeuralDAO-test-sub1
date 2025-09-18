@@ -125,4 +125,131 @@ def clean_all_patients_folders(patients_root_dir):
 
 
 # make a relational database and host it on supabase to run the SQL 
+import pandas as pd
+import os
+from pathlib import Path
+
+def create_patient_table_sql(patient_csv_path, patient_id):
+    """Generate SQL for one patient table"""
+    df = pd.read_csv(patient_csv_path, low_memory=False)
+    
+    # Clean patient ID for table name (remove hyphens, special chars)
+    clean_patient_id = patient_id.replace('-', '_').replace(' ', '_')
+    table_name = f"patient_{clean_patient_id}"
+    
+    sql_statements = []
+    
+    # 1. CREATE TABLE statement
+    sql_statements.append(f"-- TABLE FOR PATIENT: {patient_id}")
+    sql_statements.append(f"DROP TABLE IF EXISTS {table_name};")
+    
+    create_table = f"CREATE TABLE {table_name} ("
+    
+    columns = []
+    for col in df.columns:
+        # Determine data type based on sample data
+        sample_data = df[col].dropna()
+        if len(sample_data) == 0:
+            col_type = "TEXT"
+        elif sample_data.dtype in ['int64', 'int32']:
+            col_type = "INTEGER"
+        elif sample_data.dtype in ['float64', 'float32']:
+            col_type = "REAL"
+        else:
+            col_type = "TEXT"
+        
+        # Clean column name for SQL compatibility
+        clean_col = col.replace('-', '_').replace(' ', '_').replace('.', '_')
+        columns.append(f"    {clean_col} {col_type}")
+    
+    create_table += "\n" + ",\n".join(columns) + "\n);"
+    sql_statements.append(create_table)
+    sql_statements.append("")
+    
+    # 2. INSERT statements
+    sql_statements.append(f"-- DATA FOR PATIENT: {patient_id}")
+    
+    for _, row in df.iterrows():
+        values = []
+        for col in df.columns:
+            val = row[col]
+            if pd.isna(val) or val == '':
+                values.append('NULL')
+            elif isinstance(val, str):
+                # Escape single quotes
+                safe_val = str(val).replace("'", "''").replace('\n', ' ')
+                values.append(f"'{safe_val}'")
+            else:
+                values.append(str(val))
+        
+        clean_columns = [col.replace('-', '_').replace(' ', '_').replace('.', '_') for col in df.columns]
+        
+        insert_sql = f"INSERT INTO {table_name} ({', '.join(clean_columns)}) VALUES ({', '.join(values)});"
+        sql_statements.append(insert_sql)
+    
+    sql_statements.append("")
+    return "\n".join(sql_statements)
+
+def create_master_patient_database(patients_root_dir, output_file='patients_database.sql'):
+    """Create one SQL file with individual table per patient"""
+    all_sql = []
+    all_sql.append("-- PATIENT-CENTRIC CLINICAL DATABASE")
+    all_sql.append("-- Each patient has their own table for easy querying")
+    all_sql.append("-- Query example: SELECT * FROM patient_12345 WHERE medications_DESCRIPTION LIKE '%insulin%';")
+    all_sql.append("")
+    
+    patient_count = 0
+    
+    # Process each patient folder
+    for patient_folder in os.listdir(patients_root_dir):
+        patient_path = os.path.join(patients_root_dir, patient_folder)
+        if os.path.isdir(patient_path):
+            csv_file = os.path.join(patient_path, 'merged_patient_data.csv')
+            if os.path.exists(csv_file):
+                # Extract patient ID from folder name
+                patient_id = patient_folder.replace('patient_', '')
+                
+                # Generate SQL for this patient
+                patient_sql = create_patient_table_sql(csv_file, patient_id)
+                all_sql.append(patient_sql)
+                
+                patient_count += 1
+                print(f"Processed patient: {patient_id}")
+    
+    # Write master SQL file
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(all_sql))
+    
+    print(f"\n🎉 Created {output_file} with {patient_count} patient tables!")
+    return output_file
+
+import sqlite3
+import pandas as pd
+
+def run_hard_query(query, db_path='patients_database.db'):
+    """Execute complex clinical query"""
+    conn = sqlite3.connect(db_path)
+    try:
+        result = pd.read_sql_query(query, conn)
+        print(f"✅ Query executed successfully!")
+        print(f"📊 Results: {len(result)} rows, {len(result.columns)} columns")
+        return result
+    except Exception as e:
+        print(f"❌ Query failed: {e}")
+        return None
+    finally:
+        conn.close()
+
+# Test with your actual patient table name
+query = """
+SELECT 
+    COUNT(*) as total_records,
+    COUNT(DISTINCT medications_DESCRIPTION) as unique_medications,
+    COUNT(DISTINCT procedures_CODE) as unique_procedures,
+    MAX(encounters_START) as latest_encounter
+FROM patient_25f30c19_e98a_85ea_6de8_f976388d4678;
+"""
+
+result = run_hard_query(query)
+print(result)
 
