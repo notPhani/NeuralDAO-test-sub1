@@ -97,5 +97,9 @@ def merge_patient(patient_folder):
     
     print(f"Merged CSV saved at: {output_file}")
 
-# Example usage:
-merge_patient("C:/Users/HP/NeuralDAO-test-sub1/backend/test_set/patients/patient_0a1bd9a2-fc21-7ad3-3d85-cf31b68eec28")
+#merge_patient("C:/Users/HP/NeuralDAO-test-sub1/backend/test_set/patients/patient_0a1bd9a2-fc21-7ad3-3d85-cf31b68eec28")
+
+if __name__ =="__main__":
+    files = os.listdir("c:/Users/HP/NeuralDAO-test-sub1/backend/test_set/patients")
+    for file in files:
+        merge_patient(os.path.join("C:/Users/HP/NeuralDAO-test-sub1/backend/test_set/patients", file))
