@@ -123,5 +123,6 @@ def clean_all_patients_folders(patients_root_dir):
         if os.path.isdir(full_path):
             clean_patient_folder(full_path)
 
-# Example usage:
-clean_all_patients_folders('C:/Users/HP/NeuralDAO-test-sub1/backend/test_set/patients')
+
+# make a relational database and host it on supabase to run the SQL 
+
