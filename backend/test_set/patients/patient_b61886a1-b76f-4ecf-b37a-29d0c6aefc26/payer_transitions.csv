@@ -1,0 +1,12 @@
+PATIENT,payer_transitions_payer_transitions_MEMBERID,payer_transitions_payer_transitions_START_DATE,payer_transitions_payer_transitions_END_DATE,payer_transitions_payer_transitions_PAYER,payer_transitions_payer_transitions_SECONDARY_PAYER,payer_transitions_payer_transitions_PLAN_OWNERSHIP,payer_transitions_payer_transitions_OWNER_NAME
+b61886a1-b76f-4ecf-b37a-29d0c6aefc26,b72a3d55-fe95-04ca-5a1a-b56d6208118f,2014-11-11T13:42:40Z,2015-11-10T13:42:40Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Self,Hoyt490 Homenick806
+b61886a1-b76f-4ecf-b37a-29d0c6aefc26,67ba715b-4b0b-21f7-c66c-da0f8e8c4869,2015-11-10T13:42:40Z,2016-11-08T13:42:40Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Self,Hoyt490 Homenick806
+b61886a1-b76f-4ecf-b37a-29d0c6aefc26,40d8129c-5269-b5ba-6f8b-a983a255e855,2016-11-08T13:42:40Z,2017-11-07T13:42:40Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Self,Hoyt490 Homenick806
+b61886a1-b76f-4ecf-b37a-29d0c6aefc26,850b2dd2-df77-d093-2a60-ce52bcd09650,2017-11-07T13:42:40Z,2018-11-06T13:42:40Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Self,Hoyt490 Homenick806
+b61886a1-b76f-4ecf-b37a-29d0c6aefc26,e968d834-6236-f892-6a02-a82eaa3f3c21,2018-11-06T13:42:40Z,2019-11-12T13:42:40Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Spouse,Mr. Homenick806
+b61886a1-b76f-4ecf-b37a-29d0c6aefc26,8907a056-1b34-ff4a-d39a-6131b67342e6,2019-11-12T13:42:40Z,2020-11-10T13:42:40Z,0133f751-9229-3cfd-815f-b6d4979bdd6a,,Spouse,Mr. Homenick806
+b61886a1-b76f-4ecf-b37a-29d0c6aefc26,cf252aed-d2b9-f49f-9206-2acfe7cbb64b,2020-11-10T13:42:40Z,2021-11-09T13:42:40Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Spouse,Mr. Homenick806
+b61886a1-b76f-4ecf-b37a-29d0c6aefc26,d4eb85df-a575-3424-e9d5-9132151fa9b8,2021-11-09T13:42:40Z,2022-11-08T13:42:40Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Self,Hoyt490 Homenick806
+b61886a1-b76f-4ecf-b37a-29d0c6aefc26,6f792b84-621d-6daa-b7f6-f052e18b9c38,2022-11-08T13:42:40Z,2023-11-07T13:42:40Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Self,Hoyt490 Homenick806
+b61886a1-b76f-4ecf-b37a-29d0c6aefc26,be2eb44d-881a-b538-f64c-6477797dfbaf,2023-11-07T13:42:40Z,2024-11-12T13:42:40Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Spouse,Mr. Homenick806
+b61886a1-b76f-4ecf-b37a-29d0c6aefc26,3a0cfa74-b050-5ec8-ac1f-32fe28df5714,2024-11-12T13:42:40Z,2025-11-06T13:42:40Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Self,Hoyt490 Homenick806

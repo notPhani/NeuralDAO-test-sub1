@@ -1,0 +1,4 @@
+PATIENT,payer_transitions_payer_transitions_MEMBERID,payer_transitions_payer_transitions_START_DATE,payer_transitions_payer_transitions_END_DATE,payer_transitions_payer_transitions_PAYER,payer_transitions_payer_transitions_SECONDARY_PAYER,payer_transitions_payer_transitions_PLAN_OWNERSHIP,payer_transitions_payer_transitions_OWNER_NAME
+c420eb5d-97eb-59b6-b247-0ba188408db5,af79d2a3-ada6-1bc0-4df2-99098123cecf,2023-04-08T15:42:04Z,2024-04-13T15:42:04Z,df166300-5a78-3502-a46a-832842197811,,Self,Jarvis643 Olson653
+c420eb5d-97eb-59b6-b247-0ba188408db5,00ab2848-ca41-76b1-9305-24e0c0b8f973,2024-04-13T15:42:04Z,2025-04-12T15:42:04Z,df166300-5a78-3502-a46a-832842197811,,Self,Jarvis643 Olson653
+c420eb5d-97eb-59b6-b247-0ba188408db5,827721af-c617-cc7f-0995-59d1146a00e1,2025-04-12T15:42:04Z,2026-04-08T15:42:04Z,df166300-5a78-3502-a46a-832842197811,,Self,Jarvis643 Olson653

@@ -1,0 +1,14 @@
+immunizations_immunizations_DATE,PATIENT,immunizations_immunizations_ENCOUNTER,immunizations_immunizations_CODE,immunizations_immunizations_DESCRIPTION,immunizations_immunizations_BASE_COST
+2016-04-28T21:45:07Z,3c763653-7fd3-af8a-e65f-79d5bde98d3a,90fd8359-ab49-ed82-180a-2cb8787270f9,140,Influenza  seasonal  injectable  preservative free,136.0
+2018-05-03T21:45:07Z,3c763653-7fd3-af8a-e65f-79d5bde98d3a,ac3758a1-270e-9560-6e58-c275db05dbc5,140,Influenza  seasonal  injectable  preservative free,136.0
+2020-04-09T21:45:07Z,3c763653-7fd3-af8a-e65f-79d5bde98d3a,7e31f622-977e-948a-4738-ecfe7ddcd811,121,zoster vaccine  live,136.0
+2020-04-09T21:45:07Z,3c763653-7fd3-af8a-e65f-79d5bde98d3a,7e31f622-977e-948a-4738-ecfe7ddcd811,140,Influenza  seasonal  injectable  preservative free,136.0
+2021-03-04T21:45:07Z,3c763653-7fd3-af8a-e65f-79d5bde98d3a,d4e96e93-fab8-7467-4398-f46fdcef1354,208,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,136.0
+2021-03-25T21:45:07Z,3c763653-7fd3-af8a-e65f-79d5bde98d3a,3cbc8581-5e70-f784-9fd5-3eae40f724f3,208,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,136.0
+2021-04-15T21:45:07Z,3c763653-7fd3-af8a-e65f-79d5bde98d3a,d5babdaa-1e57-5ceb-768b-fcb9d316f581,121,zoster vaccine  live,136.0
+2021-04-15T21:45:07Z,3c763653-7fd3-af8a-e65f-79d5bde98d3a,d5babdaa-1e57-5ceb-768b-fcb9d316f581,140,Influenza  seasonal  injectable  preservative free,136.0
+2021-04-15T21:45:07Z,3c763653-7fd3-af8a-e65f-79d5bde98d3a,d5babdaa-1e57-5ceb-768b-fcb9d316f581,113,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,136.0
+2022-04-21T21:45:07Z,3c763653-7fd3-af8a-e65f-79d5bde98d3a,1f4fb643-58a0-c0a4-8e69-07571d92f013,140,Influenza  seasonal  injectable  preservative free,136.0
+2023-04-27T21:45:07Z,3c763653-7fd3-af8a-e65f-79d5bde98d3a,986eaac0-a8c1-abb7-a446-d68f6e62a21c,140,Influenza  seasonal  injectable  preservative free,136.0
+2024-05-02T21:45:07Z,3c763653-7fd3-af8a-e65f-79d5bde98d3a,8b1ea6e8-0330-086c-224b-0ae167f6725b,140,Influenza  seasonal  injectable  preservative free,136.0
+2025-05-08T21:45:07Z,3c763653-7fd3-af8a-e65f-79d5bde98d3a,40d78293-8b07-f512-8c4e-258e12bfdfdd,140,Influenza  seasonal  injectable  preservative free,136.0

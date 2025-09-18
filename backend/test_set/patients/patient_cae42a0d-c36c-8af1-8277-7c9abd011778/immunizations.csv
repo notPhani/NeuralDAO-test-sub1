@@ -1,0 +1,5 @@
+immunizations_immunizations_DATE,PATIENT,immunizations_immunizations_ENCOUNTER,immunizations_immunizations_CODE,immunizations_immunizations_DESCRIPTION,immunizations_immunizations_BASE_COST
+2015-10-30T04:05:48Z,cae42a0d-c36c-8af1-8277-7c9abd011778,84a0c0d2-30af-e6bc-ad2c-27fd51271997,140,Influenza  seasonal  injectable  preservative free,136.0
+2016-10-28T04:05:48Z,cae42a0d-c36c-8af1-8277-7c9abd011778,cf1b4ab9-aac3-8b29-c2c9-7a9ec6fb0d5f,140,Influenza  seasonal  injectable  preservative free,136.0
+2020-12-25T04:05:48Z,cae42a0d-c36c-8af1-8277-7c9abd011778,800cb85d-1b63-01ba-4831-0c0334545d32,207,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,136.0
+2021-01-22T04:05:48Z,cae42a0d-c36c-8af1-8277-7c9abd011778,48e59773-bb52-e1ce-fbf1-2e5073a78b69,207,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,136.0

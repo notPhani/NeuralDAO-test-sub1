@@ -1,0 +1,12 @@
+PATIENT,payer_transitions_payer_transitions_MEMBERID,payer_transitions_payer_transitions_START_DATE,payer_transitions_payer_transitions_END_DATE,payer_transitions_payer_transitions_PAYER,payer_transitions_payer_transitions_SECONDARY_PAYER,payer_transitions_payer_transitions_PLAN_OWNERSHIP,payer_transitions_payer_transitions_OWNER_NAME
+be874504-c868-ebfd-9a77-df6b1e5ff6cc,2d855425-d2f6-cea7-822e-202f05c05095,2014-11-07T13:44:05Z,2015-11-06T13:44:05Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Self,Maryrose226 Kessler503
+be874504-c868-ebfd-9a77-df6b1e5ff6cc,fc30c03b-bf32-7bf6-e3cb-70b2a3e13a25,2015-11-06T13:44:05Z,2016-11-11T13:44:05Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Self,Maryrose226 Kessler503
+be874504-c868-ebfd-9a77-df6b1e5ff6cc,71c7aa75-c998-7e3a-5317-f13ab3766daa,2016-11-11T13:44:05Z,2017-11-10T13:44:05Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Self,Maryrose226 Kessler503
+be874504-c868-ebfd-9a77-df6b1e5ff6cc,17e37ce8-2dba-0e52-58cf-e9d0577deae6,2017-11-10T13:44:05Z,2018-11-09T13:44:05Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Spouse,Mr. Kessler503
+be874504-c868-ebfd-9a77-df6b1e5ff6cc,11d4058c-106e-db3a-8d93-4f13506e3154,2018-11-09T13:44:05Z,2019-11-08T13:44:05Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Spouse,Mr. Kessler503
+be874504-c868-ebfd-9a77-df6b1e5ff6cc,8b69e999-d0b8-96df-5da6-194a80ae7385,2019-11-08T13:44:05Z,2020-11-06T13:44:05Z,0133f751-9229-3cfd-815f-b6d4979bdd6a,,Spouse,Mr. Kessler503
+be874504-c868-ebfd-9a77-df6b1e5ff6cc,ed18ab33-5ff7-95c3-2d64-332ed79eb6fe,2020-11-06T13:44:05Z,2021-11-12T13:44:05Z,a735bf55-83e9-331a-899d-a82a60b9f60c,,Spouse,Mr. Kessler503
+be874504-c868-ebfd-9a77-df6b1e5ff6cc,1e4a6ec6-ff9f-af95-83f7-a1f14caacfe4,2021-11-12T13:44:05Z,2022-11-11T13:44:05Z,a735bf55-83e9-331a-899d-a82a60b9f60c,,Self,Maryrose226 Kessler503
+be874504-c868-ebfd-9a77-df6b1e5ff6cc,b34d3e0e-bebb-0f9e-5a23-1ab8876f4a10,2022-11-11T13:44:05Z,2023-11-10T13:44:05Z,a735bf55-83e9-331a-899d-a82a60b9f60c,,Spouse,Mr. Kessler503
+be874504-c868-ebfd-9a77-df6b1e5ff6cc,29cd96c7-5cf3-e89b-6489-682f6b7102d2,2023-11-10T13:44:05Z,2024-11-08T13:44:05Z,a735bf55-83e9-331a-899d-a82a60b9f60c,,Self,Maryrose226 Kessler503
+be874504-c868-ebfd-9a77-df6b1e5ff6cc,585c6fac-d7bd-29b5-547e-22f407c7159d,2024-11-08T13:44:05Z,2025-11-06T13:44:05Z,a735bf55-83e9-331a-899d-a82a60b9f60c,,Self,Maryrose226 Kessler503

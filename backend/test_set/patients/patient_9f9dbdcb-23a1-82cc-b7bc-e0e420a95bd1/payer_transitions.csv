@@ -1,0 +1,12 @@
+PATIENT,payer_transitions_payer_transitions_MEMBERID,payer_transitions_payer_transitions_START_DATE,payer_transitions_payer_transitions_END_DATE,payer_transitions_payer_transitions_PAYER,payer_transitions_payer_transitions_SECONDARY_PAYER,payer_transitions_payer_transitions_PLAN_OWNERSHIP,payer_transitions_payer_transitions_OWNER_NAME
+9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,,2015-01-07T07:54:22Z,2016-01-13T07:54:22Z,e03e23c9-4df1-3eb6-a62d-f70f02301496,,,
+9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,,2016-01-13T07:54:22Z,2017-01-11T07:54:22Z,e03e23c9-4df1-3eb6-a62d-f70f02301496,,,
+9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,,2017-01-11T07:54:22Z,2018-01-10T07:54:22Z,e03e23c9-4df1-3eb6-a62d-f70f02301496,,,
+9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,,2018-01-10T07:54:22Z,2019-01-09T07:54:22Z,e03e23c9-4df1-3eb6-a62d-f70f02301496,,,
+9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,,2019-01-09T07:54:22Z,2020-01-08T07:54:22Z,e03e23c9-4df1-3eb6-a62d-f70f02301496,,,
+9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,,2020-01-08T07:54:22Z,2021-01-13T07:54:22Z,e03e23c9-4df1-3eb6-a62d-f70f02301496,,,
+9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,,2021-01-13T07:54:22Z,2022-01-12T07:54:22Z,e03e23c9-4df1-3eb6-a62d-f70f02301496,,,
+9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,,2022-01-12T07:54:22Z,2023-01-11T07:54:22Z,e03e23c9-4df1-3eb6-a62d-f70f02301496,,,
+9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,,2023-01-11T07:54:22Z,2024-01-10T07:54:22Z,e03e23c9-4df1-3eb6-a62d-f70f02301496,,,
+9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,,2024-01-10T07:54:22Z,2025-01-08T07:54:22Z,e03e23c9-4df1-3eb6-a62d-f70f02301496,,,
+9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,,2025-01-08T07:54:22Z,2026-01-07T07:54:22Z,e03e23c9-4df1-3eb6-a62d-f70f02301496,,,

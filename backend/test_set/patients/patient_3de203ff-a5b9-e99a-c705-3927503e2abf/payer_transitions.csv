@@ -1,0 +1,13 @@
+PATIENT,payer_transitions_payer_transitions_MEMBERID,payer_transitions_payer_transitions_START_DATE,payer_transitions_payer_transitions_END_DATE,payer_transitions_payer_transitions_PAYER,payer_transitions_payer_transitions_SECONDARY_PAYER,payer_transitions_payer_transitions_PLAN_OWNERSHIP,payer_transitions_payer_transitions_OWNER_NAME
+3de203ff-a5b9-e99a-c705-3927503e2abf,c0a90960-a592-dfcd-152f-950ce6ebf3e8,2014-06-23T06:18:11Z,2015-06-22T06:18:11Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Smith67
+3de203ff-a5b9-e99a-c705-3927503e2abf,9245847f-51b5-69bf-1859-39e1210f7fd7,2015-06-22T06:18:11Z,2016-06-20T06:18:11Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Denita497 Dori98 Smith67
+3de203ff-a5b9-e99a-c705-3927503e2abf,bb96e4d2-42d7-0dab-a03a-2357c860372e,2016-06-20T06:18:11Z,2017-06-26T06:18:11Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Smith67
+3de203ff-a5b9-e99a-c705-3927503e2abf,2dc66b3c-5338-d330-b417-739dcb71a009,2017-06-26T06:18:11Z,2018-06-25T06:18:11Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Denita497 Dori98 Smith67
+3de203ff-a5b9-e99a-c705-3927503e2abf,dcf5e70b-9b5b-acce-ef8f-8e03c5d63a36,2018-06-25T06:18:11Z,2019-06-24T06:18:11Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Denita497 Dori98 Smith67
+3de203ff-a5b9-e99a-c705-3927503e2abf,de72296d-648a-ab5c-b37c-43ef7d122222,2019-06-24T06:18:11Z,2020-06-22T06:18:11Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Denita497 Dori98 Smith67
+3de203ff-a5b9-e99a-c705-3927503e2abf,d056cdb1-3939-4dd4-0d98-526f6d4a8189,2020-06-22T06:18:11Z,2021-06-21T06:18:11Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Smith67
+3de203ff-a5b9-e99a-c705-3927503e2abf,04b0e1bc-4d63-369c-baa2-41242a0ae7c3,2021-06-21T06:18:11Z,2022-06-20T06:18:11Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Smith67
+3de203ff-a5b9-e99a-c705-3927503e2abf,52c25fdd-f2e7-3e98-d2e0-e4d548703cb0,2022-06-20T06:18:11Z,2023-06-26T06:18:11Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Smith67
+3de203ff-a5b9-e99a-c705-3927503e2abf,88113ce4-d9d8-b8a8-a122-f7fb0c4beca3,2023-06-26T06:18:11Z,2024-06-24T06:18:11Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Smith67
+3de203ff-a5b9-e99a-c705-3927503e2abf,677817cf-de3e-458d-1088-220ee6ccded6,2024-06-24T06:18:11Z,2025-06-23T06:18:11Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Denita497 Dori98 Smith67
+3de203ff-a5b9-e99a-c705-3927503e2abf,c81bcca4-7839-c424-0c8d-7b27bf2b5067,2025-06-23T06:18:11Z,2026-06-20T06:18:11Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Smith67

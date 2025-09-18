@@ -1,0 +1,7 @@
+conditions_conditions_START,conditions_conditions_STOP,PATIENT,conditions_conditions_ENCOUNTER,conditions_conditions_SYSTEM,conditions_conditions_CODE,conditions_conditions_DESCRIPTION
+2023-04-08,2023-05-13,c420eb5d-97eb-59b6-b247-0ba188408db5,b41b4ab8-beb9-4816-2cbb-17599d9822fe,http://snomed.info/sct,314529007,Medication review due (situation)
+2023-07-15,2023-07-15,c420eb5d-97eb-59b6-b247-0ba188408db5,de3e0858-e328-997a-f23c-058f0e5f7329,http://snomed.info/sct,314529007,Medication review due (situation)
+2023-09-16,2023-09-16,c420eb5d-97eb-59b6-b247-0ba188408db5,d667a380-52b6-7985-467b-3423582d7ac2,http://snomed.info/sct,314529007,Medication review due (situation)
+2023-12-16,2023-12-16,c420eb5d-97eb-59b6-b247-0ba188408db5,4b87d368-b28d-cd85-fa21-835c1aab66d0,http://snomed.info/sct,314529007,Medication review due (situation)
+2024-03-16,2024-09-14,c420eb5d-97eb-59b6-b247-0ba188408db5,0aeb265b-3c4e-6c3f-363e-6f14feb32859,http://snomed.info/sct,314529007,Medication review due (situation)
+2025-03-15,,c420eb5d-97eb-59b6-b247-0ba188408db5,b2dd4311-7af6-0a5c-4f18-99e1a5eaeb9e,http://snomed.info/sct,314529007,Medication review due (situation)

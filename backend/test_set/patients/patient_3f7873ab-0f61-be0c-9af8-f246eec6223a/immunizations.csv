@@ -1,0 +1,11 @@
+immunizations_immunizations_DATE,PATIENT,immunizations_immunizations_ENCOUNTER,immunizations_immunizations_CODE,immunizations_immunizations_DESCRIPTION,immunizations_immunizations_BASE_COST
+1991-05-18T03:15:47Z,3f7873ab-0f61-be0c-9af8-f246eec6223a,32c1c81b-ce83-9b5a-93d1-04da7103c8d7,140,Influenza  seasonal  injectable  preservative free,136.0
+1992-05-23T03:15:47Z,3f7873ab-0f61-be0c-9af8-f246eec6223a,c31fc624-fb8b-4e43-ee09-20df68a3043f,140,Influenza  seasonal  injectable  preservative free,136.0
+1993-05-29T03:15:47Z,3f7873ab-0f61-be0c-9af8-f246eec6223a,ee7cb544-e097-a0bf-cc4a-d7d7fd71f762,140,Influenza  seasonal  injectable  preservative free,136.0
+1994-06-04T03:15:47Z,3f7873ab-0f61-be0c-9af8-f246eec6223a,7b6ba8f1-3964-aaab-090e-a1c57347dea8,140,Influenza  seasonal  injectable  preservative free,136.0
+1995-06-10T03:15:47Z,3f7873ab-0f61-be0c-9af8-f246eec6223a,f072b76d-fbd8-5e7b-b333-f56e65e2d3ac,140,Influenza  seasonal  injectable  preservative free,136.0
+1996-06-15T03:15:47Z,3f7873ab-0f61-be0c-9af8-f246eec6223a,89eb1d91-e486-b18b-575d-a6d80db61c7a,140,Influenza  seasonal  injectable  preservative free,136.0
+1997-06-21T03:15:47Z,3f7873ab-0f61-be0c-9af8-f246eec6223a,8884ee1b-d444-5abc-50f2-f1051840ad6a,140,Influenza  seasonal  injectable  preservative free,136.0
+1998-06-27T03:15:47Z,3f7873ab-0f61-be0c-9af8-f246eec6223a,e0882291-8798-7a85-4ced-fe6145e4fa36,140,Influenza  seasonal  injectable  preservative free,136.0
+1998-06-27T03:15:47Z,3f7873ab-0f61-be0c-9af8-f246eec6223a,e0882291-8798-7a85-4ced-fe6145e4fa36,113,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,136.0
+1999-07-03T03:15:47Z,3f7873ab-0f61-be0c-9af8-f246eec6223a,c493fa0b-46ec-0133-5c1b-3bd68b38fd6d,140,Influenza  seasonal  injectable  preservative free,136.0

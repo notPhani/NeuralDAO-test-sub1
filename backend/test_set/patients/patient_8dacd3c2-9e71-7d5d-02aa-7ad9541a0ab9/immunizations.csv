@@ -1,0 +1,10 @@
+immunizations_immunizations_DATE,PATIENT,immunizations_immunizations_ENCOUNTER,immunizations_immunizations_CODE,immunizations_immunizations_DESCRIPTION,immunizations_immunizations_BASE_COST
+2015-11-17T06:17:58Z,8dacd3c2-9e71-7d5d-02aa-7ad9541a0ab9,74d17b2c-415f-84e1-f5e7-6bf874b650c3,140,Influenza  seasonal  injectable  preservative free,136.0
+2018-11-20T06:17:58Z,8dacd3c2-9e71-7d5d-02aa-7ad9541a0ab9,18ed5a4b-c3a3-44bd-385c-c4a7c2ebbe02,140,Influenza  seasonal  injectable  preservative free,136.0
+2018-11-20T06:17:58Z,8dacd3c2-9e71-7d5d-02aa-7ad9541a0ab9,18ed5a4b-c3a3-44bd-385c-c4a7c2ebbe02,113,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,136.0
+2018-11-20T06:17:58Z,8dacd3c2-9e71-7d5d-02aa-7ad9541a0ab9,18ed5a4b-c3a3-44bd-385c-c4a7c2ebbe02,43,Hep B  adult,136.0
+2018-11-20T06:17:58Z,8dacd3c2-9e71-7d5d-02aa-7ad9541a0ab9,18ed5a4b-c3a3-44bd-385c-c4a7c2ebbe02,114,meningococcal MCV4P,136.0
+2021-06-08T06:17:58Z,8dacd3c2-9e71-7d5d-02aa-7ad9541a0ab9,2255bf03-7847-eb47-a8ff-f7e5e9aae092,208,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,136.0
+2021-06-29T06:17:58Z,8dacd3c2-9e71-7d5d-02aa-7ad9541a0ab9,8819612c-eb2d-6e50-1263-524cf3c06e9b,208,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,136.0
+2021-11-23T06:17:58Z,8dacd3c2-9e71-7d5d-02aa-7ad9541a0ab9,6cda4f3b-93a5-1074-0429-bc0904207eaa,140,Influenza  seasonal  injectable  preservative free,136.0
+2024-11-26T06:17:58Z,8dacd3c2-9e71-7d5d-02aa-7ad9541a0ab9,39607709-6f40-e0e4-f057-0cbf812572fc,140,Influenza  seasonal  injectable  preservative free,136.0

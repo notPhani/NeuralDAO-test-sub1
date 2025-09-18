@@ -1,0 +1,7 @@
+immunizations_immunizations_DATE,PATIENT,immunizations_immunizations_ENCOUNTER,immunizations_immunizations_CODE,immunizations_immunizations_DESCRIPTION,immunizations_immunizations_BASE_COST
+2016-11-12T18:22:22Z,9f867ec4-9f3a-35af-4bb6-e2c18a603c72,260766a3-ab1c-b970-6cee-6cdd3e147fa1,140,Influenza  seasonal  injectable  preservative free,136.0
+2019-11-16T18:22:22Z,9f867ec4-9f3a-35af-4bb6-e2c18a603c72,f9533f01-fab2-0f19-fc83-27eaff005685,140,Influenza  seasonal  injectable  preservative free,136.0
+2021-10-16T18:22:22Z,9f867ec4-9f3a-35af-4bb6-e2c18a603c72,d2337dcc-4512-55e0-2ccf-2be5303996ed,208,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,136.0
+2021-11-06T18:22:22Z,9f867ec4-9f3a-35af-4bb6-e2c18a603c72,894dbea1-f1dc-2c98-3393-5c3835a24182,208,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,136.0
+2022-11-19T18:22:22Z,9f867ec4-9f3a-35af-4bb6-e2c18a603c72,8c7c9ec1-e111-cc58-7ac7-d4d94aa22494,140,Influenza  seasonal  injectable  preservative free,136.0
+2022-11-19T18:22:22Z,9f867ec4-9f3a-35af-4bb6-e2c18a603c72,8c7c9ec1-e111-cc58-7ac7-d4d94aa22494,113,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,136.0

@@ -1,0 +1,16 @@
+supplies_supplies_DATE,PATIENT,supplies_supplies_ENCOUNTER,supplies_supplies_CODE,supplies_supplies_DESCRIPTION,supplies_supplies_QUANTITY
+2017-06-14,006c29d1-d868-3a9e-ceab-31f23e398f45,66086097-a8c9-1c44-2963-eb89b2941053,337388004,Blood glucose testing strips (physical object),50
+2017-06-28,006c29d1-d868-3a9e-ceab-31f23e398f45,7e2115ce-5035-088f-66f1-cccbb99dc321,277183007,Dental equipment (physical object),1
+2017-06-28,006c29d1-d868-3a9e-ceab-31f23e398f45,7e2115ce-5035-088f-66f1-cccbb99dc321,1230220004,Conventional release periodontal gel (dose form),1
+2017-06-28,006c29d1-d868-3a9e-ceab-31f23e398f45,7e2115ce-5035-088f-66f1-cccbb99dc321,469020004,Dental floss (physical object),1
+2020-06-24,006c29d1-d868-3a9e-ceab-31f23e398f45,3341caf2-fd48-f836-8b9a-1f9fd836c3d4,337388004,Blood glucose testing strips (physical object),50
+2023-04-12,006c29d1-d868-3a9e-ceab-31f23e398f45,920ccf65-85ef-6dcf-4110-9726b103e0b2,337388004,Blood glucose testing strips (physical object),50
+2023-04-12,006c29d1-d868-3a9e-ceab-31f23e398f45,920ccf65-85ef-6dcf-4110-9726b103e0b2,1137596000,Blood lancet (physical object),100
+2023-04-26,006c29d1-d868-3a9e-ceab-31f23e398f45,472a4d8e-2a01-9a9f-eaa5-f1cd695ecbfc,277183007,Dental equipment (physical object),1
+2023-04-26,006c29d1-d868-3a9e-ceab-31f23e398f45,472a4d8e-2a01-9a9f-eaa5-f1cd695ecbfc,1230220004,Conventional release periodontal gel (dose form),1
+2023-04-26,006c29d1-d868-3a9e-ceab-31f23e398f45,472a4d8e-2a01-9a9f-eaa5-f1cd695ecbfc,469020004,Dental floss (physical object),1
+2025-04-30,006c29d1-d868-3a9e-ceab-31f23e398f45,d17b225b-29b6-628a-9d9f-4b294b44d64e,277183007,Dental equipment (physical object),1
+2025-04-30,006c29d1-d868-3a9e-ceab-31f23e398f45,d17b225b-29b6-628a-9d9f-4b294b44d64e,1230220004,Conventional release periodontal gel (dose form),1
+2025-04-30,006c29d1-d868-3a9e-ceab-31f23e398f45,d17b225b-29b6-628a-9d9f-4b294b44d64e,469020004,Dental floss (physical object),1
+2025-05-07,006c29d1-d868-3a9e-ceab-31f23e398f45,1919dd12-31ca-355a-e62a-64a196cc51b9,706390002,Dental impression material (physical object),1
+2025-05-07,006c29d1-d868-3a9e-ceab-31f23e398f45,1919dd12-31ca-355a-e62a-64a196cc51b9,468277001,Dental impression tray material (physical object),1

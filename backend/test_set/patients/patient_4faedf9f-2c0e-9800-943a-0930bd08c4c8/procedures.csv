@@ -1,0 +1,8 @@
+procedures_procedures_START,procedures_procedures_STOP,PATIENT,procedures_procedures_ENCOUNTER,procedures_procedures_SYSTEM,procedures_procedures_CODE,procedures_procedures_DESCRIPTION,procedures_procedures_BASE_COST,procedures_procedures_REASONCODE,procedures_procedures_REASONDESCRIPTION
+2023-02-05T22:53:26Z,2023-02-05T23:08:26Z,4faedf9f-2c0e-9800-943a-0930bd08c4c8,17bda23e-01f2-2310-6e28-b5d2c68a6d89,http://snomed.info/sct,430193006,Medication reconciliation (procedure),523.63,,
+2023-04-09T22:53:26Z,2023-04-09T23:08:26Z,4faedf9f-2c0e-9800-943a-0930bd08c4c8,6771051f-1fac-776e-66e9-67cd175e9449,http://snomed.info/sct,430193006,Medication reconciliation (procedure),215.7,,
+2023-06-11T22:53:26Z,2023-06-11T23:08:26Z,4faedf9f-2c0e-9800-943a-0930bd08c4c8,433658e0-7717-d352-b59e-aeafcc6a4ee0,http://snomed.info/sct,430193006,Medication reconciliation (procedure),215.7,,
+2023-12-10T22:53:26Z,2023-12-10T23:08:26Z,4faedf9f-2c0e-9800-943a-0930bd08c4c8,8e60fdbb-a83c-3753-0ed0-44594415a628,http://snomed.info/sct,430193006,Medication reconciliation (procedure),215.7,,
+2024-06-09T22:53:26Z,2024-06-09T23:08:26Z,4faedf9f-2c0e-9800-943a-0930bd08c4c8,4803b6fc-646a-81e3-aa51-733e2b61adf8,http://snomed.info/sct,430193006,Medication reconciliation (procedure),215.7,,
+2024-12-08T22:53:26Z,2024-12-08T23:08:26Z,4faedf9f-2c0e-9800-943a-0930bd08c4c8,9a19f6bf-0bc1-a9af-65b3-2997b38c19c1,http://snomed.info/sct,430193006,Medication reconciliation (procedure),573.27,,
+2025-06-08T22:53:26Z,2025-06-08T23:08:26Z,4faedf9f-2c0e-9800-943a-0930bd08c4c8,4f375982-9ea4-bcc2-eb8e-1ece3b897a96,http://snomed.info/sct,430193006,Medication reconciliation (procedure),816.27,,

@@ -1,0 +1,9 @@
+conditions_conditions_START,conditions_conditions_STOP,PATIENT,conditions_conditions_ENCOUNTER,conditions_conditions_SYSTEM,conditions_conditions_CODE,conditions_conditions_DESCRIPTION
+2023-01-01,2023-02-05,4faedf9f-2c0e-9800-943a-0930bd08c4c8,7424eefc-cab0-600c-cd2c-b4bb0ad81079,http://snomed.info/sct,314529007,Medication review due (situation)
+2023-04-09,2023-04-09,4faedf9f-2c0e-9800-943a-0930bd08c4c8,6771051f-1fac-776e-66e9-67cd175e9449,http://snomed.info/sct,314529007,Medication review due (situation)
+2023-06-11,2023-06-11,4faedf9f-2c0e-9800-943a-0930bd08c4c8,433658e0-7717-d352-b59e-aeafcc6a4ee0,http://snomed.info/sct,314529007,Medication review due (situation)
+2023-09-10,2023-12-10,4faedf9f-2c0e-9800-943a-0930bd08c4c8,718b8817-3e06-881e-04f1-75eb1f7c81e1,http://snomed.info/sct,314529007,Medication review due (situation)
+2024-03-10,2024-06-09,4faedf9f-2c0e-9800-943a-0930bd08c4c8,43eed318-4d2f-1218-cff0-084fc06a4743,http://snomed.info/sct,314529007,Medication review due (situation)
+2024-12-08,2024-12-08,4faedf9f-2c0e-9800-943a-0930bd08c4c8,9a19f6bf-0bc1-a9af-65b3-2997b38c19c1,http://snomed.info/sct,314529007,Medication review due (situation)
+2025-04-20,2025-06-08,4faedf9f-2c0e-9800-943a-0930bd08c4c8,814942f6-8d78-9a9d-9f7f-ed11748c2c83,http://snomed.info/sct,65363002,Otitis media (disorder)
+2025-06-08,2025-06-08,4faedf9f-2c0e-9800-943a-0930bd08c4c8,4f375982-9ea4-bcc2-eb8e-1ece3b897a96,http://snomed.info/sct,314529007,Medication review due (situation)

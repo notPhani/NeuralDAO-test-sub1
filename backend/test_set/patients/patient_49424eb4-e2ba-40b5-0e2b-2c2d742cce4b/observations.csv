@@ -1,0 +1,205 @@
+observations_observations_DATE,PATIENT,observations_observations_ENCOUNTER,observations_observations_CATEGORY,observations_observations_CODE,observations_observations_DESCRIPTION,observations_observations_VALUE,observations_observations_UNITS,observations_observations_TYPE
+2015-11-03T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,34852be6-146c-d47b-2ded-d346da983016,vital-signs,8302-2,Body Height,137.9,cm,numeric
+2015-11-03T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,34852be6-146c-d47b-2ded-d346da983016,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2015-11-03T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,34852be6-146c-d47b-2ded-d346da983016,vital-signs,29463-7,Body Weight,35.8,kg,numeric
+2015-11-03T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,34852be6-146c-d47b-2ded-d346da983016,vital-signs,39156-5,Body mass index (BMI) [Ratio],18.8,kg/m2,numeric
+2015-11-03T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,34852be6-146c-d47b-2ded-d346da983016,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,91.0,%,numeric
+2015-11-03T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,34852be6-146c-d47b-2ded-d346da983016,vital-signs,8462-4,Diastolic Blood Pressure,82.0,mm[Hg],numeric
+2015-11-03T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,34852be6-146c-d47b-2ded-d346da983016,vital-signs,8480-6,Systolic Blood Pressure,123.0,mm[Hg],numeric
+2015-11-03T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,34852be6-146c-d47b-2ded-d346da983016,vital-signs,8867-4,Heart rate,87.0,/min,numeric
+2015-11-03T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,34852be6-146c-d47b-2ded-d346da983016,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2015-11-03T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,34852be6-146c-d47b-2ded-d346da983016,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2016-11-08T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,58a5fd4d-db41-32b7-d2a2-f64e617c11c6,vital-signs,8302-2,Body Height,144.8,cm,numeric
+2016-11-08T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,58a5fd4d-db41-32b7-d2a2-f64e617c11c6,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1.0,{score},numeric
+2016-11-08T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,58a5fd4d-db41-32b7-d2a2-f64e617c11c6,vital-signs,29463-7,Body Weight,38.0,kg,numeric
+2016-11-08T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,58a5fd4d-db41-32b7-d2a2-f64e617c11c6,vital-signs,39156-5,Body mass index (BMI) [Ratio],18.1,kg/m2,numeric
+2016-11-08T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,58a5fd4d-db41-32b7-d2a2-f64e617c11c6,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,80.5,%,numeric
+2016-11-08T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,58a5fd4d-db41-32b7-d2a2-f64e617c11c6,vital-signs,8462-4,Diastolic Blood Pressure,82.0,mm[Hg],numeric
+2016-11-08T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,58a5fd4d-db41-32b7-d2a2-f64e617c11c6,vital-signs,8480-6,Systolic Blood Pressure,126.0,mm[Hg],numeric
+2016-11-08T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,58a5fd4d-db41-32b7-d2a2-f64e617c11c6,vital-signs,8867-4,Heart rate,75.0,/min,numeric
+2016-11-08T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,58a5fd4d-db41-32b7-d2a2-f64e617c11c6,vital-signs,9279-1,Respiratory rate,16.0,/min,numeric
+2016-11-08T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,58a5fd4d-db41-32b7-d2a2-f64e617c11c6,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2017-11-14T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,26bf99fe-3a3b-a75e-bf69-b4bf7139bfe7,vital-signs,8302-2,Body Height,150.6,cm,numeric
+2017-11-14T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,26bf99fe-3a3b-a75e-bf69-b4bf7139bfe7,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2017-11-14T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,26bf99fe-3a3b-a75e-bf69-b4bf7139bfe7,vital-signs,29463-7,Body Weight,42.1,kg,numeric
+2017-11-14T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,26bf99fe-3a3b-a75e-bf69-b4bf7139bfe7,vital-signs,39156-5,Body mass index (BMI) [Ratio],18.6,kg/m2,numeric
+2017-11-14T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,26bf99fe-3a3b-a75e-bf69-b4bf7139bfe7,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,78.4,%,numeric
+2017-11-14T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,26bf99fe-3a3b-a75e-bf69-b4bf7139bfe7,vital-signs,8462-4,Diastolic Blood Pressure,86.0,mm[Hg],numeric
+2017-11-14T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,26bf99fe-3a3b-a75e-bf69-b4bf7139bfe7,vital-signs,8480-6,Systolic Blood Pressure,125.0,mm[Hg],numeric
+2017-11-14T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,26bf99fe-3a3b-a75e-bf69-b4bf7139bfe7,vital-signs,8867-4,Heart rate,87.0,/min,numeric
+2017-11-14T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,26bf99fe-3a3b-a75e-bf69-b4bf7139bfe7,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2017-11-14T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,26bf99fe-3a3b-a75e-bf69-b4bf7139bfe7,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,vital-signs,8302-2,Body Height,156.3,cm,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,vital-signs,29463-7,Body Weight,48.5,kg,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,vital-signs,39156-5,Body mass index (BMI) [Ratio],19.8,kg/m2,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,82.7,%,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,vital-signs,8462-4,Diastolic Blood Pressure,87.0,mm[Hg],numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,vital-signs,8480-6,Systolic Blood Pressure,125.0,mm[Hg],numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,vital-signs,8867-4,Heart rate,71.0,/min,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.8,10*3/uL,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,4.3,10*6/uL,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,16.5,g/dL,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,48.5,%,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,laboratory,787-2,MCV [Entitic volume] by Automated count,84.8,fL,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,laboratory,785-6,MCH [Entitic mass] by Automated count,29.6,pg,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,laboratory,786-4,MCHC [Mass/volume] by Automated count,34.9,g/dL,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,laboratory,21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,41.8,fL,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,153.9,10*3/uL,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,laboratory,32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,464.3,fL,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,laboratory,32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count,10.3,fL,numeric
+2018-11-20T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1438a732-4601-e410-e978-2dd1231888d7,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2019-11-26T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,60053416-3623-efc4-948a-09f779be0b70,vital-signs,8302-2,Body Height,162.7,cm,numeric
+2019-11-26T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,60053416-3623-efc4-948a-09f779be0b70,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2019-11-26T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,60053416-3623-efc4-948a-09f779be0b70,vital-signs,29463-7,Body Weight,52.4,kg,numeric
+2019-11-26T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,60053416-3623-efc4-948a-09f779be0b70,vital-signs,39156-5,Body mass index (BMI) [Ratio],19.8,kg/m2,numeric
+2019-11-26T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,60053416-3623-efc4-948a-09f779be0b70,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,76.0,%,numeric
+2019-11-26T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,60053416-3623-efc4-948a-09f779be0b70,vital-signs,8462-4,Diastolic Blood Pressure,85.0,mm[Hg],numeric
+2019-11-26T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,60053416-3623-efc4-948a-09f779be0b70,vital-signs,8480-6,Systolic Blood Pressure,120.0,mm[Hg],numeric
+2019-11-26T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,60053416-3623-efc4-948a-09f779be0b70,vital-signs,8867-4,Heart rate,73.0,/min,numeric
+2019-11-26T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,60053416-3623-efc4-948a-09f779be0b70,vital-signs,9279-1,Respiratory rate,13.0,/min,numeric
+2019-11-26T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,60053416-3623-efc4-948a-09f779be0b70,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2019-11-27T00:05:00Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,60053416-3623-efc4-948a-09f779be0b70,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],6.0,{score},numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,6206-7,Peanut IgE Ab [Units/volume] in Serum,0.2,kU/L,numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,6273-7,Walnut IgE Ab [Units/volume] in Serum,0.3,kU/L,numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,6082-2,Codfish IgE Ab [Units/volume] in Serum,0.2,kU/L,numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,6246-3,Shrimp IgE Ab [Units/volume] in Serum,0.0,kU/L,numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,6276-0,Wheat IgE Ab [Units/volume] in Serum,0.2,kU/L,numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,6106-9,Egg white IgE Ab [Units/volume] in Serum,0.3,kU/L,numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,6248-9,Soybean IgE Ab [Units/volume] in Serum,0.2,kU/L,numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,7258-7,Cow milk IgE Ab [Units/volume] in Serum,0.3,kU/L,numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,6189-5,White oak IgE Ab [Units/volume] in Serum,0.2,kU/L,numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,6085-5,Common Ragweed IgE Ab [Units/volume] in Serum,0.2,kU/L,numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,6833-8,Cat dander IgE Ab [Units/volume] in Serum,0.0,kU/L,numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,6095-4,American house dust mite IgE Ab [Units/volume] in Serum,0.1,kU/L,numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,6075-6,Cladosporium herbarum IgE Ab [Units/volume] in Serum,0.3,kU/L,numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,6844-5,Honey bee IgE Ab [Units/volume] in Serum,0.3,kU/L,numeric
+2020-11-11T00:16:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,5fc9c55b-480b-5c49-0037-6d0d10047a80,laboratory,6158-0,Latex IgE Ab [Units/volume] in Serum,0.1,kU/L,numeric
+2020-12-01T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,e12b3127-5bc7-7eec-3177-f582cd1f59fd,vital-signs,8302-2,Body Height,170.3,cm,numeric
+2020-12-01T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,e12b3127-5bc7-7eec-3177-f582cd1f59fd,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2020-12-01T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,e12b3127-5bc7-7eec-3177-f582cd1f59fd,vital-signs,29463-7,Body Weight,62.5,kg,numeric
+2020-12-01T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,e12b3127-5bc7-7eec-3177-f582cd1f59fd,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.6,kg/m2,numeric
+2020-12-01T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,e12b3127-5bc7-7eec-3177-f582cd1f59fd,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,83.3,%,numeric
+2020-12-01T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,e12b3127-5bc7-7eec-3177-f582cd1f59fd,vital-signs,8462-4,Diastolic Blood Pressure,81.0,mm[Hg],numeric
+2020-12-01T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,e12b3127-5bc7-7eec-3177-f582cd1f59fd,vital-signs,8480-6,Systolic Blood Pressure,118.0,mm[Hg],numeric
+2020-12-01T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,e12b3127-5bc7-7eec-3177-f582cd1f59fd,vital-signs,8867-4,Heart rate,61.0,/min,numeric
+2020-12-01T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,e12b3127-5bc7-7eec-3177-f582cd1f59fd,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2020-12-01T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,e12b3127-5bc7-7eec-3177-f582cd1f59fd,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2020-12-02T00:19:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,e12b3127-5bc7-7eec-3177-f582cd1f59fd,survey,89204-2,Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],3.0,{score},numeric
+2021-01-05T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1342c4cd-7984-28e7-be79-82d064b576b1,vital-signs,8302-2,Body Height,171.0,cm,numeric
+2021-01-05T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1342c4cd-7984-28e7-be79-82d064b576b1,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+2021-01-05T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1342c4cd-7984-28e7-be79-82d064b576b1,vital-signs,29463-7,Body Weight,63.5,kg,numeric
+2021-01-05T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1342c4cd-7984-28e7-be79-82d064b576b1,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.7,kg/m2,numeric
+2021-01-05T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1342c4cd-7984-28e7-be79-82d064b576b1,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,84.0,%,numeric
+2021-01-05T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1342c4cd-7984-28e7-be79-82d064b576b1,vital-signs,8462-4,Diastolic Blood Pressure,84.0,mm[Hg],numeric
+2021-01-05T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1342c4cd-7984-28e7-be79-82d064b576b1,vital-signs,8480-6,Systolic Blood Pressure,118.0,mm[Hg],numeric
+2021-01-05T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1342c4cd-7984-28e7-be79-82d064b576b1,vital-signs,8867-4,Heart rate,74.0,/min,numeric
+2021-01-05T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1342c4cd-7984-28e7-be79-82d064b576b1,vital-signs,9279-1,Respiratory rate,13.0,/min,numeric
+2021-01-05T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1342c4cd-7984-28e7-be79-82d064b576b1,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2021-01-06T00:11:17Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1342c4cd-7984-28e7-be79-82d064b576b1,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],3.0,{score},numeric
+2021-01-06T00:47:01Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,1342c4cd-7984-28e7-be79-82d064b576b1,survey,89204-2,Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],2.0,{score},numeric
+2021-12-07T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ce8a32e-4cde-427e-78bf-3db2f3e78e39,vital-signs,8302-2,Body Height,178.4,cm,numeric
+2021-12-07T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ce8a32e-4cde-427e-78bf-3db2f3e78e39,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1.0,{score},numeric
+2021-12-07T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ce8a32e-4cde-427e-78bf-3db2f3e78e39,vital-signs,29463-7,Body Weight,75.0,kg,numeric
+2021-12-07T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ce8a32e-4cde-427e-78bf-3db2f3e78e39,vital-signs,39156-5,Body mass index (BMI) [Ratio],23.6,kg/m2,numeric
+2021-12-07T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ce8a32e-4cde-427e-78bf-3db2f3e78e39,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,88.7,%,numeric
+2021-12-07T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ce8a32e-4cde-427e-78bf-3db2f3e78e39,vital-signs,8462-4,Diastolic Blood Pressure,86.0,mm[Hg],numeric
+2021-12-07T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ce8a32e-4cde-427e-78bf-3db2f3e78e39,vital-signs,8480-6,Systolic Blood Pressure,125.0,mm[Hg],numeric
+2021-12-07T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ce8a32e-4cde-427e-78bf-3db2f3e78e39,vital-signs,8867-4,Heart rate,87.0,/min,numeric
+2021-12-07T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ce8a32e-4cde-427e-78bf-3db2f3e78e39,vital-signs,9279-1,Respiratory rate,16.0,/min,numeric
+2021-12-07T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ce8a32e-4cde-427e-78bf-3db2f3e78e39,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2021-12-08T00:06:33Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ce8a32e-4cde-427e-78bf-3db2f3e78e39,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],1.0,{score},numeric
+2021-12-08T00:45:43Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ce8a32e-4cde-427e-78bf-3db2f3e78e39,survey,89204-2,Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],1.0,{score},numeric
+2022-12-13T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ddb9f24-0b2a-9a62-068a-3ffb2fec0758,vital-signs,8302-2,Body Height,183.5,cm,numeric
+2022-12-13T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ddb9f24-0b2a-9a62-068a-3ffb2fec0758,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2022-12-13T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ddb9f24-0b2a-9a62-068a-3ffb2fec0758,vital-signs,29463-7,Body Weight,77.9,kg,numeric
+2022-12-13T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ddb9f24-0b2a-9a62-068a-3ffb2fec0758,vital-signs,39156-5,Body mass index (BMI) [Ratio],23.1,kg/m2,numeric
+2022-12-13T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ddb9f24-0b2a-9a62-068a-3ffb2fec0758,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,82.9,%,numeric
+2022-12-13T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ddb9f24-0b2a-9a62-068a-3ffb2fec0758,vital-signs,8462-4,Diastolic Blood Pressure,86.0,mm[Hg],numeric
+2022-12-13T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ddb9f24-0b2a-9a62-068a-3ffb2fec0758,vital-signs,8480-6,Systolic Blood Pressure,125.0,mm[Hg],numeric
+2022-12-13T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ddb9f24-0b2a-9a62-068a-3ffb2fec0758,vital-signs,8867-4,Heart rate,84.0,/min,numeric
+2022-12-13T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ddb9f24-0b2a-9a62-068a-3ffb2fec0758,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2022-12-13T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ddb9f24-0b2a-9a62-068a-3ffb2fec0758,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2022-12-14T00:01:53Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ddb9f24-0b2a-9a62-068a-3ffb2fec0758,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],12.0,{score},numeric
+2022-12-14T00:38:28Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,3ddb9f24-0b2a-9a62-068a-3ffb2fec0758,survey,89204-2,Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],0.0,{score},numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,vital-signs,8302-2,Body Height,186.4,cm,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1.0,{score},numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,vital-signs,29463-7,Body Weight,76.5,kg,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,vital-signs,39156-5,Body mass index (BMI) [Ratio],22.0,kg/m2,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,67.8,%,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,vital-signs,8462-4,Diastolic Blood Pressure,81.0,mm[Hg],numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,vital-signs,8480-6,Systolic Blood Pressure,115.0,mm[Hg],numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,vital-signs,8867-4,Heart rate,83.0,/min,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,vital-signs,9279-1,Respiratory rate,12.0,/min,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,7.1,10*3/uL,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,4.8,10*6/uL,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,14.0,g/dL,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,36.4,%,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,laboratory,787-2,MCV [Entitic volume] by Automated count,86.6,fL,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,laboratory,785-6,MCH [Entitic mass] by Automated count,32.0,pg,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,laboratory,786-4,MCHC [Mass/volume] by Automated count,35.0,g/dL,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,laboratory,21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,44.2,fL,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,373.2,10*3/uL,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,laboratory,32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,282.5,fL,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,laboratory,32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count,9.4,fL,numeric
+2023-12-19T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2023-12-19T23:59:50Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],4.0,{score},numeric
+2023-12-20T00:40:02Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,563f1ac1-6f62-3bed-1ac9-c6a7cdba50b2,survey,89204-2,Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],3.0,{score},numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,6206-7,Peanut IgE Ab [Units/volume] in Serum,0.3,kU/L,numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,6273-7,Walnut IgE Ab [Units/volume] in Serum,0.0,kU/L,numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,6082-2,Codfish IgE Ab [Units/volume] in Serum,0.3,kU/L,numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,6246-3,Shrimp IgE Ab [Units/volume] in Serum,0.3,kU/L,numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,6276-0,Wheat IgE Ab [Units/volume] in Serum,0.2,kU/L,numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,6106-9,Egg white IgE Ab [Units/volume] in Serum,0.1,kU/L,numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,6248-9,Soybean IgE Ab [Units/volume] in Serum,0.1,kU/L,numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,7258-7,Cow milk IgE Ab [Units/volume] in Serum,0.0,kU/L,numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,6189-5,White oak IgE Ab [Units/volume] in Serum,0.1,kU/L,numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,6085-5,Common Ragweed IgE Ab [Units/volume] in Serum,0.3,kU/L,numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,6833-8,Cat dander IgE Ab [Units/volume] in Serum,0.3,kU/L,numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,6095-4,American house dust mite IgE Ab [Units/volume] in Serum,0.3,kU/L,numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,6075-6,Cladosporium herbarum IgE Ab [Units/volume] in Serum,0.2,kU/L,numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,6844-5,Honey bee IgE Ab [Units/volume] in Serum,0.3,kU/L,numeric
+2024-11-01T15:44:45Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b3e54d98-e553-4c7f-011b-16cc13e5232d,laboratory,6158-0,Latex IgE Ab [Units/volume] in Serum,0.2,kU/L,numeric
+2024-12-24T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b9f13b27-6fd1-e6ef-5d38-760c7d975c3b,vital-signs,8302-2,Body Height,187.8,cm,numeric
+2024-12-24T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b9f13b27-6fd1-e6ef-5d38-760c7d975c3b,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2024-12-24T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b9f13b27-6fd1-e6ef-5d38-760c7d975c3b,vital-signs,29463-7,Body Weight,81.4,kg,numeric
+2024-12-24T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b9f13b27-6fd1-e6ef-5d38-760c7d975c3b,vital-signs,39156-5,Body mass index (BMI) [Ratio],23.1,kg/m2,numeric
+2024-12-24T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b9f13b27-6fd1-e6ef-5d38-760c7d975c3b,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,71.2,%,numeric
+2024-12-24T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b9f13b27-6fd1-e6ef-5d38-760c7d975c3b,vital-signs,8462-4,Diastolic Blood Pressure,87.0,mm[Hg],numeric
+2024-12-24T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b9f13b27-6fd1-e6ef-5d38-760c7d975c3b,vital-signs,8480-6,Systolic Blood Pressure,113.0,mm[Hg],numeric
+2024-12-24T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b9f13b27-6fd1-e6ef-5d38-760c7d975c3b,vital-signs,8867-4,Heart rate,90.0,/min,numeric
+2024-12-24T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b9f13b27-6fd1-e6ef-5d38-760c7d975c3b,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2024-12-24T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b9f13b27-6fd1-e6ef-5d38-760c7d975c3b,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2024-12-25T00:11:34Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b9f13b27-6fd1-e6ef-5d38-760c7d975c3b,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],7.0,{score},numeric
+2024-12-25T00:44:19Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,b9f13b27-6fd1-e6ef-5d38-760c7d975c3b,survey,89204-2,Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],6.0,{score},numeric
+2015-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QALY,QALY,7.0,a,numeric
+2016-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QALY,QALY,8.0,a,numeric
+2017-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QALY,QALY,9.0,a,numeric
+2018-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QALY,QALY,10.0,a,numeric
+2019-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QALY,QALY,11.0,a,numeric
+2020-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QALY,QALY,12.0,a,numeric
+2021-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QALY,QALY,13.0,a,numeric
+2022-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QALY,QALY,14.0,a,numeric
+2023-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QALY,QALY,15.0,a,numeric
+2024-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QALY,QALY,16.0,a,numeric
+2015-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,DALY,DALY,0.0,a,numeric
+2016-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,DALY,DALY,0.0,a,numeric
+2017-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,DALY,DALY,0.0,a,numeric
+2018-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,DALY,DALY,0.0,a,numeric
+2019-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,DALY,DALY,0.0,a,numeric
+2020-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,DALY,DALY,0.0,a,numeric
+2021-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,DALY,DALY,0.0,a,numeric
+2022-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,DALY,DALY,0.0,a,numeric
+2023-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,DALY,DALY,0.0,a,numeric
+2024-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,DALY,DALY,0.0,a,numeric
+2015-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QOLS,QOLS,1.0,{score},numeric
+2016-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QOLS,QOLS,1.0,{score},numeric
+2017-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QOLS,QOLS,1.0,{score},numeric
+2018-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QOLS,QOLS,1.0,{score},numeric
+2019-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QOLS,QOLS,1.0,{score},numeric
+2020-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QOLS,QOLS,1.0,{score},numeric
+2021-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QOLS,QOLS,1.0,{score},numeric
+2022-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QOLS,QOLS,1.0,{score},numeric
+2023-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QOLS,QOLS,1.0,{score},numeric
+2024-11-06T23:42:20Z,49424eb4-e2ba-40b5-0e2b-2c2d742cce4b,,,QOLS,QOLS,1.0,{score},numeric

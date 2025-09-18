@@ -1,0 +1,12 @@
+PATIENT,payer_transitions_payer_transitions_MEMBERID,payer_transitions_payer_transitions_START_DATE,payer_transitions_payer_transitions_END_DATE,payer_transitions_payer_transitions_PAYER,payer_transitions_payer_transitions_SECONDARY_PAYER,payer_transitions_payer_transitions_PLAN_OWNERSHIP,payer_transitions_payer_transitions_OWNER_NAME
+b9bacf2f-7027-2e05-fa5b-19167071fdde,eb7b5d67-58de-5ccb-a421-5c1f7a7c04ff,2014-10-17T10:00:50Z,2015-10-16T10:00:50Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Rippin620
+b9bacf2f-7027-2e05-fa5b-19167071fdde,26a0db37-c3c8-ce65-fd52-bac6f9a0733e,2015-10-16T10:00:50Z,2016-10-14T10:00:50Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Rippin620
+b9bacf2f-7027-2e05-fa5b-19167071fdde,5288ad71-e15e-708f-58a0-a14541dbee69,2016-10-14T10:00:50Z,2017-10-13T10:00:50Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Rippin620
+b9bacf2f-7027-2e05-fa5b-19167071fdde,5613a464-a805-750c-ce4d-a19ea0697efe,2017-10-13T10:00:50Z,2018-10-12T10:00:50Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Breana975 Diana207 Rippin620
+b9bacf2f-7027-2e05-fa5b-19167071fdde,10c03ba0-f2eb-d5df-5658-c00e243f7d5b,2018-10-12T10:00:50Z,2019-10-18T10:00:50Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Rippin620
+b9bacf2f-7027-2e05-fa5b-19167071fdde,f7d260e5-60af-33de-54df-65643d1e8554,2019-10-18T10:00:50Z,2020-10-16T10:00:50Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Rippin620
+b9bacf2f-7027-2e05-fa5b-19167071fdde,e9b547f0-bc51-a12d-d932-990c2ec14e29,2020-10-16T10:00:50Z,2021-10-15T10:00:50Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Rippin620
+b9bacf2f-7027-2e05-fa5b-19167071fdde,9e8ea0b2-5436-429c-7fc1-3d6af92454d9,2021-10-15T10:00:50Z,2022-10-14T10:00:50Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Breana975 Diana207 Rippin620
+b9bacf2f-7027-2e05-fa5b-19167071fdde,304118b9-c8e5-bcc2-f8e2-9d442e9b11b5,2022-10-14T10:00:50Z,2023-10-13T10:00:50Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Breana975 Diana207 Rippin620
+b9bacf2f-7027-2e05-fa5b-19167071fdde,13a3798b-7f39-2e93-bd92-16c9c120a5fa,2023-10-13T10:00:50Z,2024-10-18T10:00:50Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Rippin620
+b9bacf2f-7027-2e05-fa5b-19167071fdde,d906c6ed-2d3a-6cd9-40da-765a0edbab8c,2024-10-18T10:00:50Z,2025-10-12T10:00:50Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Rippin620

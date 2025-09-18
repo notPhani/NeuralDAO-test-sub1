@@ -1,0 +1,13 @@
+conditions_conditions_START,conditions_conditions_STOP,PATIENT,conditions_conditions_ENCOUNTER,conditions_conditions_SYSTEM,conditions_conditions_CODE,conditions_conditions_DESCRIPTION
+2021-04-19,2021-04-19,13ac6eee-8cf1-e597-1c91-453c8f069a3c,f13eb3cf-3988-1363-9e38-885b01099c55,http://snomed.info/sct,314529007,Medication review due (situation)
+2021-05-24,2021-05-24,13ac6eee-8cf1-e597-1c91-453c8f069a3c,cef86982-6e35-5a91-62b2-ea5662d7055d,http://snomed.info/sct,314529007,Medication review due (situation)
+2021-07-26,2021-07-26,13ac6eee-8cf1-e597-1c91-453c8f069a3c,14d6a0dd-a27e-e070-d9bb-689bc7503e48,http://snomed.info/sct,314529007,Medication review due (situation)
+2021-09-27,2021-09-27,13ac6eee-8cf1-e597-1c91-453c8f069a3c,d3541dd7-1883-bdfc-7b7f-cc048f04b385,http://snomed.info/sct,314529007,Medication review due (situation)
+2021-12-27,2021-12-27,13ac6eee-8cf1-e597-1c91-453c8f069a3c,aa02a663-215d-eefe-0b90-c7abd46e302d,http://snomed.info/sct,314529007,Medication review due (situation)
+2022-03-28,2022-06-27,13ac6eee-8cf1-e597-1c91-453c8f069a3c,70de5728-0354-28c3-1373-35bd2e9ec37b,http://snomed.info/sct,314529007,Medication review due (situation)
+2022-09-26,2022-09-26,13ac6eee-8cf1-e597-1c91-453c8f069a3c,c737b772-c71c-12de-8ae5-ba106b9b8079,http://snomed.info/sct,314529007,Medication review due (situation)
+2023-03-27,2024-09-23,13ac6eee-8cf1-e597-1c91-453c8f069a3c,4769dfc1-e1e3-935c-1f48-0b09e1c7cdaa,http://snomed.info/sct,314529007,Medication review due (situation)
+2024-09-30,2024-09-30,13ac6eee-8cf1-e597-1c91-453c8f069a3c,93d6dd9f-a76a-8238-1dc8-43255e7dcb0a,http://snomed.info/sct,427898007,Infection of tooth (disorder)
+2024-10-05,2024-10-05,13ac6eee-8cf1-e597-1c91-453c8f069a3c,c1415540-260f-9b97-d00f-90bbbb65fcb9,http://snomed.info/sct,61804006,Alveolitis of jaw (disorder)
+2025-03-24,,13ac6eee-8cf1-e597-1c91-453c8f069a3c,1db36a27-ccb1-1cf2-a7b7-20ad47b02b15,http://snomed.info/sct,314529007,Medication review due (situation)
+2025-06-27,,13ac6eee-8cf1-e597-1c91-453c8f069a3c,16c58a59-3edf-8145-e52d-5f877c2e0c55,http://snomed.info/sct,65363002,Otitis media (disorder)

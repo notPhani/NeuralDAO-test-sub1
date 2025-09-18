@@ -1,0 +1,5 @@
+allergies_allergies_START,allergies_allergies_STOP,PATIENT,allergies_allergies_ENCOUNTER,allergies_allergies_CODE,allergies_allergies_SYSTEM,allergies_allergies_DESCRIPTION,allergies_allergies_TYPE,allergies_allergies_CATEGORY,allergies_allergies_REACTION1,allergies_allergies_DESCRIPTION1,allergies_allergies_SEVERITY1,allergies_allergies_REACTION2,allergies_allergies_DESCRIPTION2,allergies_allergies_SEVERITY2
+1999-03-08,,3477fa4e-a09a-e779-5d56-eeb00dee758b,a3064106-7403-4534-c04d-4ade70ec437c,609328004,SNOMED-CT,Allergic disposition (finding),allergy,environment,,,,,,
+1999-03-08,,3477fa4e-a09a-e779-5d56-eeb00dee758b,a3064106-7403-4534-c04d-4ade70ec437c,264287008,SNOMED-CT,Animal dander (substance),allergy,environment,267036007.0,Dyspnea (finding),MILD,,,
+1999-03-08,,3477fa4e-a09a-e779-5d56-eeb00dee758b,a3064106-7403-4534-c04d-4ade70ec437c,29046,RxNorm,Lisinopril,intolerance,medication,267036007.0,Dyspnea (finding),MODERATE,,,
+1999-03-08,,3477fa4e-a09a-e779-5d56-eeb00dee758b,a3064106-7403-4534-c04d-4ade70ec437c,1191,RxNorm,Aspirin,allergy,medication,21522001.0,Abdominal pain (finding),MODERATE,,,

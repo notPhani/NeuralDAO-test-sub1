@@ -1,0 +1,454 @@
+observations_observations_DATE,PATIENT,observations_observations_ENCOUNTER,observations_observations_CATEGORY,observations_observations_CODE,observations_observations_DESCRIPTION,observations_observations_VALUE,observations_observations_UNITS,observations_observations_TYPE
+2016-02-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,vital-signs,8302-2,Body Height,162.0,cm,numeric
+2016-02-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2016-02-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,vital-signs,29463-7,Body Weight,56.9,kg,numeric
+2016-02-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.7,kg/m2,numeric
+2016-02-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,vital-signs,8462-4,Diastolic Blood Pressure,84.0,mm[Hg],numeric
+2016-02-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,vital-signs,8480-6,Systolic Blood Pressure,103.0,mm[Hg],numeric
+2016-02-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,vital-signs,8867-4,Heart rate,88.0,/min,numeric
+2016-02-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,vital-signs,9279-1,Respiratory rate,13.0,/min,numeric
+2016-02-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,126.3,mg/dL,numeric
+2016-02-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,laboratory,2571-8,Triglycerides,123.4,mg/dL,numeric
+2016-02-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,laboratory,18262-6,Low Density Lipoprotein Cholesterol,45.3,mg/dL,numeric
+2016-02-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,56.3,mg/dL,numeric
+2016-02-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,93027-1,Are you a refugee?,No,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,93038-8,Stress level,A little bit,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,3 to 5 times a week,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,Yes  it has kept me from medical appointments or from getting my medications,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,34844,/a,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,76437-3,Primary insurance,Private insurance,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,67875-5,Employment status - current,Full-time work,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,82589-3,Highest level of education,More than high school,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,56799-0,Address,275 Nicolas Station Apt 56,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,93033-9,Are you worried about losing your housing?,No,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,71802-3,Housing status,I have housing,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,63512-8,How many people are living or staying at this address?,4.0,{#},numeric
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,54899-0,Preferred language,English,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,32624-9,Race,White,,text
+2016-02-29T19:14:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2016-02-29T19:39:56Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,76504-0,Total score [HARK],4.0,{score},numeric
+2016-02-29T20:13:29Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1.0,{score},numeric
+2016-02-29T20:48:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,14e5baad-d171-354a-f36b-0a975f2753c9,survey,82667-7,Total score [DAST-10],1.0,{score},numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,vital-signs,8302-2,Body Height,162.0,cm,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,vital-signs,29463-7,Body Weight,56.9,kg,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.7,kg/m2,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,vital-signs,8462-4,Diastolic Blood Pressure,86.0,mm[Hg],numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,vital-signs,8480-6,Systolic Blood Pressure,107.0,mm[Hg],numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,vital-signs,8867-4,Heart rate,79.0,/min,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,6.8,10*3/uL,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,4.5,10*6/uL,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,14.8,g/dL,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,41.8,%,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,laboratory,787-2,MCV [Entitic volume] by Automated count,87.6,fL,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,laboratory,785-6,MCH [Entitic mass] by Automated count,27.9,pg,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,laboratory,786-4,MCHC [Mass/volume] by Automated count,33.4,g/dL,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,laboratory,21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,42.8,fL,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,423.0,10*3/uL,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,laboratory,32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,272.0,fL,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,laboratory,32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count,11.1,fL,numeric
+2017-03-06T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,93027-1,Are you a refugee?,No,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,93038-8,Stress level,Not at all,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,3 to 5 times a week,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,34844,/a,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,76437-3,Primary insurance,Private insurance,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,67875-5,Employment status - current,Unemployed,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,82589-3,Highest level of education,More than high school,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,56799-0,Address,275 Nicolas Station Apt 56,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,93033-9,Are you worried about losing your housing?,No,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,71802-3,Housing status,I have housing,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,63512-8,How many people are living or staying at this address?,4.0,{#},numeric
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,54899-0,Preferred language,English,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,32624-9,Race,White,,text
+2017-03-06T19:13:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2017-03-06T19:46:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1.0,{score},numeric
+2017-03-06T20:22:34Z,97a046ab-d147-2707-d4cd-cba26c5360ad,361a619e-7004-fa95-97f3-942db14ebdb5,survey,75626-2,Total score [AUDIT-C],0.0,{score},numeric
+2018-03-12T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,vital-signs,8302-2,Body Height,162.0,cm,numeric
+2018-03-12T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,0.0,{score},numeric
+2018-03-12T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,vital-signs,29463-7,Body Weight,56.9,kg,numeric
+2018-03-12T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.7,kg/m2,numeric
+2018-03-12T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,vital-signs,8462-4,Diastolic Blood Pressure,87.0,mm[Hg],numeric
+2018-03-12T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,vital-signs,8480-6,Systolic Blood Pressure,99.0,mm[Hg],numeric
+2018-03-12T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,vital-signs,8867-4,Heart rate,92.0,/min,numeric
+2018-03-12T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,vital-signs,9279-1,Respiratory rate,12.0,/min,numeric
+2018-03-12T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,93027-1,Are you a refugee?,No,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,93038-8,Stress level,Quite a bit,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,1 or 2 times a week,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,Yes  it has kept me from medical appointments or from getting my medications,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,Medicine or Any Health Care (Medical  Dental  Mental Health  Vision),,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,34844,/a,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,76437-3,Primary insurance,Private insurance,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,67875-5,Employment status - current,Full-time work,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,82589-3,Highest level of education,More than high school,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,56799-0,Address,275 Nicolas Station Apt 56,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,93033-9,Are you worried about losing your housing?,No,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,71802-3,Housing status,I have housing,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,63512-8,How many people are living or staying at this address?,4.0,{#},numeric
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,54899-0,Preferred language,English,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,32624-9,Race,White,,text
+2018-03-12T19:26:07Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2018-03-12T20:00:38Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,76504-0,Total score [HARK],0.0,{score},numeric
+2018-03-12T20:41:37Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1.0,{score},numeric
+2018-03-12T21:21:00Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e7d4cdaa-0600-4925-115e-bec34c88a0f6,survey,82667-7,Total score [DAST-10],1.0,{score},numeric
+2019-03-18T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,vital-signs,8302-2,Body Height,162.0,cm,numeric
+2019-03-18T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2019-03-18T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,vital-signs,29463-7,Body Weight,56.9,kg,numeric
+2019-03-18T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.7,kg/m2,numeric
+2019-03-18T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,vital-signs,8462-4,Diastolic Blood Pressure,81.0,mm[Hg],numeric
+2019-03-18T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,vital-signs,8480-6,Systolic Blood Pressure,97.0,mm[Hg],numeric
+2019-03-18T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,vital-signs,8867-4,Heart rate,71.0,/min,numeric
+2019-03-18T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2019-03-18T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,122.0,mg/dL,numeric
+2019-03-18T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,laboratory,2571-8,Triglycerides,144.0,mg/dL,numeric
+2019-03-18T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,laboratory,18262-6,Low Density Lipoprotein Cholesterol,32.1,mg/dL,numeric
+2019-03-18T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,61.1,mg/dL,numeric
+2019-03-18T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,93027-1,Are you a refugee?,No,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,93038-8,Stress level,Not at all,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,5 or more times a week,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,Yes  it has kept me from medical appointments or from getting my medications,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,Clothing,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,34844,/a,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,76437-3,Primary insurance,Private insurance,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,67875-5,Employment status - current,Full-time work,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,82589-3,Highest level of education,More than high school,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,56799-0,Address,275 Nicolas Station Apt 56,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,93033-9,Are you worried about losing your housing?,No,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,71802-3,Housing status,I have housing,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,63512-8,How many people are living or staying at this address?,4.0,{#},numeric
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,54899-0,Preferred language,English,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,32624-9,Race,White,,text
+2019-03-18T19:04:45Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2019-03-18T19:45:16Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3ff688a4-463e-e7bb-e1bc-65a0998004ba,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1.0,{score},numeric
+2020-03-23T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,vital-signs,8302-2,Body Height,162.0,cm,numeric
+2020-03-23T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+2020-03-23T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,vital-signs,29463-7,Body Weight,56.9,kg,numeric
+2020-03-23T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.7,kg/m2,numeric
+2020-03-23T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,vital-signs,8462-4,Diastolic Blood Pressure,80.0,mm[Hg],numeric
+2020-03-23T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,vital-signs,8480-6,Systolic Blood Pressure,105.0,mm[Hg],numeric
+2020-03-23T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,vital-signs,8867-4,Heart rate,75.0,/min,numeric
+2020-03-23T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2020-03-23T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,93027-1,Are you a refugee?,No,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,93038-8,Stress level,Not at all,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,3 to 5 times a week,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,34844,/a,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,76437-3,Primary insurance,Private insurance,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,67875-5,Employment status - current,Full-time work,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,82589-3,Highest level of education,More than high school,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,56799-0,Address,275 Nicolas Station Apt 56,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,93033-9,Are you worried about losing your housing?,No,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,71802-3,Housing status,I have housing,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,63512-8,How many people are living or staying at this address?,4.0,{#},numeric
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,54899-0,Preferred language,English,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,32624-9,Race,White,,text
+2020-03-23T19:22:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2020-03-23T19:56:23Z,97a046ab-d147-2707-d4cd-cba26c5360ad,e92917ea-897c-5ad4-c001-a9951db17cd0,survey,75626-2,Total score [AUDIT-C],1.0,{score},numeric
+2021-03-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,vital-signs,8302-2,Body Height,162.0,cm,numeric
+2021-03-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2021-03-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,vital-signs,29463-7,Body Weight,56.9,kg,numeric
+2021-03-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.7,kg/m2,numeric
+2021-03-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,vital-signs,8462-4,Diastolic Blood Pressure,76.0,mm[Hg],numeric
+2021-03-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,vital-signs,8480-6,Systolic Blood Pressure,101.0,mm[Hg],numeric
+2021-03-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,vital-signs,8867-4,Heart rate,92.0,/min,numeric
+2021-03-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,vital-signs,9279-1,Respiratory rate,16.0,/min,numeric
+2021-03-29T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,93027-1,Are you a refugee?,No,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,93038-8,Stress level,Not at all,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,5 or more times a week,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,34844,/a,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,76437-3,Primary insurance,Private insurance,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,67875-5,Employment status - current,Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver),,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,82589-3,Highest level of education,More than high school,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,56799-0,Address,275 Nicolas Station Apt 56,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,93033-9,Are you worried about losing your housing?,No,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,71802-3,Housing status,I have housing,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,63512-8,How many people are living or staying at this address?,4.0,{#},numeric
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,54899-0,Preferred language,English,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,32624-9,Race,White,,text
+2021-03-29T19:20:32Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2021-03-29T19:41:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],1.0,{score},numeric
+2021-03-29T20:12:01Z,97a046ab-d147-2707-d4cd-cba26c5360ad,37deb483-2c6c-66d5-409b-98691efc7ad6,survey,75626-2,Total score [AUDIT-C],2.0,{score},numeric
+2021-12-20T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,vital-signs,8302-2,Body Height,162.0,cm,numeric
+2021-12-20T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2021-12-20T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,vital-signs,29463-7,Body Weight,56.9,kg,numeric
+2021-12-20T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.7,kg/m2,numeric
+2021-12-20T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,vital-signs,8462-4,Diastolic Blood Pressure,76.0,mm[Hg],numeric
+2021-12-20T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,vital-signs,8480-6,Systolic Blood Pressure,106.0,mm[Hg],numeric
+2021-12-20T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,vital-signs,8867-4,Heart rate,63.0,/min,numeric
+2021-12-20T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2021-12-20T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,93027-1,Are you a refugee?,No,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,93038-8,Stress level,Somewhat,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,3 to 5 times a week,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,Food,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,34844,/a,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,76437-3,Primary insurance,Private insurance,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,67875-5,Employment status - current,Unemployed,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,82589-3,Highest level of education,More than high school,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,56799-0,Address,275 Nicolas Station Apt 56,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,93033-9,Are you worried about losing your housing?,No,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,71802-3,Housing status,I have housing,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,63512-8,How many people are living or staying at this address?,4.0,{#},numeric
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,54899-0,Preferred language,English,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,32624-9,Race,White,,text
+2021-12-20T19:19:14Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2021-12-20T19:39:18Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],1.0,{score},numeric
+2021-12-20T20:18:08Z,97a046ab-d147-2707-d4cd-cba26c5360ad,3a9bb9bb-a84f-cf11-74f7-b8afecc672b6,survey,82667-7,Total score [DAST-10],0.0,{score},numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,vital-signs,8302-2,Body Height,162.0,cm,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1.0,{score},numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,vital-signs,29463-7,Body Weight,56.9,kg,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.7,kg/m2,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,vital-signs,8462-4,Diastolic Blood Pressure,84.0,mm[Hg],numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,vital-signs,8480-6,Systolic Blood Pressure,101.0,mm[Hg],numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,vital-signs,8867-4,Heart rate,74.0,/min,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,vital-signs,9279-1,Respiratory rate,12.0,/min,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,196.5,mg/dL,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,2571-8,Triglycerides,141.3,mg/dL,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,18262-6,Low Density Lipoprotein Cholesterol,120.7,mg/dL,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,47.5,mg/dL,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,4.2,10*3/uL,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,4.0,10*6/uL,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,14.5,g/dL,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,47.0,%,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,787-2,MCV [Entitic volume] by Automated count,94.7,fL,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,785-6,MCH [Entitic mass] by Automated count,27.6,pg,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,786-4,MCHC [Mass/volume] by Automated count,34.0,g/dL,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,40.1,fL,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,289.8,10*3/uL,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,326.1,fL,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,laboratory,32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count,12.2,fL,numeric
+2022-04-04T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,93027-1,Are you a refugee?,No,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,93038-8,Stress level,Not at all,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,3 to 5 times a week,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,Yes  it has kept me from medical appointments or from getting my medications,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,Food,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,34844,/a,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,76437-3,Primary insurance,Private insurance,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,67875-5,Employment status - current,Unemployed,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,82589-3,Highest level of education,More than high school,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,56799-0,Address,275 Nicolas Station Apt 56,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,93033-9,Are you worried about losing your housing?,No,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,71802-3,Housing status,I have housing,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,63512-8,How many people are living or staying at this address?,4.0,{#},numeric
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,54899-0,Preferred language,English,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,32624-9,Race,White,,text
+2022-04-04T19:30:05Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2022-04-04T19:53:53Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],4.0,{score},numeric
+2022-04-04T20:27:19Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0.0,{score},numeric
+2022-04-04T21:03:01Z,97a046ab-d147-2707-d4cd-cba26c5360ad,d523abbe-16fd-51fd-3dfa-5cfbcbe2df62,survey,75626-2,Total score [AUDIT-C],1.0,{score},numeric
+2022-08-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,vital-signs,8302-2,Body Height,162.0,cm,numeric
+2022-08-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,0.0,{score},numeric
+2022-08-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,vital-signs,29463-7,Body Weight,56.9,kg,numeric
+2022-08-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.7,kg/m2,numeric
+2022-08-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,vital-signs,8462-4,Diastolic Blood Pressure,75.0,mm[Hg],numeric
+2022-08-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,vital-signs,8480-6,Systolic Blood Pressure,105.0,mm[Hg],numeric
+2022-08-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,vital-signs,8867-4,Heart rate,74.0,/min,numeric
+2022-08-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,vital-signs,9279-1,Respiratory rate,13.0,/min,numeric
+2022-08-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,93027-1,Are you a refugee?,No,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,93038-8,Stress level,Quite a bit,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,3 to 5 times a week,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,Medicine or Any Health Care (Medical  Dental  Mental Health  Vision),,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,34844,/a,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,76437-3,Primary insurance,Private insurance,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,67875-5,Employment status - current,Full-time work,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,82589-3,Highest level of education,More than high school,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,56799-0,Address,275 Nicolas Station Apt 56,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,93033-9,Are you worried about losing your housing?,No,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,71802-3,Housing status,I have housing,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,63512-8,How many people are living or staying at this address?,4.0,{#},numeric
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,54899-0,Preferred language,English,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,32624-9,Race,White,,text
+2022-08-15T19:18:52Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2022-08-15T19:49:40Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,76504-0,Total score [HARK],0.0,{score},numeric
+2022-08-15T20:26:40Z,97a046ab-d147-2707-d4cd-cba26c5360ad,7cccce9d-1005-58a9-4785-eef24ee3a9cb,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0.0,{score},numeric
+2023-04-10T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,vital-signs,8302-2,Body Height,162.0,cm,numeric
+2023-04-10T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2023-04-10T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,vital-signs,29463-7,Body Weight,56.9,kg,numeric
+2023-04-10T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.7,kg/m2,numeric
+2023-04-10T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,vital-signs,8462-4,Diastolic Blood Pressure,86.0,mm[Hg],numeric
+2023-04-10T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,vital-signs,8480-6,Systolic Blood Pressure,105.0,mm[Hg],numeric
+2023-04-10T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,vital-signs,8867-4,Heart rate,86.0,/min,numeric
+2023-04-10T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2023-04-10T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,93027-1,Are you a refugee?,No,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,93038-8,Stress level,Not at all,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,5 or more times a week,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,Medicine or Any Health Care (Medical  Dental  Mental Health  Vision),,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,34844,/a,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,76437-3,Primary insurance,Private insurance,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,67875-5,Employment status - current,Full-time work,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,82589-3,Highest level of education,More than high school,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,56799-0,Address,275 Nicolas Station Apt 56,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,93033-9,Are you worried about losing your housing?,No,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,71802-3,Housing status,I have housing,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,63512-8,How many people are living or staying at this address?,4.0,{#},numeric
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,54899-0,Preferred language,English,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,32624-9,Race,White,,text
+2023-04-10T19:09:41Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2023-04-10T19:53:40Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],2.0,{score},numeric
+2023-04-10T20:31:36Z,97a046ab-d147-2707-d4cd-cba26c5360ad,27fa5d6d-c272-d5c3-e391-7ba1b7bc267a,survey,75626-2,Total score [AUDIT-C],0.0,{score},numeric
+2024-04-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,vital-signs,8302-2,Body Height,162.0,cm,numeric
+2024-04-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2024-04-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,vital-signs,29463-7,Body Weight,56.9,kg,numeric
+2024-04-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.7,kg/m2,numeric
+2024-04-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,vital-signs,8462-4,Diastolic Blood Pressure,86.0,mm[Hg],numeric
+2024-04-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,vital-signs,8480-6,Systolic Blood Pressure,93.0,mm[Hg],numeric
+2024-04-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,vital-signs,8867-4,Heart rate,89.0,/min,numeric
+2024-04-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2024-04-15T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,93027-1,Are you a refugee?,No,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,93038-8,Stress level,A little bit,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,3 to 5 times a week,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,Yes  it has kept me from medical appointments or from getting my medications,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,34844,/a,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,76437-3,Primary insurance,Private insurance,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,67875-5,Employment status - current,Part-time or temporary work,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,82589-3,Highest level of education,More than high school,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,56799-0,Address,275 Nicolas Station Apt 56,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,93033-9,Are you worried about losing your housing?,No,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,71802-3,Housing status,I have housing,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,63512-8,How many people are living or staying at this address?,4.0,{#},numeric
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,54899-0,Preferred language,English,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,32624-9,Race,White,,text
+2024-04-15T19:13:12Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2024-04-15T19:41:48Z,97a046ab-d147-2707-d4cd-cba26c5360ad,98b00aa9-34d2-664b-27ba-e12612745f2d,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],1.0,{score},numeric
+2025-04-21T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,vital-signs,8302-2,Body Height,162.0,cm,numeric
+2025-04-21T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1.0,{score},numeric
+2025-04-21T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,vital-signs,29463-7,Body Weight,56.9,kg,numeric
+2025-04-21T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.7,kg/m2,numeric
+2025-04-21T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,vital-signs,8462-4,Diastolic Blood Pressure,86.0,mm[Hg],numeric
+2025-04-21T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,vital-signs,8480-6,Systolic Blood Pressure,104.0,mm[Hg],numeric
+2025-04-21T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,vital-signs,8867-4,Heart rate,66.0,/min,numeric
+2025-04-21T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,vital-signs,9279-1,Respiratory rate,13.0,/min,numeric
+2025-04-21T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,159.5,mg/dL,numeric
+2025-04-21T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,laboratory,2571-8,Triglycerides,119.1,mg/dL,numeric
+2025-04-21T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,laboratory,18262-6,Low Density Lipoprotein Cholesterol,77.4,mg/dL,numeric
+2025-04-21T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,58.3,mg/dL,numeric
+2025-04-21T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,93027-1,Are you a refugee?,No,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,93038-8,Stress level,A little bit,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,5 or more times a week,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,Yes  it has kept me from medical appointments or from getting my medications,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,Medicine or Any Health Care (Medical  Dental  Mental Health  Vision),,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,34844,/a,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,76437-3,Primary insurance,Private insurance,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,67875-5,Employment status - current,Full-time work,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,82589-3,Highest level of education,More than high school,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,56799-0,Address,275 Nicolas Station Apt 56,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,93033-9,Are you worried about losing your housing?,No,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,71802-3,Housing status,I have housing,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,63512-8,How many people are living or staying at this address?,4.0,{#},numeric
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,54899-0,Preferred language,English,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,32624-9,Race,White,,text
+2025-04-21T19:20:10Z,97a046ab-d147-2707-d4cd-cba26c5360ad,09c594f6-32c2-fe2b-37c0-6d7ed748604e,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2015-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QALY,QALY,47.9,a,numeric
+2016-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QALY,QALY,48.8,a,numeric
+2017-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QALY,QALY,49.8,a,numeric
+2018-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QALY,QALY,50.8,a,numeric
+2019-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QALY,QALY,51.8,a,numeric
+2020-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QALY,QALY,52.7,a,numeric
+2021-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QALY,QALY,53.7,a,numeric
+2022-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QALY,QALY,54.7,a,numeric
+2023-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QALY,QALY,55.7,a,numeric
+2024-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QALY,QALY,56.6,a,numeric
+2025-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QALY,QALY,57.6,a,numeric
+2015-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,DALY,DALY,0.1,a,numeric
+2016-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,DALY,DALY,0.2,a,numeric
+2017-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,DALY,DALY,0.2,a,numeric
+2018-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,DALY,DALY,0.2,a,numeric
+2019-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,DALY,DALY,0.2,a,numeric
+2020-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,DALY,DALY,0.3,a,numeric
+2021-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,DALY,DALY,0.3,a,numeric
+2022-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,DALY,DALY,0.3,a,numeric
+2023-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,DALY,DALY,0.3,a,numeric
+2024-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,DALY,DALY,0.4,a,numeric
+2025-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,DALY,DALY,0.4,a,numeric
+2015-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QOLS,QOLS,1.0,{score},numeric
+2016-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QOLS,QOLS,1.0,{score},numeric
+2017-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QOLS,QOLS,1.0,{score},numeric
+2018-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QOLS,QOLS,1.0,{score},numeric
+2019-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QOLS,QOLS,1.0,{score},numeric
+2020-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QOLS,QOLS,1.0,{score},numeric
+2021-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QOLS,QOLS,1.0,{score},numeric
+2022-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QOLS,QOLS,1.0,{score},numeric
+2023-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QOLS,QOLS,1.0,{score},numeric
+2024-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QOLS,QOLS,1.0,{score},numeric
+2025-02-07T18:30:09Z,97a046ab-d147-2707-d4cd-cba26c5360ad,,,QOLS,QOLS,1.0,{score},numeric

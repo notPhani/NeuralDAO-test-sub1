@@ -1,0 +1,9 @@
+immunizations_immunizations_DATE,PATIENT,immunizations_immunizations_ENCOUNTER,immunizations_immunizations_CODE,immunizations_immunizations_DESCRIPTION,immunizations_immunizations_BASE_COST
+1965-04-15T09:40:10Z,155b0e07-d5a9-cc0c-e01a-a982c5d9a8d6,3a36b894-f731-a028-fbb1-d94625717fff,10,IPV,136.0
+1965-05-20T09:40:10Z,155b0e07-d5a9-cc0c-e01a-a982c5d9a8d6,82e49644-bb05-d649-5b87-2db6de689fb0,10,IPV,136.0
+1965-07-15T09:40:10Z,155b0e07-d5a9-cc0c-e01a-a982c5d9a8d6,4f15fbfe-53ed-53b6-e10a-1df80802a662,10,IPV,136.0
+1965-07-15T09:40:10Z,155b0e07-d5a9-cc0c-e01a-a982c5d9a8d6,4f15fbfe-53ed-53b6-e10a-1df80802a662,140,Influenza  seasonal  injectable  preservative free,136.0
+1966-12-15T09:40:10Z,155b0e07-d5a9-cc0c-e01a-a982c5d9a8d6,708afd81-4d04-7dc1-9847-18f45df5a08a,140,Influenza  seasonal  injectable  preservative free,136.0
+1967-08-03T09:40:10Z,155b0e07-d5a9-cc0c-e01a-a982c5d9a8d6,8a555f03-853c-17c8-294f-98e35fb8d87b,140,Influenza  seasonal  injectable  preservative free,136.0
+1968-09-26T09:40:10Z,155b0e07-d5a9-cc0c-e01a-a982c5d9a8d6,7aca5b73-f6b3-a402-a7fb-cb423e1b2469,140,Influenza  seasonal  injectable  preservative free,136.0
+1969-02-27T09:40:10Z,155b0e07-d5a9-cc0c-e01a-a982c5d9a8d6,9c13c50d-d2ce-7154-b355-ac1952f4dbdd,10,IPV,136.0

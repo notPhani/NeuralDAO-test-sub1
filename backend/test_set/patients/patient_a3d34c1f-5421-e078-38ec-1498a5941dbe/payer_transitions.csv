@@ -1,0 +1,12 @@
+PATIENT,payer_transitions_payer_transitions_MEMBERID,payer_transitions_payer_transitions_START_DATE,payer_transitions_payer_transitions_END_DATE,payer_transitions_payer_transitions_PAYER,payer_transitions_payer_transitions_SECONDARY_PAYER,payer_transitions_payer_transitions_PLAN_OWNERSHIP,payer_transitions_payer_transitions_OWNER_NAME
+a3d34c1f-5421-e078-38ec-1498a5941dbe,c50a488a-9cff-358e-418e-c19f43cce12c,2014-11-03T12:58:22Z,2015-11-02T12:58:22Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mrs. Konopelski743
+a3d34c1f-5421-e078-38ec-1498a5941dbe,013f626c-f56d-a9eb-c12d-0d57f87c71bd,2015-11-02T12:58:22Z,2016-10-31T12:58:22Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mrs. Konopelski743
+a3d34c1f-5421-e078-38ec-1498a5941dbe,88ba9061-92d6-4c95-e091-b5b4210a6aa8,2016-10-31T12:58:22Z,2017-10-30T12:58:22Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Gustavo235 Konopelski743
+a3d34c1f-5421-e078-38ec-1498a5941dbe,8cc61345-a0e5-06e8-1a3a-371fd408f4b9,2017-10-30T12:58:22Z,2018-10-29T12:58:22Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mrs. Konopelski743
+a3d34c1f-5421-e078-38ec-1498a5941dbe,bcaceea9-bbc3-3f6f-7392-d1bf24ffb092,2018-10-29T12:58:22Z,2019-11-04T12:58:22Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Gustavo235 Konopelski743
+a3d34c1f-5421-e078-38ec-1498a5941dbe,8e4b6fbe-11fc-6cb3-d182-47a7836cff54,2019-11-04T12:58:22Z,2020-11-02T12:58:22Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mrs. Konopelski743
+a3d34c1f-5421-e078-38ec-1498a5941dbe,e3335e65-2eb4-9fd1-a7f8-7f58103547f3,2020-11-02T12:58:22Z,2021-11-01T12:58:22Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mrs. Konopelski743
+a3d34c1f-5421-e078-38ec-1498a5941dbe,a758f360-dc1c-d3a3-8df2-1e615522ec83,2021-11-01T12:58:22Z,2022-10-31T12:58:22Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Gustavo235 Konopelski743
+a3d34c1f-5421-e078-38ec-1498a5941dbe,754c2b76-4425-ab6e-cc4b-835404933879,2022-10-31T12:58:22Z,2023-10-30T12:58:22Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Gustavo235 Konopelski743
+a3d34c1f-5421-e078-38ec-1498a5941dbe,3bf6332b-c29d-d34e-bedd-5df8cc2c6109,2023-10-30T12:58:22Z,2024-11-04T12:58:22Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Gustavo235 Konopelski743
+a3d34c1f-5421-e078-38ec-1498a5941dbe,4b804eb9-efaf-0b64-a2b1-1ec66955207b,2024-11-04T12:58:22Z,2025-10-29T12:58:22Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mrs. Konopelski743

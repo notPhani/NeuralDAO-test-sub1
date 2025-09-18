@@ -1,0 +1,681 @@
+observations_observations_DATE,PATIENT,observations_observations_ENCOUNTER,observations_observations_CATEGORY,observations_observations_CODE,observations_observations_DESCRIPTION,observations_observations_VALUE,observations_observations_UNITS,observations_observations_TYPE
+2015-09-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,8a5f99f7-9177-0d5a-994f-99291c713440,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,6.0,{score},numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.9,%,numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,vital-signs,8302-2,Body Height,168.8,cm,numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,vital-signs,29463-7,Body Weight,81.8,kg,numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,vital-signs,39156-5,Body mass index (BMI) [Ratio],28.7,kg/m2,numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,vital-signs,8462-4,Diastolic Blood Pressure,85.0,mm[Hg],numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,vital-signs,8480-6,Systolic Blood Pressure,117.0,mm[Hg],numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,vital-signs,8867-4,Heart rate,70.0,/min,numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,vital-signs,9279-1,Respiratory rate,13.0,/min,numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,laboratory,2339-0,Glucose [Mass/volume] in Blood,81.8,mg/dL,numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,9.0,mg/dL,numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,laboratory,38483-4,Creatinine [Mass/volume] in Blood,1.4,mg/dL,numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.1,mg/dL,numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,laboratory,2947-0,Sodium [Moles/volume] in Blood,138.3,mmol/L,numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.5,mmol/L,numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,laboratory,2069-3,Chloride [Moles/volume] in Blood,101.9,mmol/L,numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,20.4,mmol/L,numeric
+2016-01-14T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,93027-1,Are you a refugee?,No,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,Yes,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,93038-8,Stress level,Quite a bit,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,3 to 5 times a week,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,49136,/a,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,76437-3,Primary insurance,Private insurance,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,67875-5,Employment status - current,Full-time work,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,82589-3,Highest level of education,More than high school,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,56799-0,Address,968 Casper Parade Unit 57,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,93033-9,Are you worried about losing your housing?,No,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,71802-3,Housing status,I have housing,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,63512-8,How many people are living or staying at this address?,2.0,{#},numeric
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,54899-0,Preferred language,English,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,32624-9,Race,White,,text
+2016-01-14T10:16:49Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2016-01-14T10:47:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,76504-0,Total score [HARK],0.0,{score},numeric
+2016-01-14T11:26:23Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],5.0,{score},numeric
+2016-01-14T11:56:19Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,44261-6,Patient Health Questionnaire 9 item (PHQ-9) total score [Reported],13.0,{score},numeric
+2016-01-14T12:36:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f439cc8c-0869-9b56-e462-be5b035f8318,survey,82667-7,Total score [DAST-10],1.0,{score},numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,2339-0,Glucose [Mass/volume] in Blood,94.1,mg/dL,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,17.7,mg/dL,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,38483-4,Creatinine [Mass/volume] in Blood,2.9,mg/dL,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,2947-0,Sodium [Moles/volume] in Blood,142.9,mmol/L,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.1,mmol/L,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,2069-3,Chloride [Moles/volume] in Blood,105.3,mmol/L,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,27.1,mmol/L,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),81.8,mL/min,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.7,g/dL,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,4.8,g/dL,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,10834-0,Globulin [Mass/volume] in Serum by calculation,3.1,g/L,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,0.1,mg/dL,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,134.8,U/L,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,55.2,U/L,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,19.8,U/L,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,197.6,mg/dL,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,2571-8,Triglycerides,154.3,mg/dL,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,18262-6,Low Density Lipoprotein Cholesterol,99.9,mg/dL,numeric
+2016-02-21T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,f32685e6-4e74-4565-a4ea-d0191d5787e4,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,63.0,mg/dL,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.9,%,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,vital-signs,8302-2,Body Height,168.8,cm,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,4.0,{score},numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,vital-signs,29463-7,Body Weight,81.8,kg,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,vital-signs,39156-5,Body mass index (BMI) [Ratio],28.7,kg/m2,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,vital-signs,8462-4,Diastolic Blood Pressure,78.0,mm[Hg],numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,vital-signs,8480-6,Systolic Blood Pressure,115.0,mm[Hg],numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,vital-signs,8867-4,Heart rate,64.0,/min,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,2339-0,Glucose [Mass/volume] in Blood,91.2,mg/dL,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,10.9,mg/dL,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,38483-4,Creatinine [Mass/volume] in Blood,0.9,mg/dL,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,2947-0,Sodium [Moles/volume] in Blood,142.7,mmol/L,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,6298-4,Potassium [Moles/volume] in Blood,5.1,mmol/L,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,2069-3,Chloride [Moles/volume] in Blood,109.2,mmol/L,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,20.3,mmol/L,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,5.1,10*3/uL,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,5.4,10*6/uL,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,15.7,g/dL,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,46.8,%,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,787-2,MCV [Entitic volume] by Automated count,84.7,fL,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,785-6,MCH [Entitic mass] by Automated count,32.6,pg,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,786-4,MCHC [Mass/volume] by Automated count,33.4,g/dL,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,39.6,fL,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,284.1,10*3/uL,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,441.1,fL,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,laboratory,32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count,11.6,fL,numeric
+2017-01-19T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,93027-1,Are you a refugee?,No,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,Yes,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,93038-8,Stress level,Not at all,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,5 or more times a week,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,Clothing,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,49136,/a,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,76437-3,Primary insurance,Private insurance,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,67875-5,Employment status - current,Full-time work,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,82589-3,Highest level of education,More than high school,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,56799-0,Address,968 Casper Parade Unit 57,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,93033-9,Are you worried about losing your housing?,No,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,71802-3,Housing status,I have housing,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,63512-8,How many people are living or staying at this address?,2.0,{#},numeric
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,54899-0,Preferred language,English,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,32624-9,Race,White,,text
+2017-01-19T10:15:11Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2017-01-19T10:47:25Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,14cc897b-3235-0415-0a57-988725927f9c,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1.0,{score},numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,2339-0,Glucose [Mass/volume] in Blood,64.5,mg/dL,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,19.4,mg/dL,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,38483-4,Creatinine [Mass/volume] in Blood,2.7,mg/dL,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,2947-0,Sodium [Moles/volume] in Blood,144.0,mmol/L,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.6,mmol/L,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,2069-3,Chloride [Moles/volume] in Blood,108.7,mmol/L,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,22.8,mmol/L,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),84.0,mL/min,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.6,g/dL,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,4.4,g/dL,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,10834-0,Globulin [Mass/volume] in Serum by calculation,3.3,g/L,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,0.1,mg/dL,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,96.6,U/L,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,44.9,U/L,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,32.5,U/L,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,152.3,mg/dL,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,2571-8,Triglycerides,139.3,mg/dL,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,18262-6,Low Density Lipoprotein Cholesterol,131.9,mg/dL,numeric
+2017-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,0c349e90-4ded-a505-283d-ddf19f2ed03a,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,55.9,mg/dL,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.2,%,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,vital-signs,8302-2,Body Height,168.8,cm,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,vital-signs,29463-7,Body Weight,81.8,kg,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,vital-signs,39156-5,Body mass index (BMI) [Ratio],28.7,kg/m2,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,vital-signs,8462-4,Diastolic Blood Pressure,75.0,mm[Hg],numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,vital-signs,8480-6,Systolic Blood Pressure,116.0,mm[Hg],numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,vital-signs,8867-4,Heart rate,70.0,/min,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,laboratory,2339-0,Glucose [Mass/volume] in Blood,72.4,mg/dL,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,13.1,mg/dL,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,laboratory,38483-4,Creatinine [Mass/volume] in Blood,0.8,mg/dL,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,laboratory,2947-0,Sodium [Moles/volume] in Blood,137.8,mmol/L,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.6,mmol/L,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,laboratory,2069-3,Chloride [Moles/volume] in Blood,109.2,mmol/L,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,24.6,mmol/L,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,251.5,mg/dL,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,laboratory,2571-8,Triglycerides,104.6,mg/dL,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,laboratory,18262-6,Low Density Lipoprotein Cholesterol,181.7,mg/dL,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,49.0,mg/dL,numeric
+2018-01-25T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,93027-1,Are you a refugee?,No,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,Yes,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,93038-8,Stress level,Quite a bit,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,5 or more times a week,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,49136,/a,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,76437-3,Primary insurance,Private insurance,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,67875-5,Employment status - current,Part-time or temporary work,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,82589-3,Highest level of education,More than high school,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,56799-0,Address,968 Casper Parade Unit 57,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,93033-9,Are you worried about losing your housing?,No,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,71802-3,Housing status,I have housing,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,63512-8,How many people are living or staying at this address?,2.0,{#},numeric
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,54899-0,Preferred language,English,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,32624-9,Race,White,,text
+2018-01-25T10:14:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2018-01-25T10:49:44Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,76504-0,Total score [HARK],0.0,{score},numeric
+2018-01-25T11:25:17Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e83f34c0-ff9c-dd09-ce37-fd5019dea644,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1.0,{score},numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,2339-0,Glucose [Mass/volume] in Blood,65.6,mg/dL,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,15.9,mg/dL,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,38483-4,Creatinine [Mass/volume] in Blood,3.3,mg/dL,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,2947-0,Sodium [Moles/volume] in Blood,137.2,mmol/L,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.7,mmol/L,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,2069-3,Chloride [Moles/volume] in Blood,104.3,mmol/L,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,20.5,mmol/L,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),71.6,mL/min,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.3,g/dL,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,4.3,g/dL,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,10834-0,Globulin [Mass/volume] in Serum by calculation,3.0,g/L,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,0.8,mg/dL,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,138.1,U/L,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,37.2,U/L,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,10.4,U/L,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,161.2,mg/dL,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,2571-8,Triglycerides,103.0,mg/dL,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,18262-6,Low Density Lipoprotein Cholesterol,109.3,mg/dL,numeric
+2018-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,60e03664-a837-874a-f8c1-ffc598daff2f,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,76.4,mg/dL,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.1,%,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,vital-signs,8302-2,Body Height,168.8,cm,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,vital-signs,29463-7,Body Weight,81.8,kg,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,vital-signs,39156-5,Body mass index (BMI) [Ratio],28.7,kg/m2,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,vital-signs,8462-4,Diastolic Blood Pressure,81.0,mm[Hg],numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,vital-signs,8480-6,Systolic Blood Pressure,117.0,mm[Hg],numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,vital-signs,8867-4,Heart rate,76.0,/min,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,laboratory,2339-0,Glucose [Mass/volume] in Blood,64.2,mg/dL,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,17.7,mg/dL,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,laboratory,38483-4,Creatinine [Mass/volume] in Blood,0.8,mg/dL,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.6,mg/dL,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,laboratory,2947-0,Sodium [Moles/volume] in Blood,141.9,mmol/L,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,laboratory,6298-4,Potassium [Moles/volume] in Blood,5.1,mmol/L,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,laboratory,2069-3,Chloride [Moles/volume] in Blood,106.0,mmol/L,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,21.7,mmol/L,numeric
+2019-01-31T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,93027-1,Are you a refugee?,No,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,Yes,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,93038-8,Stress level,A little bit,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,Less than once a week,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,49136,/a,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,76437-3,Primary insurance,Private insurance,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,67875-5,Employment status - current,Full-time work,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,82589-3,Highest level of education,More than high school,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,56799-0,Address,968 Casper Parade Unit 57,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,93033-9,Are you worried about losing your housing?,No,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,71802-3,Housing status,I have housing,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,63512-8,How many people are living or staying at this address?,2.0,{#},numeric
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,54899-0,Preferred language,English,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,32624-9,Race,White,,text
+2019-01-31T10:18:31Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2019-01-31T10:39:36Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],2.0,{score},numeric
+2019-01-31T11:20:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1.0,{score},numeric
+2019-01-31T11:57:47Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,4131ad8c-94dd-02e7-76a6-8eb21579b678,survey,82667-7,Total score [DAST-10],0.0,{score},numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,2339-0,Glucose [Mass/volume] in Blood,99.8,mg/dL,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,15.8,mg/dL,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,38483-4,Creatinine [Mass/volume] in Blood,3.5,mg/dL,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.9,mg/dL,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,2947-0,Sodium [Moles/volume] in Blood,139.3,mmol/L,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.2,mmol/L,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,2069-3,Chloride [Moles/volume] in Blood,101.5,mmol/L,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,28.4,mmol/L,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),76.8,mL/min,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,6.6,g/dL,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,4.5,g/dL,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,10834-0,Globulin [Mass/volume] in Serum by calculation,2.3,g/L,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,0.5,mg/dL,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,71.5,U/L,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,48.2,U/L,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,17.2,U/L,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,178.2,mg/dL,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,2571-8,Triglycerides,174.2,mg/dL,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,18262-6,Low Density Lipoprotein Cholesterol,134.1,mg/dL,numeric
+2019-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c7dc5071-fc08-66d5-4ba7-61fb31fee9c1,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,45.5,mg/dL,numeric
+2019-07-26T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,e1e34919-9aeb-2c16-c4a0-221fcdc8e810,vital-signs,8310-5,Body temperature,37.8,Cel,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.1,%,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,vital-signs,8302-2,Body Height,168.8,cm,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1.0,{score},numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,vital-signs,29463-7,Body Weight,81.8,kg,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,vital-signs,39156-5,Body mass index (BMI) [Ratio],28.7,kg/m2,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,vital-signs,8462-4,Diastolic Blood Pressure,76.0,mm[Hg],numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,vital-signs,8480-6,Systolic Blood Pressure,121.0,mm[Hg],numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,vital-signs,8867-4,Heart rate,68.0,/min,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,vital-signs,9279-1,Respiratory rate,16.0,/min,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,laboratory,2339-0,Glucose [Mass/volume] in Blood,86.2,mg/dL,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,12.0,mg/dL,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,laboratory,38483-4,Creatinine [Mass/volume] in Blood,1.0,mg/dL,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,laboratory,2947-0,Sodium [Moles/volume] in Blood,137.4,mmol/L,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.1,mmol/L,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,laboratory,2069-3,Chloride [Moles/volume] in Blood,105.7,mmol/L,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,27.8,mmol/L,numeric
+2020-02-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,93027-1,Are you a refugee?,No,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,Yes,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,93038-8,Stress level,Not at all,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,3 to 5 times a week,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,Food,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,49136,/a,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,76437-3,Primary insurance,Private insurance,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,67875-5,Employment status - current,Full-time work,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,82589-3,Highest level of education,More than high school,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,56799-0,Address,968 Casper Parade Unit 57,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,93033-9,Are you worried about losing your housing?,No,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,71802-3,Housing status,I have housing,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,63512-8,How many people are living or staying at this address?,2.0,{#},numeric
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,54899-0,Preferred language,English,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,32624-9,Race,White,,text
+2020-02-06T10:34:28Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2020-02-06T11:17:07Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],2.0,{score},numeric
+2020-02-06T12:00:23Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6197ee45-bbb9-6491-2b44-c2922e0bf2f8,survey,75626-2,Total score [AUDIT-C],0.0,{score},numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,2339-0,Glucose [Mass/volume] in Blood,69.9,mg/dL,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,7.9,mg/dL,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,38483-4,Creatinine [Mass/volume] in Blood,2.7,mg/dL,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,2947-0,Sodium [Moles/volume] in Blood,141.3,mmol/L,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,6298-4,Potassium [Moles/volume] in Blood,3.8,mmol/L,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,2069-3,Chloride [Moles/volume] in Blood,105.3,mmol/L,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,29.0,mmol/L,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),82.6,mL/min,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,6.0,g/dL,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,4.8,g/dL,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,10834-0,Globulin [Mass/volume] in Serum by calculation,2.2,g/L,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,0.5,mg/dL,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,72.9,U/L,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,21.5,U/L,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,25.8,U/L,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,174.4,mg/dL,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,2571-8,Triglycerides,179.4,mg/dL,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,18262-6,Low Density Lipoprotein Cholesterol,92.0,mg/dL,numeric
+2020-02-20T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d9c5d23b-40e5-b8ca-8f76-be96ccf8f66b,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,47.4,mg/dL,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.2,%,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,vital-signs,8302-2,Body Height,168.8,cm,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,vital-signs,29463-7,Body Weight,81.8,kg,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,vital-signs,39156-5,Body mass index (BMI) [Ratio],28.7,kg/m2,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,vital-signs,8462-4,Diastolic Blood Pressure,78.0,mm[Hg],numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,vital-signs,8480-6,Systolic Blood Pressure,139.0,mm[Hg],numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,vital-signs,8867-4,Heart rate,71.0,/min,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,laboratory,2339-0,Glucose [Mass/volume] in Blood,87.9,mg/dL,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,19.2,mg/dL,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,laboratory,38483-4,Creatinine [Mass/volume] in Blood,0.8,mg/dL,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,laboratory,2947-0,Sodium [Moles/volume] in Blood,142.5,mmol/L,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.2,mmol/L,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,laboratory,2069-3,Chloride [Moles/volume] in Blood,103.4,mmol/L,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,26.1,mmol/L,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,294.4,mg/dL,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,laboratory,2571-8,Triglycerides,126.1,mg/dL,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,laboratory,18262-6,Low Density Lipoprotein Cholesterol,202.1,mg/dL,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,67.1,mg/dL,numeric
+2021-02-11T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,93027-1,Are you a refugee?,No,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,Yes,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,93038-8,Stress level,Very much,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,Less than once a week,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,49136,/a,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,76437-3,Primary insurance,Private insurance,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,67875-5,Employment status - current,Full-time work,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,82589-3,Highest level of education,More than high school,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,56799-0,Address,968 Casper Parade Unit 57,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,93033-9,Are you worried about losing your housing?,No,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,71802-3,Housing status,I have housing,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,63512-8,How many people are living or staying at this address?,2.0,{#},numeric
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,54899-0,Preferred language,English,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,32624-9,Race,White,,text
+2021-02-11T10:25:02Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,54b35257-5e54-0140-c9fd-a1e701ad76c2,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,2339-0,Glucose [Mass/volume] in Blood,91.8,mg/dL,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,15.5,mg/dL,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,38483-4,Creatinine [Mass/volume] in Blood,2.6,mg/dL,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,49765-1,Calcium [Mass/volume] in Blood,10.0,mg/dL,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,2947-0,Sodium [Moles/volume] in Blood,138.6,mmol/L,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,6298-4,Potassium [Moles/volume] in Blood,5.2,mmol/L,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,2069-3,Chloride [Moles/volume] in Blood,103.7,mmol/L,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,20.2,mmol/L,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),67.8,mL/min,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,6.5,g/dL,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,3.7,g/dL,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,10834-0,Globulin [Mass/volume] in Serum by calculation,2.2,g/L,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,0.2,mg/dL,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,90.4,U/L,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,45.6,U/L,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,32.0,U/L,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,150.4,mg/dL,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,2571-8,Triglycerides,191.9,mg/dL,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,18262-6,Low Density Lipoprotein Cholesterol,99.5,mg/dL,numeric
+2021-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,31fbcf3e-ccce-8af8-6847-a64f8bd5300a,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,78.8,mg/dL,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.2,%,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,vital-signs,8302-2,Body Height,168.8,cm,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,vital-signs,29463-7,Body Weight,81.8,kg,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,vital-signs,39156-5,Body mass index (BMI) [Ratio],28.7,kg/m2,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,vital-signs,8462-4,Diastolic Blood Pressure,77.0,mm[Hg],numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,vital-signs,8480-6,Systolic Blood Pressure,113.0,mm[Hg],numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,vital-signs,8867-4,Heart rate,93.0,/min,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,2339-0,Glucose [Mass/volume] in Blood,89.8,mg/dL,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,10.1,mg/dL,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,38483-4,Creatinine [Mass/volume] in Blood,0.8,mg/dL,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.5,mg/dL,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,2947-0,Sodium [Moles/volume] in Blood,137.2,mmol/L,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,6298-4,Potassium [Moles/volume] in Blood,5.1,mmol/L,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,2069-3,Chloride [Moles/volume] in Blood,107.1,mmol/L,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,21.3,mmol/L,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,5.6,10*3/uL,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,4.6,10*6/uL,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,16.0,g/dL,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,41.5,%,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,787-2,MCV [Entitic volume] by Automated count,91.8,fL,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,785-6,MCH [Entitic mass] by Automated count,32.8,pg,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,786-4,MCHC [Mass/volume] by Automated count,35.7,g/dL,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,42.5,fL,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,171.3,10*3/uL,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,393.3,fL,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,laboratory,32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count,9.6,fL,numeric
+2022-02-17T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,93027-1,Are you a refugee?,No,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,Yes,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,93038-8,Stress level,Not at all,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,Less than once a week,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,49136,/a,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,76437-3,Primary insurance,Private insurance,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,67875-5,Employment status - current,Full-time work,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,82589-3,Highest level of education,More than high school,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,56799-0,Address,968 Casper Parade Unit 57,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,93033-9,Are you worried about losing your housing?,No,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,71802-3,Housing status,I have housing,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,63512-8,How many people are living or staying at this address?,2.0,{#},numeric
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,54899-0,Preferred language,English,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,32624-9,Race,White,,text
+2022-02-17T10:27:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2022-02-17T11:04:33Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1.0,{score},numeric
+2022-02-17T11:43:47Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c271af8a-0ac9-7c31-d821-671c16799a7d,survey,75626-2,Total score [AUDIT-C],2.0,{score},numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,2339-0,Glucose [Mass/volume] in Blood,86.8,mg/dL,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,14.7,mg/dL,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,38483-4,Creatinine [Mass/volume] in Blood,2.8,mg/dL,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.7,mg/dL,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,2947-0,Sodium [Moles/volume] in Blood,137.2,mmol/L,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.3,mmol/L,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,2069-3,Chloride [Moles/volume] in Blood,110.3,mmol/L,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,26.0,mmol/L,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),67.0,mL/min,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.5,g/dL,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,3.5,g/dL,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,10834-0,Globulin [Mass/volume] in Serum by calculation,2.4,g/L,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,0.2,mg/dL,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,31.7,U/L,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,24.1,U/L,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,31.6,U/L,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,192.2,mg/dL,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,2571-8,Triglycerides,176.3,mg/dL,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,18262-6,Low Density Lipoprotein Cholesterol,109.4,mg/dL,numeric
+2022-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,d2cfad54-95fb-450d-2fc4-01659860880e,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,62.9,mg/dL,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.9,%,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,vital-signs,8302-2,Body Height,168.8,cm,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,vital-signs,29463-7,Body Weight,81.8,kg,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,vital-signs,39156-5,Body mass index (BMI) [Ratio],28.7,kg/m2,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,vital-signs,8462-4,Diastolic Blood Pressure,77.0,mm[Hg],numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,vital-signs,8480-6,Systolic Blood Pressure,112.0,mm[Hg],numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,vital-signs,8867-4,Heart rate,89.0,/min,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,laboratory,2339-0,Glucose [Mass/volume] in Blood,94.1,mg/dL,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,15.7,mg/dL,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,laboratory,38483-4,Creatinine [Mass/volume] in Blood,1.0,mg/dL,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.5,mg/dL,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,laboratory,2947-0,Sodium [Moles/volume] in Blood,138.1,mmol/L,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.2,mmol/L,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,laboratory,2069-3,Chloride [Moles/volume] in Blood,103.6,mmol/L,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,21.8,mmol/L,numeric
+2023-02-23T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,Yes,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,93027-1,Are you a refugee?,No,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,Yes,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,93038-8,Stress level,Not at all,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,5 or more times a week,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,Utilities,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,49136,/a,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,76437-3,Primary insurance,Private insurance,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,67875-5,Employment status - current,Full-time work,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,82589-3,Highest level of education,More than high school,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,56799-0,Address,968 Casper Parade Unit 57,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,93033-9,Are you worried about losing your housing?,No,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,71802-3,Housing status,I have housing,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,63512-8,How many people are living or staying at this address?,2.0,{#},numeric
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,54899-0,Preferred language,English,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,32624-9,Race,White,,text
+2023-02-23T10:23:16Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2023-02-23T11:05:45Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,76504-0,Total score [HARK],0.0,{score},numeric
+2023-02-23T11:49:32Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1.0,{score},numeric
+2023-02-23T12:23:09Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,b6e1d488-6361-64f1-720b-b8555f630986,survey,75626-2,Total score [AUDIT-C],0.0,{score},numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,2339-0,Glucose [Mass/volume] in Blood,84.2,mg/dL,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,13.0,mg/dL,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,38483-4,Creatinine [Mass/volume] in Blood,3.3,mg/dL,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.9,mg/dL,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,2947-0,Sodium [Moles/volume] in Blood,137.7,mmol/L,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.9,mmol/L,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,2069-3,Chloride [Moles/volume] in Blood,103.8,mmol/L,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,28.4,mmol/L,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),69.1,mL/min,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.4,g/dL,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,5.1,g/dL,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,10834-0,Globulin [Mass/volume] in Serum by calculation,3.0,g/L,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,1.1,mg/dL,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,128.0,U/L,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,33.5,U/L,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,12.5,U/L,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,164.6,mg/dL,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,2571-8,Triglycerides,177.9,mg/dL,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,18262-6,Low Density Lipoprotein Cholesterol,113.2,mg/dL,numeric
+2023-03-04T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,7d89b0ea-fe35-c7eb-29b9-31714346b5d9,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,70.1,mg/dL,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.1,%,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,vital-signs,8302-2,Body Height,168.8,cm,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,vital-signs,29463-7,Body Weight,81.8,kg,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,vital-signs,39156-5,Body mass index (BMI) [Ratio],28.7,kg/m2,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,vital-signs,8462-4,Diastolic Blood Pressure,76.0,mm[Hg],numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,vital-signs,8480-6,Systolic Blood Pressure,113.0,mm[Hg],numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,vital-signs,8867-4,Heart rate,73.0,/min,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,laboratory,2339-0,Glucose [Mass/volume] in Blood,78.0,mg/dL,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,14.4,mg/dL,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,laboratory,38483-4,Creatinine [Mass/volume] in Blood,0.8,mg/dL,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,laboratory,49765-1,Calcium [Mass/volume] in Blood,8.8,mg/dL,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,laboratory,2947-0,Sodium [Moles/volume] in Blood,139.2,mmol/L,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.6,mmol/L,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,laboratory,2069-3,Chloride [Moles/volume] in Blood,102.9,mmol/L,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,27.2,mmol/L,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,295.9,mg/dL,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,laboratory,2571-8,Triglycerides,103.3,mg/dL,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,laboratory,18262-6,Low Density Lipoprotein Cholesterol,225.4,mg/dL,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,49.8,mg/dL,numeric
+2024-02-29T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Unsure,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,93027-1,Are you a refugee?,No,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,Yes,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,93038-8,Stress level,Not at all,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,3 to 5 times a week,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,49136,/a,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,76437-3,Primary insurance,Private insurance,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,67875-5,Employment status - current,Part-time or temporary work,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,82589-3,Highest level of education,More than high school,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,56799-0,Address,968 Casper Parade Unit 57,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,93033-9,Are you worried about losing your housing?,No,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,71802-3,Housing status,I have housing,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,63512-8,How many people are living or staying at this address?,2.0,{#},numeric
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,54899-0,Preferred language,English,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,32624-9,Race,White,,text
+2024-02-29T10:30:58Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2024-02-29T11:03:39Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,76504-0,Total score [HARK],0.0,{score},numeric
+2024-02-29T11:41:47Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,6b75f653-9e46-8a3c-b4e6-94fd9158ffec,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1.0,{score},numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,2339-0,Glucose [Mass/volume] in Blood,79.0,mg/dL,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,12.7,mg/dL,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,38483-4,Creatinine [Mass/volume] in Blood,3.3,mg/dL,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.7,mg/dL,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,2947-0,Sodium [Moles/volume] in Blood,139.6,mmol/L,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.3,mmol/L,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,2069-3,Chloride [Moles/volume] in Blood,102.0,mmol/L,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,23.1,mmol/L,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),82.1,mL/min,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,6.3,g/dL,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,4.8,g/dL,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,10834-0,Globulin [Mass/volume] in Serum by calculation,2.2,g/L,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,0.3,mg/dL,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,28.1,U/L,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,27.5,U/L,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,26.5,U/L,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,185.2,mg/dL,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,2571-8,Triglycerides,172.5,mg/dL,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,18262-6,Low Density Lipoprotein Cholesterol,128.7,mg/dL,numeric
+2024-03-03T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,c47b5913-cf5c-e5bb-0922-06c97392ab24,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,58.7,mg/dL,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.2,%,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,vital-signs,8302-2,Body Height,168.8,cm,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,4.0,{score},numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,vital-signs,29463-7,Body Weight,81.8,kg,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,vital-signs,39156-5,Body mass index (BMI) [Ratio],28.7,kg/m2,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,vital-signs,8462-4,Diastolic Blood Pressure,77.0,mm[Hg],numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,vital-signs,8480-6,Systolic Blood Pressure,139.0,mm[Hg],numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,vital-signs,8867-4,Heart rate,77.0,/min,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,laboratory,2339-0,Glucose [Mass/volume] in Blood,64.2,mg/dL,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,11.4,mg/dL,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,laboratory,38483-4,Creatinine [Mass/volume] in Blood,0.8,mg/dL,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,laboratory,2947-0,Sodium [Moles/volume] in Blood,138.6,mmol/L,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.3,mmol/L,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,laboratory,2069-3,Chloride [Moles/volume] in Blood,106.1,mmol/L,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,26.3,mmol/L,numeric
+2025-03-06T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,No,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,93027-1,Are you a refugee?,No,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,Yes,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,93038-8,Stress level,Somewhat,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,3 to 5 times a week,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,Food,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,49136,/a,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,76437-3,Primary insurance,Private insurance,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,67875-5,Employment status - current,Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver),,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,82589-3,Highest level of education,More than high school,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,56799-0,Address,968 Casper Parade Unit 57,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,93033-9,Are you worried about losing your housing?,No,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,71802-3,Housing status,I have housing,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,63512-8,How many people are living or staying at this address?,2.0,{#},numeric
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,54899-0,Preferred language,English,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,32624-9,Race,White,,text
+2025-03-06T10:16:34Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+2025-03-06T10:35:30Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],1.0,{score},numeric
+2025-03-06T11:18:17Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,3721a10a-b507-b2ee-8ac5-7b7f717a2b9a,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],0.0,{score},numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,2339-0,Glucose [Mass/volume] in Blood,88.0,mg/dL,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,15.0,mg/dL,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,38483-4,Creatinine [Mass/volume] in Blood,2.6,mg/dL,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.0,mg/dL,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,2947-0,Sodium [Moles/volume] in Blood,137.9,mmol/L,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,6298-4,Potassium [Moles/volume] in Blood,5.1,mmol/L,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,2069-3,Chloride [Moles/volume] in Blood,102.4,mmol/L,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,28.1,mmol/L,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),70.4,mL/min,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.3,g/dL,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,3.6,g/dL,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,10834-0,Globulin [Mass/volume] in Serum by calculation,2.9,g/L,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,0.9,mg/dL,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,111.6,U/L,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,25.2,U/L,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,8.7,U/L,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,196.4,mg/dL,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,2571-8,Triglycerides,150.9,mg/dL,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,18262-6,Low Density Lipoprotein Cholesterol,145.7,mg/dL,numeric
+2025-03-13T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,02d28081-d5b3-4059-7063-51f690dbd0d4,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,65.1,mg/dL,numeric
+2015-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QALY,QALY,48.8,a,numeric
+2016-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QALY,QALY,50.8,a,numeric
+2017-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QALY,QALY,50.8,a,numeric
+2018-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QALY,QALY,51.7,a,numeric
+2019-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QALY,QALY,52.7,a,numeric
+2020-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QALY,QALY,53.7,a,numeric
+2021-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QALY,QALY,55.6,a,numeric
+2022-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QALY,QALY,55.6,a,numeric
+2023-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QALY,QALY,56.6,a,numeric
+2024-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QALY,QALY,57.6,a,numeric
+2025-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QALY,QALY,58.5,a,numeric
+2015-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,DALY,DALY,0.2,a,numeric
+2016-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,DALY,DALY,0.2,a,numeric
+2017-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,DALY,DALY,0.2,a,numeric
+2018-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,DALY,DALY,0.3,a,numeric
+2019-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,DALY,DALY,0.3,a,numeric
+2020-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,DALY,DALY,0.3,a,numeric
+2021-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,DALY,DALY,0.4,a,numeric
+2022-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,DALY,DALY,0.4,a,numeric
+2023-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,DALY,DALY,0.4,a,numeric
+2024-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,DALY,DALY,0.4,a,numeric
+2025-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,DALY,DALY,0.5,a,numeric
+2015-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QOLS,QOLS,1.0,{score},numeric
+2016-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QOLS,QOLS,1.0,{score},numeric
+2017-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QOLS,QOLS,1.0,{score},numeric
+2018-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QOLS,QOLS,1.0,{score},numeric
+2019-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QOLS,QOLS,1.0,{score},numeric
+2020-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QOLS,QOLS,1.0,{score},numeric
+2021-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QOLS,QOLS,1.0,{score},numeric
+2022-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QOLS,QOLS,1.0,{score},numeric
+2023-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QOLS,QOLS,1.0,{score},numeric
+2024-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QOLS,QOLS,1.0,{score},numeric
+2025-01-07T09:40:10Z,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,,,QOLS,QOLS,1.0,{score},numeric

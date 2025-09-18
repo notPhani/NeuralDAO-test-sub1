@@ -1,0 +1,16 @@
+supplies_supplies_DATE,PATIENT,supplies_supplies_ENCOUNTER,supplies_supplies_CODE,supplies_supplies_DESCRIPTION,supplies_supplies_QUANTITY
+2015-12-18,1e9713a5-742f-aca0-cf95-446338fdc57f,af52a307-93e9-4caf-113e-bdee96799fa2,277183007,Dental equipment (physical object),1
+2015-12-18,1e9713a5-742f-aca0-cf95-446338fdc57f,af52a307-93e9-4caf-113e-bdee96799fa2,1230220004,Conventional release periodontal gel (dose form),1
+2015-12-18,1e9713a5-742f-aca0-cf95-446338fdc57f,af52a307-93e9-4caf-113e-bdee96799fa2,469020004,Dental floss (physical object),1
+2016-12-23,1e9713a5-742f-aca0-cf95-446338fdc57f,c09eff45-6a2d-7edb-71f4-9576ce1107c5,277183007,Dental equipment (physical object),1
+2016-12-23,1e9713a5-742f-aca0-cf95-446338fdc57f,c09eff45-6a2d-7edb-71f4-9576ce1107c5,1230220004,Conventional release periodontal gel (dose form),1
+2016-12-23,1e9713a5-742f-aca0-cf95-446338fdc57f,c09eff45-6a2d-7edb-71f4-9576ce1107c5,469020004,Dental floss (physical object),1
+2020-01-10,1e9713a5-742f-aca0-cf95-446338fdc57f,d680ee4f-35c2-bfd1-b07a-8c917f6cd909,277183007,Dental equipment (physical object),1
+2020-01-10,1e9713a5-742f-aca0-cf95-446338fdc57f,d680ee4f-35c2-bfd1-b07a-8c917f6cd909,1230220004,Conventional release periodontal gel (dose form),1
+2020-01-10,1e9713a5-742f-aca0-cf95-446338fdc57f,d680ee4f-35c2-bfd1-b07a-8c917f6cd909,469020004,Dental floss (physical object),1
+2022-01-21,1e9713a5-742f-aca0-cf95-446338fdc57f,bcd35fc4-4eb2-5ae6-5c9a-a4059182a100,277183007,Dental equipment (physical object),1
+2022-01-21,1e9713a5-742f-aca0-cf95-446338fdc57f,bcd35fc4-4eb2-5ae6-5c9a-a4059182a100,1230220004,Conventional release periodontal gel (dose form),1
+2022-01-21,1e9713a5-742f-aca0-cf95-446338fdc57f,bcd35fc4-4eb2-5ae6-5c9a-a4059182a100,469020004,Dental floss (physical object),1
+2024-02-09,1e9713a5-742f-aca0-cf95-446338fdc57f,b38e9f35-6852-5467-cfd0-35cf9148df39,277183007,Dental equipment (physical object),1
+2024-02-09,1e9713a5-742f-aca0-cf95-446338fdc57f,b38e9f35-6852-5467-cfd0-35cf9148df39,1230220004,Conventional release periodontal gel (dose form),1
+2024-02-09,1e9713a5-742f-aca0-cf95-446338fdc57f,b38e9f35-6852-5467-cfd0-35cf9148df39,469020004,Dental floss (physical object),1

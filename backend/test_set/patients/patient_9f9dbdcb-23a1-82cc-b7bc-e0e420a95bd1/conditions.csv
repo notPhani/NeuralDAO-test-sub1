@@ -1,0 +1,13 @@
+conditions_conditions_START,conditions_conditions_STOP,PATIENT,conditions_conditions_ENCOUNTER,conditions_conditions_SYSTEM,conditions_conditions_CODE,conditions_conditions_DESCRIPTION
+2015-09-16,2015-09-16,9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,07c17c38-cf9c-cae4-796b-cd97e9e28bea,http://snomed.info/sct,314529007,Medication review due (situation)
+2015-12-16,2015-12-16,9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,436a4802-9234-82c2-65e3-c70c4a33366e,http://snomed.info/sct,314529007,Medication review due (situation)
+2016-03-16,2016-03-16,9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,96f1ad12-58a7-c31c-36bc-cf4d6078702f,http://snomed.info/sct,314529007,Medication review due (situation)
+2016-06-15,2017-01-11,9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,1f88f8a3-d905-1282-d6b3-c67c48b47bc2,http://snomed.info/sct,314529007,Medication review due (situation)
+2017-01-18,2017-01-31,9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,5a2fcc0e-2a12-98c8-46a3-15d37e82499e,http://snomed.info/sct,10509002,Acute bronchitis (disorder)
+2017-06-14,2018-06-13,9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,9c8fe875-188b-556d-8f82-82656cbfa2f0,http://snomed.info/sct,314529007,Medication review due (situation)
+2018-12-12,,9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,026c90c4-115d-a5e5-2897-613e02df83bd,http://snomed.info/sct,314529007,Medication review due (situation)
+2020-03-11,2020-12-23,9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,0a53cb7c-9bee-bac4-dd85-cddbecbb6243,http://snomed.info/sct,65363002,Otitis media (disorder)
+2020-05-16,2020-05-23,9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,5bd2e27e-c1a8-17f0-88f2-c87261ed9ef2,http://snomed.info/sct,444814009,Viral sinusitis (disorder)
+2022-07-20,2022-08-08,9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,90dfc0fc-b3f3-dd70-7814-756743f44873,http://snomed.info/sct,10509002,Acute bronchitis (disorder)
+2022-08-18,2022-08-31,9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,d0d43312-0194-0293-88ca-4fc56b34da94,http://snomed.info/sct,444814009,Viral sinusitis (disorder)
+2024-01-10,2024-01-17,9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1,b793cff9-fe9e-6c22-67cc-9d94cdb46c96,http://snomed.info/sct,66383009,Gingivitis (disorder)

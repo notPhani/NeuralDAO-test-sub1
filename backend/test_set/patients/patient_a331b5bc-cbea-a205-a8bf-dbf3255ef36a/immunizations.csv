@@ -1,0 +1,19 @@
+immunizations_immunizations_DATE,PATIENT,immunizations_immunizations_ENCOUNTER,immunizations_immunizations_CODE,immunizations_immunizations_DESCRIPTION,immunizations_immunizations_BASE_COST
+2015-10-05T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,16e42458-3a9e-3706-0ab1-82de5db3f448,140,Influenza  seasonal  injectable  preservative free,136.0
+2016-10-10T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,47a7d907-e57b-70d7-abf2-2330dd365534,140,Influenza  seasonal  injectable  preservative free,136.0
+2017-10-16T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,81bc9b44-72bc-7f1c-2712-2ee5b4423047,115,Tdap,136.0
+2017-10-16T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,81bc9b44-72bc-7f1c-2712-2ee5b4423047,140,Influenza  seasonal  injectable  preservative free,136.0
+2017-10-16T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,81bc9b44-72bc-7f1c-2712-2ee5b4423047,62,HPV  quadrivalent,136.0
+2017-10-16T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,81bc9b44-72bc-7f1c-2712-2ee5b4423047,114,meningococcal MCV4P,136.0
+2018-10-22T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,e2c41ba1-dbaf-2934-dbbd-c7f8789e49ed,140,Influenza  seasonal  injectable  preservative free,136.0
+2018-10-22T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,e2c41ba1-dbaf-2934-dbbd-c7f8789e49ed,62,HPV  quadrivalent,136.0
+2019-10-28T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,3cb948d4-0748-553d-3881-3dc215663abc,140,Influenza  seasonal  injectable  preservative free,136.0
+2019-10-28T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,3cb948d4-0748-553d-3881-3dc215663abc,62,HPV  quadrivalent,136.0
+2020-11-02T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,18ce0690-c173-1185-5b0c-4125125d6fc3,140,Influenza  seasonal  injectable  preservative free,136.0
+2021-10-18T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,95781c32-cedb-802e-33de-07856e172f85,207,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,136.0
+2021-11-08T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,40da9ff1-c811-4131-f6fb-d59c281c70be,140,Influenza  seasonal  injectable  preservative free,136.0
+2021-11-15T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,c87a1b49-7175-9166-fb8e-fe3ffebfc72b,207,COVID-19  mRNA  LNP-S  PF  100 mcg/0.5mL dose or 50 mcg/0.25mL dose,136.0
+2022-11-14T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,16a1d13a-bb91-7036-82b5-5534016765f2,140,Influenza  seasonal  injectable  preservative free,136.0
+2022-11-14T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,16a1d13a-bb91-7036-82b5-5534016765f2,114,meningococcal MCV4P,136.0
+2023-11-20T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,85812b5f-466a-0c66-9289-872302a898d3,140,Influenza  seasonal  injectable  preservative free,136.0
+2024-11-25T23:33:30Z,a331b5bc-cbea-a205-a8bf-dbf3255ef36a,21615394-ce5c-3dd0-73c8-8b2fd7fef291,140,Influenza  seasonal  injectable  preservative free,136.0

@@ -1,0 +1,28 @@
+supplies_supplies_DATE,PATIENT,supplies_supplies_ENCOUNTER,supplies_supplies_CODE,supplies_supplies_DESCRIPTION,supplies_supplies_QUANTITY
+2016-03-04,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,1151b511-04e7-914c-8439-42c1e31b7cc7,277183007,Dental equipment (physical object),1
+2016-03-04,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,1151b511-04e7-914c-8439-42c1e31b7cc7,1230220004,Conventional release periodontal gel (dose form),1
+2016-03-04,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,1151b511-04e7-914c-8439-42c1e31b7cc7,469020004,Dental floss (physical object),1
+2017-03-10,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,49a42faf-76c7-f735-bb6b-8d453829cf07,277183007,Dental equipment (physical object),1
+2017-03-10,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,49a42faf-76c7-f735-bb6b-8d453829cf07,1230220004,Conventional release periodontal gel (dose form),1
+2017-03-10,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,49a42faf-76c7-f735-bb6b-8d453829cf07,469020004,Dental floss (physical object),1
+2018-03-23,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,c8cd4601-1075-54e4-12dd-f44bf21682af,277183007,Dental equipment (physical object),1
+2018-03-23,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,c8cd4601-1075-54e4-12dd-f44bf21682af,1230220004,Conventional release periodontal gel (dose form),1
+2018-03-23,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,c8cd4601-1075-54e4-12dd-f44bf21682af,469020004,Dental floss (physical object),1
+2018-06-08,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,cfc62b5a-941f-2796-29b8-85b33f0b9b52,277183007,Dental equipment (physical object),1
+2018-06-08,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,cfc62b5a-941f-2796-29b8-85b33f0b9b52,1230220004,Conventional release periodontal gel (dose form),1
+2018-06-08,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,cfc62b5a-941f-2796-29b8-85b33f0b9b52,469020004,Dental floss (physical object),1
+2019-03-29,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,7061c2a7-e140-3e99-d4da-462e8966ecff,277183007,Dental equipment (physical object),1
+2019-03-29,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,7061c2a7-e140-3e99-d4da-462e8966ecff,1230220004,Conventional release periodontal gel (dose form),1
+2019-03-29,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,7061c2a7-e140-3e99-d4da-462e8966ecff,469020004,Dental floss (physical object),1
+2020-04-03,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,1472ac19-f361-1ddc-1c5a-cb3bc2e401c4,277183007,Dental equipment (physical object),1
+2020-04-03,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,1472ac19-f361-1ddc-1c5a-cb3bc2e401c4,1230220004,Conventional release periodontal gel (dose form),1
+2020-04-03,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,1472ac19-f361-1ddc-1c5a-cb3bc2e401c4,469020004,Dental floss (physical object),1
+2022-04-15,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,8ce65c47-51a4-fa1b-fdfd-80c6f1116be5,277183007,Dental equipment (physical object),1
+2022-04-15,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,8ce65c47-51a4-fa1b-fdfd-80c6f1116be5,1230220004,Conventional release periodontal gel (dose form),1
+2022-04-15,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,8ce65c47-51a4-fa1b-fdfd-80c6f1116be5,469020004,Dental floss (physical object),1
+2022-07-22,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,b333e4bd-bfcd-424a-3edb-a78e5e01e891,277183007,Dental equipment (physical object),1
+2022-07-22,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,b333e4bd-bfcd-424a-3edb-a78e5e01e891,1230220004,Conventional release periodontal gel (dose form),1
+2022-07-22,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,b333e4bd-bfcd-424a-3edb-a78e5e01e891,469020004,Dental floss (physical object),1
+2024-04-26,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,b50f3a13-367d-be20-7c61-a3d7abf1720f,277183007,Dental equipment (physical object),1
+2024-04-26,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,b50f3a13-367d-be20-7c61-a3d7abf1720f,1230220004,Conventional release periodontal gel (dose form),1
+2024-04-26,80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7,b50f3a13-367d-be20-7c61-a3d7abf1720f,469020004,Dental floss (physical object),1

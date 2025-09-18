@@ -1,0 +1,16 @@
+immunizations_immunizations_DATE,PATIENT,immunizations_immunizations_ENCOUNTER,immunizations_immunizations_CODE,immunizations_immunizations_DESCRIPTION,immunizations_immunizations_BASE_COST
+2015-09-20T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,36824ca6-a361-aa60-3c99-78730de34c7b,140,Influenza  seasonal  injectable  preservative free,136.0
+2016-09-25T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,23ed40bd-f31a-85e7-7313-b25baaedee57,140,Influenza  seasonal  injectable  preservative free,136.0
+2017-10-01T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,17dc84d4-bc40-3d77-3a66-8e3ebdad03b1,140,Influenza  seasonal  injectable  preservative free,136.0
+2017-10-01T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,17dc84d4-bc40-3d77-3a66-8e3ebdad03b1,113,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,136.0
+2018-10-07T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,ffa19a96-ac04-ab41-481b-d08e130140a8,140,Influenza  seasonal  injectable  preservative free,136.0
+2019-10-13T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,fe01979f-dc71-6859-baa0-42622256c6ac,140,Influenza  seasonal  injectable  preservative free,136.0
+2020-10-18T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,4c89ebc8-11c9-cfda-3ec1-a577a03f3e59,140,Influenza  seasonal  injectable  preservative free,136.0
+2021-04-11T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,1edbcb77-2a95-4326-3f39-e66e9e3b4dfd,208,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,136.0
+2021-05-02T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,81f6426e-151d-362a-96dd-89bb1b5ad827,208,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,136.0
+2021-10-24T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,7894e709-916d-69b4-fb39-db3254ea770c,140,Influenza  seasonal  injectable  preservative free,136.0
+2021-10-24T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,7894e709-916d-69b4-fb39-db3254ea770c,133,Pneumococcal conjugate PCV 13,136.0
+2022-10-30T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,d854156e-1a9c-f1fd-e980-f087bcd6201d,140,Influenza  seasonal  injectable  preservative free,136.0
+2022-10-30T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,d854156e-1a9c-f1fd-e980-f087bcd6201d,33,pneumococcal polysaccharide vaccine  23 valent,136.0
+2023-11-05T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,70322a47-c820-fea7-3f6f-064fa2a5e9de,140,Influenza  seasonal  injectable  preservative free,136.0
+2024-11-10T22:26:26Z,5a0fd7a2-6bfd-af1e-7bb6-2060136302c3,e683a4f9-92a4-d4ce-51e9-fd5b8ee873bc,140,Influenza  seasonal  injectable  preservative free,136.0

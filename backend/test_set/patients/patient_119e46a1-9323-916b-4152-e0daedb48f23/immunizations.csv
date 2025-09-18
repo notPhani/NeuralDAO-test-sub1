@@ -1,0 +1,13 @@
+immunizations_immunizations_DATE,PATIENT,immunizations_immunizations_ENCOUNTER,immunizations_immunizations_CODE,immunizations_immunizations_DESCRIPTION,immunizations_immunizations_BASE_COST
+2017-06-20T11:18:41Z,119e46a1-9323-916b-4152-e0daedb48f23,293c3e2e-3fa4-b26e-a307-3d2bfdf0cd3c,140,Influenza  seasonal  injectable  preservative free,136.0
+2017-06-20T11:18:41Z,119e46a1-9323-916b-4152-e0daedb48f23,293c3e2e-3fa4-b26e-a307-3d2bfdf0cd3c,113,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,136.0
+2017-06-20T11:18:41Z,119e46a1-9323-916b-4152-e0daedb48f23,293c3e2e-3fa4-b26e-a307-3d2bfdf0cd3c,52,Hep A  adult,136.0
+2018-06-26T11:18:41Z,119e46a1-9323-916b-4152-e0daedb48f23,98dfe666-261f-fe6f-2412-3443a1e1ae1f,140,Influenza  seasonal  injectable  preservative free,136.0
+2019-07-02T11:18:41Z,119e46a1-9323-916b-4152-e0daedb48f23,38c1d0f9-c961-f03f-8c3c-047bc0fcee43,140,Influenza  seasonal  injectable  preservative free,136.0
+2020-07-07T11:18:41Z,119e46a1-9323-916b-4152-e0daedb48f23,8373e39a-a3de-afcc-afb0-e785fb12dd26,140,Influenza  seasonal  injectable  preservative free,136.0
+2021-04-20T11:18:41Z,119e46a1-9323-916b-4152-e0daedb48f23,03e481e5-cc14-6b05-4f03-da7baaa7af3d,208,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,136.0
+2021-05-11T11:18:41Z,119e46a1-9323-916b-4152-e0daedb48f23,13b4ef36-5db4-c2c8-bd98-32f14059409c,208,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,136.0
+2021-07-13T11:18:41Z,119e46a1-9323-916b-4152-e0daedb48f23,e25e894c-72c6-931a-681e-3dd399f4723e,140,Influenza  seasonal  injectable  preservative free,136.0
+2022-07-19T11:18:41Z,119e46a1-9323-916b-4152-e0daedb48f23,898e1fbc-1cd2-1625-b30a-e3fcaf8734c3,140,Influenza  seasonal  injectable  preservative free,136.0
+2023-07-25T11:18:41Z,119e46a1-9323-916b-4152-e0daedb48f23,7a9502a3-377c-1ca8-b908-2af40fb8f270,140,Influenza  seasonal  injectable  preservative free,136.0
+2024-07-30T11:18:41Z,119e46a1-9323-916b-4152-e0daedb48f23,1ae259c1-6aeb-dc33-2441-47cb3e769f34,140,Influenza  seasonal  injectable  preservative free,136.0

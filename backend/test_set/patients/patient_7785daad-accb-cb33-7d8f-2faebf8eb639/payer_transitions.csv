@@ -1,0 +1,13 @@
+PATIENT,payer_transitions_payer_transitions_MEMBERID,payer_transitions_payer_transitions_START_DATE,payer_transitions_payer_transitions_END_DATE,payer_transitions_payer_transitions_PAYER,payer_transitions_payer_transitions_SECONDARY_PAYER,payer_transitions_payer_transitions_PLAN_OWNERSHIP,payer_transitions_payer_transitions_OWNER_NAME
+7785daad-accb-cb33-7d8f-2faebf8eb639,42ab7d86-9518-8920-964c-0a209cfe0731,2014-07-22T13:41:28Z,2015-07-21T13:41:28Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Lavina533 Frami345
+7785daad-accb-cb33-7d8f-2faebf8eb639,5f5d3913-fe9b-f4f9-0701-41ef9b56531b,2015-07-21T13:41:28Z,2016-07-26T13:41:28Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Frami345
+7785daad-accb-cb33-7d8f-2faebf8eb639,1797d891-fe66-efb6-0586-9158b5823c2d,2016-07-26T13:41:28Z,2017-07-25T13:41:28Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Frami345
+7785daad-accb-cb33-7d8f-2faebf8eb639,7f6f9e48-2f7f-bac3-a9be-589f5049263a,2017-07-25T13:41:28Z,2018-07-24T13:41:28Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Lavina533 Frami345
+7785daad-accb-cb33-7d8f-2faebf8eb639,9507152d-1936-f08e-f934-143c9f353858,2018-07-24T13:41:28Z,2019-07-23T13:41:28Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Frami345
+7785daad-accb-cb33-7d8f-2faebf8eb639,28636341-696b-c8a6-2ab8-b4a777ed8834,2019-07-23T13:41:28Z,2020-07-21T13:41:28Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Lavina533 Frami345
+7785daad-accb-cb33-7d8f-2faebf8eb639,a450fba4-eee2-3725-1b63-80b80944ec30,2020-07-21T13:41:28Z,2021-07-27T13:41:28Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Lavina533 Frami345
+7785daad-accb-cb33-7d8f-2faebf8eb639,5b3613fb-ca4f-2aa8-0e82-a0b0b5bdc40f,2021-07-27T13:41:28Z,2022-07-26T13:41:28Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Lavina533 Frami345
+7785daad-accb-cb33-7d8f-2faebf8eb639,23094eb9-bc0f-9475-2de2-c1dd5ce276bc,2022-07-26T13:41:28Z,2023-07-25T13:41:28Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Lavina533 Frami345
+7785daad-accb-cb33-7d8f-2faebf8eb639,9e0a9ac3-d49e-1b93-cff2-723f59afc989,2023-07-25T13:41:28Z,2024-07-23T13:41:28Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Lavina533 Frami345
+7785daad-accb-cb33-7d8f-2faebf8eb639,f106f2bd-4369-e94b-f1e7-06416fa96514,2024-07-23T13:41:28Z,2025-07-22T13:41:28Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Lavina533 Frami345
+7785daad-accb-cb33-7d8f-2faebf8eb639,6535a871-51c3-83a2-73f1-4b77f5d44075,2025-07-22T13:41:28Z,2026-07-21T13:41:28Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Frami345

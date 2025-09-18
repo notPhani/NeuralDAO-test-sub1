@@ -1,0 +1,16 @@
+supplies_supplies_DATE,PATIENT,supplies_supplies_ENCOUNTER,supplies_supplies_CODE,supplies_supplies_DESCRIPTION,supplies_supplies_QUANTITY
+2016-07-21,575cac8f-bed1-32da-30a6-3a516a78500d,80314734-c6b8-e47c-1eed-fe5f8a3ec1bd,337388004,Blood glucose testing strips (physical object),50
+2019-07-25,575cac8f-bed1-32da-30a6-3a516a78500d,d60deee3-3075-8f30-3c2b-f956abc1c2bd,337388004,Blood glucose testing strips (physical object),50
+2019-08-08,575cac8f-bed1-32da-30a6-3a516a78500d,afa68a80-8f20-2790-a0d0-f0e08b8f58dd,277183007,Dental equipment (physical object),1
+2019-08-08,575cac8f-bed1-32da-30a6-3a516a78500d,afa68a80-8f20-2790-a0d0-f0e08b8f58dd,1230220004,Conventional release periodontal gel (dose form),1
+2019-08-08,575cac8f-bed1-32da-30a6-3a516a78500d,afa68a80-8f20-2790-a0d0-f0e08b8f58dd,469020004,Dental floss (physical object),1
+2021-08-05,575cac8f-bed1-32da-30a6-3a516a78500d,c0007154-7b39-3c27-e7ef-51067a9ef370,337388004,Blood glucose testing strips (physical object),50
+2021-08-19,575cac8f-bed1-32da-30a6-3a516a78500d,63f0d84a-3813-167a-4496-7c056e278759,277183007,Dental equipment (physical object),1
+2021-08-19,575cac8f-bed1-32da-30a6-3a516a78500d,63f0d84a-3813-167a-4496-7c056e278759,1230220004,Conventional release periodontal gel (dose form),1
+2021-08-19,575cac8f-bed1-32da-30a6-3a516a78500d,63f0d84a-3813-167a-4496-7c056e278759,469020004,Dental floss (physical object),1
+2022-08-11,575cac8f-bed1-32da-30a6-3a516a78500d,6e9259dc-6310-b77d-15db-68d5bc810d76,337388004,Blood glucose testing strips (physical object),50
+2023-08-17,575cac8f-bed1-32da-30a6-3a516a78500d,0d1c92be-b512-3bae-a436-6fa489161491,337388004,Blood glucose testing strips (physical object),50
+2023-08-17,575cac8f-bed1-32da-30a6-3a516a78500d,0d1c92be-b512-3bae-a436-6fa489161491,1137596000,Blood lancet (physical object),100
+2024-08-22,575cac8f-bed1-32da-30a6-3a516a78500d,2603df1a-f1a5-28bc-ae2a-a7ee433fcbe5,337388004,Blood glucose testing strips (physical object),50
+2024-08-22,575cac8f-bed1-32da-30a6-3a516a78500d,2603df1a-f1a5-28bc-ae2a-a7ee433fcbe5,1137596000,Blood lancet (physical object),100
+2024-08-22,575cac8f-bed1-32da-30a6-3a516a78500d,2603df1a-f1a5-28bc-ae2a-a7ee433fcbe5,8537005,Solution (substance),100

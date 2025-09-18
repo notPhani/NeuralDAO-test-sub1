@@ -1,0 +1,12 @@
+conditions_conditions_START,conditions_conditions_STOP,PATIENT,conditions_conditions_ENCOUNTER,conditions_conditions_SYSTEM,conditions_conditions_CODE,conditions_conditions_DESCRIPTION
+1986-05-16,,f49221bb-20fb-45cb-9345-09b6a83ae9de,966e1bc0-415a-dcbb-d75c-6878fcee4972,http://snomed.info/sct,60234000,Aortic valve regurgitation (disorder)
+2004-07-09,,f49221bb-20fb-45cb-9345-09b6a83ae9de,a594e320-d7a5-05d5-e361-17870208c4f8,http://snomed.info/sct,224295006,Only received primary school education (finding)
+2004-10-08,,f49221bb-20fb-45cb-9345-09b6a83ae9de,15d0f54e-0aeb-a091-5230-98f50d830384,http://snomed.info/sct,361055000,Misuses drugs (finding)
+2005-07-15,,f49221bb-20fb-45cb-9345-09b6a83ae9de,01e699bb-b281-6923-a461-abb223e166d2,http://snomed.info/sct,314529007,Medication review due (situation)
+2014-07-25,2017-07-28,f49221bb-20fb-45cb-9345-09b6a83ae9de,029a532f-ddc9-e6fa-145f-1d10fd981ae2,http://snomed.info/sct,73438004,Unemployed (finding)
+2017-07-28,2020-07-31,f49221bb-20fb-45cb-9345-09b6a83ae9de,725e1e98-2cc6-ba71-11ce-989761c6b8e5,http://snomed.info/sct,741062008,Not in labor force (finding)
+2017-08-11,2017-08-11,f49221bb-20fb-45cb-9345-09b6a83ae9de,4f6c57f7-75ce-35e5-5e1e-de9b47cdb76b,http://snomed.info/sct,427898007,Infection of tooth (disorder)
+2017-08-11,2017-08-11,f49221bb-20fb-45cb-9345-09b6a83ae9de,4f6c57f7-75ce-35e5-5e1e-de9b47cdb76b,http://snomed.info/sct,278598003,Leaking dental filling (finding)
+2020-07-31,2023-08-04,f49221bb-20fb-45cb-9345-09b6a83ae9de,affd9222-4e10-e9d8-6e31-2b9e73083017,http://snomed.info/sct,160904001,Part-time employment (finding)
+2020-07-31,2023-08-04,f49221bb-20fb-45cb-9345-09b6a83ae9de,affd9222-4e10-e9d8-6e31-2b9e73083017,http://snomed.info/sct,73595000,Stress (finding)
+2023-08-04,,f49221bb-20fb-45cb-9345-09b6a83ae9de,139f0aa4-644e-66e6-1886-0dba43d36d84,http://snomed.info/sct,160903007,Full-time employment (finding)

@@ -1,0 +1,4 @@
+allergies_allergies_START,allergies_allergies_STOP,PATIENT,allergies_allergies_ENCOUNTER,allergies_allergies_CODE,allergies_allergies_SYSTEM,allergies_allergies_DESCRIPTION,allergies_allergies_TYPE,allergies_allergies_CATEGORY,allergies_allergies_REACTION1,allergies_allergies_DESCRIPTION1,allergies_allergies_SEVERITY1,allergies_allergies_REACTION2,allergies_allergies_DESCRIPTION2,allergies_allergies_SEVERITY2
+1944-05-31,,033cccaf-bc92-3ddd-b64c-9ea45268a971,1bcb89ce-7b2d-2bea-0130-279ea2907fd6,609328004,SNOMED-CT,Allergic disposition (finding),allergy,environment,,,,,,
+1944-05-31,,033cccaf-bc92-3ddd-b64c-9ea45268a971,1bcb89ce-7b2d-2bea-0130-279ea2907fd6,29046,RxNorm,Lisinopril,intolerance,medication,,,,,,
+1944-05-31,,033cccaf-bc92-3ddd-b64c-9ea45268a971,1bcb89ce-7b2d-2bea-0130-279ea2907fd6,1191,RxNorm,Aspirin,allergy,medication,,,,,,

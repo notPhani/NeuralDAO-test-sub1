@@ -1,0 +1,35 @@
+immunizations_immunizations_DATE,PATIENT,immunizations_immunizations_ENCOUNTER,immunizations_immunizations_CODE,immunizations_immunizations_DESCRIPTION,immunizations_immunizations_BASE_COST
+2017-12-17T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,064323da-d732-789c-fa52-c43e1e8e83bb,8,Hep B  adolescent or pediatric,136.0
+2018-01-21T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,76371b8a-196f-c2bc-34cd-b17de083586b,8,Hep B  adolescent or pediatric,136.0
+2018-03-25T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,85e95b7c-a552-a0ad-a028-72427babfd71,49,Hib (PRP-OMP),136.0
+2018-03-25T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,85e95b7c-a552-a0ad-a028-72427babfd71,119,rotavirus  monovalent,136.0
+2018-03-25T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,85e95b7c-a552-a0ad-a028-72427babfd71,10,IPV,136.0
+2018-03-25T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,85e95b7c-a552-a0ad-a028-72427babfd71,20,DTaP,136.0
+2018-03-25T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,85e95b7c-a552-a0ad-a028-72427babfd71,133,Pneumococcal conjugate PCV 13,136.0
+2018-05-27T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,2c6579de-dae3-b731-4ab8-7cc70608e93a,49,Hib (PRP-OMP),136.0
+2018-05-27T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,2c6579de-dae3-b731-4ab8-7cc70608e93a,119,rotavirus  monovalent,136.0
+2018-05-27T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,2c6579de-dae3-b731-4ab8-7cc70608e93a,10,IPV,136.0
+2018-05-27T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,2c6579de-dae3-b731-4ab8-7cc70608e93a,20,DTaP,136.0
+2018-05-27T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,2c6579de-dae3-b731-4ab8-7cc70608e93a,133,Pneumococcal conjugate PCV 13,136.0
+2018-08-26T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,6244d6ca-c96b-ccb1-2903-cb7191365bf4,10,IPV,136.0
+2018-08-26T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,6244d6ca-c96b-ccb1-2903-cb7191365bf4,140,Influenza  seasonal  injectable  preservative free,136.0
+2018-08-26T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,6244d6ca-c96b-ccb1-2903-cb7191365bf4,20,DTaP,136.0
+2018-08-26T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,6244d6ca-c96b-ccb1-2903-cb7191365bf4,133,Pneumococcal conjugate PCV 13,136.0
+2018-08-26T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,6244d6ca-c96b-ccb1-2903-cb7191365bf4,8,Hep B  adolescent or pediatric,136.0
+2019-02-24T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,9a20737a-5bb6-2a65-d67c-79a8a70e4edb,49,Hib (PRP-OMP),136.0
+2019-02-24T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,9a20737a-5bb6-2a65-d67c-79a8a70e4edb,21,varicella,136.0
+2019-02-24T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,9a20737a-5bb6-2a65-d67c-79a8a70e4edb,3,MMR,136.0
+2019-02-24T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,9a20737a-5bb6-2a65-d67c-79a8a70e4edb,133,Pneumococcal conjugate PCV 13,136.0
+2019-02-24T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,9a20737a-5bb6-2a65-d67c-79a8a70e4edb,83,Hep A  ped/adol  2 dose,136.0
+2019-05-26T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,727d072a-b25b-b891-87f8-39c46fee5f3e,20,DTaP,136.0
+2019-11-24T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,e872e73b-f853-30f5-70fc-7508947f887a,140,Influenza  seasonal  injectable  preservative free,136.0
+2020-05-24T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,2ca17f62-be92-6415-bc0a-b402ec3fdc79,83,Hep A  ped/adol  2 dose,136.0
+2020-11-22T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,bb0dd0da-4179-bdd6-7fe9-ae0ffc0f0d37,140,Influenza  seasonal  injectable  preservative free,136.0
+2021-11-21T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,0ca8add8-fc24-6f60-832b-30abb7bf897b,140,Influenza  seasonal  injectable  preservative free,136.0
+2022-11-27T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,d8ad2e98-26a7-42a5-f935-c449a5e9b59e,21,varicella,136.0
+2022-11-27T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,d8ad2e98-26a7-42a5-f935-c449a5e9b59e,10,IPV,136.0
+2022-11-27T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,d8ad2e98-26a7-42a5-f935-c449a5e9b59e,140,Influenza  seasonal  injectable  preservative free,136.0
+2022-11-27T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,d8ad2e98-26a7-42a5-f935-c449a5e9b59e,20,DTaP,136.0
+2022-11-27T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,d8ad2e98-26a7-42a5-f935-c449a5e9b59e,3,MMR,136.0
+2023-12-03T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,4ac96a9c-e3f6-c14e-c007-67bc7e6a6ce1,140,Influenza  seasonal  injectable  preservative free,136.0
+2024-12-08T17:08:30Z,15c6645a-8f7b-df42-95ec-8b49bda12c10,86ad31fb-bb3e-81a5-d0ba-84a99a055962,140,Influenza  seasonal  injectable  preservative free,136.0

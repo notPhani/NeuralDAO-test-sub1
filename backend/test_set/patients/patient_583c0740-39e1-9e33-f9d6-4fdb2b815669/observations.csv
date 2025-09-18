@@ -1,0 +1,1022 @@
+observations_observations_DATE,PATIENT,observations_observations_ENCOUNTER,observations_observations_CATEGORY,observations_observations_CODE,observations_observations_DESCRIPTION,observations_observations_VALUE,observations_observations_UNITS,observations_observations_TYPE
+2015-08-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,9aa6a077-1cbf-ebeb-0558-2dd4a9d70c70,vital-signs,8302-2,Body Height,63.8,cm,numeric
+2015-08-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,9aa6a077-1cbf-ebeb-0558-2dd4a9d70c70,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+2015-08-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,9aa6a077-1cbf-ebeb-0558-2dd4a9d70c70,vital-signs,29463-7,Body Weight,8.5,kg,numeric
+2015-08-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,9aa6a077-1cbf-ebeb-0558-2dd4a9d70c70,vital-signs,77606-2,Weight-for-length Per age and sex,97.4,%,numeric
+2015-08-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,9aa6a077-1cbf-ebeb-0558-2dd4a9d70c70,vital-signs,8289-1,Head Occipital-frontal circumference Percentile,42.1,%,numeric
+2015-08-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,9aa6a077-1cbf-ebeb-0558-2dd4a9d70c70,vital-signs,9843-4,Head Occipital-frontal circumference,41.8,cm,numeric
+2015-08-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,9aa6a077-1cbf-ebeb-0558-2dd4a9d70c70,vital-signs,8462-4,Diastolic Blood Pressure,71.0,mm[Hg],numeric
+2015-08-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,9aa6a077-1cbf-ebeb-0558-2dd4a9d70c70,vital-signs,8480-6,Systolic Blood Pressure,107.0,mm[Hg],numeric
+2015-08-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,9aa6a077-1cbf-ebeb-0558-2dd4a9d70c70,vital-signs,8867-4,Heart rate,85.0,/min,numeric
+2015-08-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,9aa6a077-1cbf-ebeb-0558-2dd4a9d70c70,vital-signs,9279-1,Respiratory rate,16.0,/min,numeric
+2015-08-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,9aa6a077-1cbf-ebeb-0558-2dd4a9d70c70,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2015-11-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3b28d542-4286-d9a7-0fdb-a9f213e99120,vital-signs,8302-2,Body Height,68.5,cm,numeric
+2015-11-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3b28d542-4286-d9a7-0fdb-a9f213e99120,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,4.0,{score},numeric
+2015-11-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3b28d542-4286-d9a7-0fdb-a9f213e99120,vital-signs,29463-7,Body Weight,10.1,kg,numeric
+2015-11-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3b28d542-4286-d9a7-0fdb-a9f213e99120,vital-signs,77606-2,Weight-for-length Per age and sex,98.3,%,numeric
+2015-11-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3b28d542-4286-d9a7-0fdb-a9f213e99120,vital-signs,8289-1,Head Occipital-frontal circumference Percentile,42.1,%,numeric
+2015-11-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3b28d542-4286-d9a7-0fdb-a9f213e99120,vital-signs,9843-4,Head Occipital-frontal circumference,43.5,cm,numeric
+2015-11-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3b28d542-4286-d9a7-0fdb-a9f213e99120,vital-signs,8462-4,Diastolic Blood Pressure,63.0,mm[Hg],numeric
+2015-11-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3b28d542-4286-d9a7-0fdb-a9f213e99120,vital-signs,8480-6,Systolic Blood Pressure,108.0,mm[Hg],numeric
+2015-11-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3b28d542-4286-d9a7-0fdb-a9f213e99120,vital-signs,8867-4,Heart rate,84.0,/min,numeric
+2015-11-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3b28d542-4286-d9a7-0fdb-a9f213e99120,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2015-11-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3b28d542-4286-d9a7-0fdb-a9f213e99120,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2016-02-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e25865a9-45b8-1a1a-6d21-ce6e24ea789a,vital-signs,8302-2,Body Height,72.5,cm,numeric
+2016-02-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e25865a9-45b8-1a1a-6d21-ce6e24ea789a,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,4.0,{score},numeric
+2016-02-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e25865a9-45b8-1a1a-6d21-ce6e24ea789a,vital-signs,29463-7,Body Weight,11.3,kg,numeric
+2016-02-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e25865a9-45b8-1a1a-6d21-ce6e24ea789a,vital-signs,77606-2,Weight-for-length Per age and sex,98.8,%,numeric
+2016-02-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e25865a9-45b8-1a1a-6d21-ce6e24ea789a,vital-signs,8289-1,Head Occipital-frontal circumference Percentile,42.1,%,numeric
+2016-02-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e25865a9-45b8-1a1a-6d21-ce6e24ea789a,vital-signs,9843-4,Head Occipital-frontal circumference,44.6,cm,numeric
+2016-02-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e25865a9-45b8-1a1a-6d21-ce6e24ea789a,vital-signs,8462-4,Diastolic Blood Pressure,73.0,mm[Hg],numeric
+2016-02-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e25865a9-45b8-1a1a-6d21-ce6e24ea789a,vital-signs,8480-6,Systolic Blood Pressure,118.0,mm[Hg],numeric
+2016-02-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e25865a9-45b8-1a1a-6d21-ce6e24ea789a,vital-signs,8867-4,Heart rate,61.0,/min,numeric
+2016-02-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e25865a9-45b8-1a1a-6d21-ce6e24ea789a,vital-signs,9279-1,Respiratory rate,16.0,/min,numeric
+2016-02-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e25865a9-45b8-1a1a-6d21-ce6e24ea789a,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2016-05-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,8a061a6f-7a2f-3263-14fb-a89bdb583a9a,vital-signs,8302-2,Body Height,75.9,cm,numeric
+2016-05-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,8a061a6f-7a2f-3263-14fb-a89bdb583a9a,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+2016-05-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,8a061a6f-7a2f-3263-14fb-a89bdb583a9a,vital-signs,29463-7,Body Weight,12.3,kg,numeric
+2016-05-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,8a061a6f-7a2f-3263-14fb-a89bdb583a9a,vital-signs,77606-2,Weight-for-length Per age and sex,99.3,%,numeric
+2016-05-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,8a061a6f-7a2f-3263-14fb-a89bdb583a9a,vital-signs,8289-1,Head Occipital-frontal circumference Percentile,42.1,%,numeric
+2016-05-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,8a061a6f-7a2f-3263-14fb-a89bdb583a9a,vital-signs,9843-4,Head Occipital-frontal circumference,45.5,cm,numeric
+2016-05-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,8a061a6f-7a2f-3263-14fb-a89bdb583a9a,vital-signs,8462-4,Diastolic Blood Pressure,71.0,mm[Hg],numeric
+2016-05-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,8a061a6f-7a2f-3263-14fb-a89bdb583a9a,vital-signs,8480-6,Systolic Blood Pressure,116.0,mm[Hg],numeric
+2016-05-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,8a061a6f-7a2f-3263-14fb-a89bdb583a9a,vital-signs,8867-4,Heart rate,65.0,/min,numeric
+2016-05-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,8a061a6f-7a2f-3263-14fb-a89bdb583a9a,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2016-05-23T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,8a061a6f-7a2f-3263-14fb-a89bdb583a9a,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2016-06-12T16:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,24b6287a-fce5-8420-3c54-3bc5a64e60fe,vital-signs,8310-5,Body temperature,37.0,Cel,numeric
+2016-08-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,b7e1122c-a3af-5185-c8b9-639bb707555b,vital-signs,8302-2,Body Height,79.0,cm,numeric
+2016-08-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,b7e1122c-a3af-5185-c8b9-639bb707555b,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+2016-08-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,b7e1122c-a3af-5185-c8b9-639bb707555b,vital-signs,29463-7,Body Weight,13.2,kg,numeric
+2016-08-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,b7e1122c-a3af-5185-c8b9-639bb707555b,vital-signs,77606-2,Weight-for-length Per age and sex,99.5,%,numeric
+2016-08-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,b7e1122c-a3af-5185-c8b9-639bb707555b,vital-signs,8289-1,Head Occipital-frontal circumference Percentile,42.1,%,numeric
+2016-08-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,b7e1122c-a3af-5185-c8b9-639bb707555b,vital-signs,9843-4,Head Occipital-frontal circumference,46.2,cm,numeric
+2016-08-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,b7e1122c-a3af-5185-c8b9-639bb707555b,vital-signs,8462-4,Diastolic Blood Pressure,70.0,mm[Hg],numeric
+2016-08-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,b7e1122c-a3af-5185-c8b9-639bb707555b,vital-signs,8480-6,Systolic Blood Pressure,120.0,mm[Hg],numeric
+2016-08-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,b7e1122c-a3af-5185-c8b9-639bb707555b,vital-signs,8867-4,Heart rate,83.0,/min,numeric
+2016-08-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,b7e1122c-a3af-5185-c8b9-639bb707555b,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2016-08-22T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,b7e1122c-a3af-5185-c8b9-639bb707555b,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2017-02-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f10aaad6-8ea8-8579-9062-c80584e9ebb5,vital-signs,8302-2,Body Height,84.5,cm,numeric
+2017-02-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f10aaad6-8ea8-8579-9062-c80584e9ebb5,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,0.0,{score},numeric
+2017-02-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f10aaad6-8ea8-8579-9062-c80584e9ebb5,vital-signs,29463-7,Body Weight,14.6,kg,numeric
+2017-02-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f10aaad6-8ea8-8579-9062-c80584e9ebb5,vital-signs,77606-2,Weight-for-length Per age and sex,99.4,%,numeric
+2017-02-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f10aaad6-8ea8-8579-9062-c80584e9ebb5,vital-signs,8289-1,Head Occipital-frontal circumference Percentile,42.1,%,numeric
+2017-02-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f10aaad6-8ea8-8579-9062-c80584e9ebb5,vital-signs,9843-4,Head Occipital-frontal circumference,47.1,cm,numeric
+2017-02-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f10aaad6-8ea8-8579-9062-c80584e9ebb5,vital-signs,8462-4,Diastolic Blood Pressure,73.0,mm[Hg],numeric
+2017-02-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f10aaad6-8ea8-8579-9062-c80584e9ebb5,vital-signs,8480-6,Systolic Blood Pressure,113.0,mm[Hg],numeric
+2017-02-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f10aaad6-8ea8-8579-9062-c80584e9ebb5,vital-signs,8867-4,Heart rate,95.0,/min,numeric
+2017-02-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f10aaad6-8ea8-8579-9062-c80584e9ebb5,vital-signs,9279-1,Respiratory rate,13.0,/min,numeric
+2017-02-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f10aaad6-8ea8-8579-9062-c80584e9ebb5,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2017-08-21T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,4977ce49-9ccc-6058-3161-fc2c14ee65db,vital-signs,8302-2,Body Height,88.6,cm,numeric
+2017-08-21T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,4977ce49-9ccc-6058-3161-fc2c14ee65db,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2017-08-21T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,4977ce49-9ccc-6058-3161-fc2c14ee65db,vital-signs,29463-7,Body Weight,16.2,kg,numeric
+2017-08-21T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,4977ce49-9ccc-6058-3161-fc2c14ee65db,vital-signs,77606-2,Weight-for-length Per age and sex,99.7,%,numeric
+2017-08-21T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,4977ce49-9ccc-6058-3161-fc2c14ee65db,vital-signs,8289-1,Head Occipital-frontal circumference Percentile,42.1,%,numeric
+2017-08-21T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,4977ce49-9ccc-6058-3161-fc2c14ee65db,vital-signs,9843-4,Head Occipital-frontal circumference,47.8,cm,numeric
+2017-08-21T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,4977ce49-9ccc-6058-3161-fc2c14ee65db,vital-signs,39156-5,Body mass index (BMI) [Ratio],20.6,kg/m2,numeric
+2017-08-21T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,4977ce49-9ccc-6058-3161-fc2c14ee65db,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,99.5,%,numeric
+2017-08-21T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,4977ce49-9ccc-6058-3161-fc2c14ee65db,vital-signs,8462-4,Diastolic Blood Pressure,75.0,mm[Hg],numeric
+2017-08-21T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,4977ce49-9ccc-6058-3161-fc2c14ee65db,vital-signs,8480-6,Systolic Blood Pressure,109.0,mm[Hg],numeric
+2017-08-21T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,4977ce49-9ccc-6058-3161-fc2c14ee65db,vital-signs,8867-4,Heart rate,75.0,/min,numeric
+2017-08-21T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,4977ce49-9ccc-6058-3161-fc2c14ee65db,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2017-08-21T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,4977ce49-9ccc-6058-3161-fc2c14ee65db,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2018-02-19T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3418435b-00ca-663d-e811-306522b2aae4,vital-signs,8302-2,Body Height,92.6,cm,numeric
+2018-02-19T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3418435b-00ca-663d-e811-306522b2aae4,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2018-02-19T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3418435b-00ca-663d-e811-306522b2aae4,vital-signs,29463-7,Body Weight,18.5,kg,numeric
+2018-02-19T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3418435b-00ca-663d-e811-306522b2aae4,vital-signs,77606-2,Weight-for-length Per age and sex,99.9,%,numeric
+2018-02-19T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3418435b-00ca-663d-e811-306522b2aae4,vital-signs,8289-1,Head Occipital-frontal circumference Percentile,42.1,%,numeric
+2018-02-19T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3418435b-00ca-663d-e811-306522b2aae4,vital-signs,9843-4,Head Occipital-frontal circumference,48.3,cm,numeric
+2018-02-19T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3418435b-00ca-663d-e811-306522b2aae4,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.6,kg/m2,numeric
+2018-02-19T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3418435b-00ca-663d-e811-306522b2aae4,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,99.8,%,numeric
+2018-02-19T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3418435b-00ca-663d-e811-306522b2aae4,vital-signs,8462-4,Diastolic Blood Pressure,68.0,mm[Hg],numeric
+2018-02-19T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3418435b-00ca-663d-e811-306522b2aae4,vital-signs,8480-6,Systolic Blood Pressure,116.0,mm[Hg],numeric
+2018-02-19T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3418435b-00ca-663d-e811-306522b2aae4,vital-signs,8867-4,Heart rate,65.0,/min,numeric
+2018-02-19T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3418435b-00ca-663d-e811-306522b2aae4,vital-signs,9279-1,Respiratory rate,16.0,/min,numeric
+2018-02-19T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,3418435b-00ca-663d-e811-306522b2aae4,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2018-08-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,2764efb3-06d3-a662-9be0-2bd7ab985169,vital-signs,8302-2,Body Height,96.0,cm,numeric
+2018-08-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,2764efb3-06d3-a662-9be0-2bd7ab985169,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+2018-08-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,2764efb3-06d3-a662-9be0-2bd7ab985169,vital-signs,29463-7,Body Weight,20.1,kg,numeric
+2018-08-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,2764efb3-06d3-a662-9be0-2bd7ab985169,vital-signs,77606-2,Weight-for-length Per age and sex,99.9,%,numeric
+2018-08-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,2764efb3-06d3-a662-9be0-2bd7ab985169,vital-signs,8289-1,Head Occipital-frontal circumference Percentile,42.1,%,numeric
+2018-08-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,2764efb3-06d3-a662-9be0-2bd7ab985169,vital-signs,9843-4,Head Occipital-frontal circumference,48.3,cm,numeric
+2018-08-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,2764efb3-06d3-a662-9be0-2bd7ab985169,vital-signs,39156-5,Body mass index (BMI) [Ratio],21.8,kg/m2,numeric
+2018-08-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,2764efb3-06d3-a662-9be0-2bd7ab985169,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,99.8,%,numeric
+2018-08-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,2764efb3-06d3-a662-9be0-2bd7ab985169,vital-signs,8462-4,Diastolic Blood Pressure,74.0,mm[Hg],numeric
+2018-08-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,2764efb3-06d3-a662-9be0-2bd7ab985169,vital-signs,8480-6,Systolic Blood Pressure,110.0,mm[Hg],numeric
+2018-08-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,2764efb3-06d3-a662-9be0-2bd7ab985169,vital-signs,8867-4,Heart rate,94.0,/min,numeric
+2018-08-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,2764efb3-06d3-a662-9be0-2bd7ab985169,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2018-08-20T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,2764efb3-06d3-a662-9be0-2bd7ab985169,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2019-02-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,1c0ec7f1-51d1-8967-b07d-a6dfdf9e6747,vital-signs,8302-2,Body Height,99.4,cm,numeric
+2019-02-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,1c0ec7f1-51d1-8967-b07d-a6dfdf9e6747,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2019-02-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,1c0ec7f1-51d1-8967-b07d-a6dfdf9e6747,vital-signs,29463-7,Body Weight,19.7,kg,numeric
+2019-02-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,1c0ec7f1-51d1-8967-b07d-a6dfdf9e6747,vital-signs,77606-2,Weight-for-length Per age and sex,99.9,%,numeric
+2019-02-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,1c0ec7f1-51d1-8967-b07d-a6dfdf9e6747,vital-signs,8289-1,Head Occipital-frontal circumference Percentile,42.1,%,numeric
+2019-02-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,1c0ec7f1-51d1-8967-b07d-a6dfdf9e6747,vital-signs,9843-4,Head Occipital-frontal circumference,48.3,cm,numeric
+2019-02-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,1c0ec7f1-51d1-8967-b07d-a6dfdf9e6747,vital-signs,39156-5,Body mass index (BMI) [Ratio],20.0,kg/m2,numeric
+2019-02-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,1c0ec7f1-51d1-8967-b07d-a6dfdf9e6747,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,99.0,%,numeric
+2019-02-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,1c0ec7f1-51d1-8967-b07d-a6dfdf9e6747,vital-signs,8462-4,Diastolic Blood Pressure,69.0,mm[Hg],numeric
+2019-02-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,1c0ec7f1-51d1-8967-b07d-a6dfdf9e6747,vital-signs,8480-6,Systolic Blood Pressure,109.0,mm[Hg],numeric
+2019-02-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,1c0ec7f1-51d1-8967-b07d-a6dfdf9e6747,vital-signs,8867-4,Heart rate,85.0,/min,numeric
+2019-02-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,1c0ec7f1-51d1-8967-b07d-a6dfdf9e6747,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2019-02-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,1c0ec7f1-51d1-8967-b07d-a6dfdf9e6747,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2020-02-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,0f15b9ba-14c3-92c0-3e03-4d7087216e6f,vital-signs,8302-2,Body Height,106.2,cm,numeric
+2020-02-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,0f15b9ba-14c3-92c0-3e03-4d7087216e6f,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+2020-02-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,0f15b9ba-14c3-92c0-3e03-4d7087216e6f,vital-signs,29463-7,Body Weight,20.4,kg,numeric
+2020-02-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,0f15b9ba-14c3-92c0-3e03-4d7087216e6f,vital-signs,39156-5,Body mass index (BMI) [Ratio],18.1,kg/m2,numeric
+2020-02-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,0f15b9ba-14c3-92c0-3e03-4d7087216e6f,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,94.5,%,numeric
+2020-02-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,0f15b9ba-14c3-92c0-3e03-4d7087216e6f,vital-signs,8462-4,Diastolic Blood Pressure,74.0,mm[Hg],numeric
+2020-02-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,0f15b9ba-14c3-92c0-3e03-4d7087216e6f,vital-signs,8480-6,Systolic Blood Pressure,116.0,mm[Hg],numeric
+2020-02-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,0f15b9ba-14c3-92c0-3e03-4d7087216e6f,vital-signs,8867-4,Heart rate,97.0,/min,numeric
+2020-02-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,0f15b9ba-14c3-92c0-3e03-4d7087216e6f,vital-signs,9279-1,Respiratory rate,13.0,/min,numeric
+2020-02-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,0f15b9ba-14c3-92c0-3e03-4d7087216e6f,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2020-06-29T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,vital-signs,8310-5,Body temperature,39.6,Cel,numeric
+2020-06-29T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,vital-signs,9279-1,Respiratory rate,34.6,/min,numeric
+2020-06-29T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,vital-signs,8867-4,Heart rate,124.0,/min,numeric
+2020-06-29T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,vital-signs,2708-6,Oxygen saturation in Arterial blood,88.5,%,numeric
+2020-06-29T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,vital-signs,8462-4,Diastolic Blood Pressure,74.0,mm[Hg],numeric
+2020-06-29T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,vital-signs,8480-6,Systolic Blood Pressure,121.0,mm[Hg],numeric
+2020-06-29T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,vital-signs,29463-7,Body Weight,20.9,kg,numeric
+2020-06-29T13:45:43Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,laboratory,92142-9,Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection,Negative (qualifier value),,text
+2020-06-29T13:45:43Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,laboratory,92141-1,Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection,Negative (qualifier value),,text
+2020-06-29T13:45:43Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,laboratory,92131-2,Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection,Negative (qualifier value),,text
+2020-06-29T13:45:43Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,laboratory,92140-3,Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection,Negative (qualifier value),,text
+2020-06-29T13:45:43Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,laboratory,92139-5,Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection,Negative (qualifier value),,text
+2020-06-29T13:45:43Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,laboratory,92138-7,Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection,Negative (qualifier value),,text
+2020-06-29T13:45:43Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,laboratory,92130-4,Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection,Negative (qualifier value),,text
+2020-06-29T13:45:43Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,laboratory,92134-6,Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection,Negative (qualifier value),,text
+2020-06-29T13:45:43Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,laboratory,94040-3,Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection,Negative (qualifier value),,text
+2020-06-29T14:17:10Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,5055ca67-7e14-d36b-c2c1-91dfc2b3680a,laboratory,94531-1,SARS-CoV-2 RNA Pnl Resp NAA+probe,Detected (qualifier value),,text
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,40.1,Cel,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,28.2,/min,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,116.3,/min,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,87.6,%,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,80.0,mm[Hg],numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,127.0,mm[Hg],numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,20.9,kg,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.3,10*3/uL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,5.4,10*6/uL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,12.0,g/dL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,39.8,%,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,79.8,fL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,29.0,pg,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,32.5,g/dL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,13.7,%,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,131.8,10*3/uL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,35.2,%,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,12.7,%,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,8.5,%,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,3.8,%,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,2.6,%,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,1.9,10*3/uL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,1.1,10*3/uL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,1.3,10*3/uL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.5,10*3/uL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,74.4,mg/dL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2.8,mg/dL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,142.7,mmol/L,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,5.2,mmol/L,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,103.4,mmol/L,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,26.6,mmol/L,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),7.0,mL/min,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.9,g/dL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,5.1,g/dL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,7.7,mg/dL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,84.9,U/L,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,11.7,U/L,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,40.0,U/L,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,7.1,[pH],numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,43.2,mm[Hg],numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,43.3,mm[Hg],numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,22.5,mmol/L,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,84.3,%,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,56.9,%,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,48065-7,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,0.3,ug/mL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2276-4,Ferritin [Mass/volume] in Serum or Plasma,453.5,ug/L,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,89579-7,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,3.1,pg/mL,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,239.3,U/L,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,26.5,U/L,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,11.4,mg/L,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5902-2,Prothrombin time (PT),12.1,s,numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6301-6,INR in Platelet poor plasma by Coagulation assay,1.0,{INR},numeric
+2020-07-07T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33959-8,Procalcitonin [Mass/volume] in Serum or Plasma,0.0,ng/mL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,39.9,Cel,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,20.4,/min,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,173.7,/min,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,78.2,%,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,78.0,mm[Hg],numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,132.0,mm[Hg],numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,20.9,kg,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.0,10*3/uL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,5.5,10*6/uL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,12.9,g/dL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,43.6,%,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,84.0,fL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,30.8,pg,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,34.8,g/dL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,15.3,%,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,132.1,10*3/uL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,41.8,%,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,18.4,%,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,14.0,%,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,3.1,%,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,2.6,%,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,2.7,10*3/uL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,1.0,10*3/uL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,1.0,10*3/uL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.4,10*3/uL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,74.4,mg/dL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,3.0,mg/dL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,142.7,mmol/L,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,5.2,mmol/L,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,103.4,mmol/L,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,26.6,mmol/L,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),9.6,mL/min,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,5.7,g/dL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,4.4,g/dL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,6.5,mg/dL,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,105.7,U/L,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,24.5,U/L,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,21.6,U/L,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,7.2,[pH],numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,35.1,mm[Hg],numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,47.5,mm[Hg],numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,23.6,mmol/L,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,87.1,%,numeric
+2020-07-08T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,61.8,%,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,40.4,Cel,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,15.2,/min,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,87.1,/min,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,88.9,%,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,81.0,mm[Hg],numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,125.0,mm[Hg],numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,20.9,kg,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.6,10*3/uL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,5.2,10*6/uL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,12.4,g/dL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,40.7,%,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,92.3,fL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,32.1,pg,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,34.9,g/dL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,13.6,%,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,143.2,10*3/uL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,39.6,%,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,20.5,%,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,13.0,%,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,4.4,%,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,3.4,%,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,3.3,10*3/uL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,1.1,10*3/uL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,0.7,10*3/uL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.5,10*3/uL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.2,10*3/uL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,74.4,mg/dL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2.8,mg/dL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,142.7,mmol/L,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,5.2,mmol/L,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,103.4,mmol/L,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,26.6,mmol/L,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),8.1,mL/min,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.6,g/dL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,5.1,g/dL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,12.9,mg/dL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,61.2,U/L,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,31.4,U/L,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,21.9,U/L,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,7.1,[pH],numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,44.4,mm[Hg],numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,41.1,mm[Hg],numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,26.1,mmol/L,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,77.7,%,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,47.4,%,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,48065-7,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,0.4,ug/mL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2276-4,Ferritin [Mass/volume] in Serum or Plasma,407.8,ug/L,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,89579-7,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,2.5,pg/mL,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,230.6,U/L,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,14.4,U/L,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,8.5,mg/L,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5902-2,Prothrombin time (PT),11.7,s,numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6301-6,INR in Platelet poor plasma by Coagulation assay,2.5,{INR},numeric
+2020-07-09T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33959-8,Procalcitonin [Mass/volume] in Serum or Plasma,0.0,ng/mL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,41.2,Cel,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,28.3,/min,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,156.6,/min,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,78.2,%,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,79.0,mm[Hg],numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,124.0,mm[Hg],numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,20.9,kg,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.0,10*3/uL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,5.5,10*6/uL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,12.8,g/dL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,41.4,%,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,93.8,fL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,31.1,pg,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,34.8,g/dL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,15.4,%,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,110.2,10*3/uL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,19.7,%,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,17.9,%,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,6.4,%,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,5.6,%,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,2.1,%,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,1.6,10*3/uL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,1.0,10*3/uL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,1.1,10*3/uL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.2,10*3/uL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,74.4,mg/dL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2.8,mg/dL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,142.7,mmol/L,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,5.2,mmol/L,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,103.4,mmol/L,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,26.6,mmol/L,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),9.8,mL/min,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,6.2,g/dL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,4.2,g/dL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,15.0,mg/dL,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,48.8,U/L,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,5.5,U/L,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,19.2,U/L,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,6.8,[pH],numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,42.2,mm[Hg],numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,43.4,mm[Hg],numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,25.1,mmol/L,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,81.3,%,numeric
+2020-07-10T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,39.2,%,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,38.4,Cel,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,25.2,/min,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,182.8,/min,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,81.7,%,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,77.0,mm[Hg],numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,125.0,mm[Hg],numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,20.9,kg,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.9,10*3/uL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,3.8,10*6/uL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,12.8,g/dL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,37.8,%,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,96.5,fL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,29.9,pg,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,32.9,g/dL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,15.1,%,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,125.3,10*3/uL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,13.2,%,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,13.7,%,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,13.7,%,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,4.8,%,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,3.2,%,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,3.4,10*3/uL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,1.1,10*3/uL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,0.6,10*3/uL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.4,10*3/uL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,74.4,mg/dL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2.8,mg/dL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,142.7,mmol/L,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,5.2,mmol/L,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,103.4,mmol/L,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,26.6,mmol/L,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),7.8,mL/min,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,5.6,g/dL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,3.9,g/dL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,12.9,mg/dL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,75.6,U/L,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,7.0,U/L,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,20.2,U/L,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,7.0,[pH],numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,35.6,mm[Hg],numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,43.0,mm[Hg],numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,22.2,mmol/L,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,77.7,%,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,49.5,%,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,48065-7,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,0.3,ug/mL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2276-4,Ferritin [Mass/volume] in Serum or Plasma,339.0,ug/L,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,89579-7,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,2.1,pg/mL,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,236.3,U/L,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,48.5,U/L,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,9.6,mg/L,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5902-2,Prothrombin time (PT),12.9,s,numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6301-6,INR in Platelet poor plasma by Coagulation assay,3.0,{INR},numeric
+2020-07-11T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33959-8,Procalcitonin [Mass/volume] in Serum or Plasma,0.1,ng/mL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,40.9,Cel,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,17.1,/min,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,140.1,/min,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,76.6,%,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,91.0,mm[Hg],numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,126.0,mm[Hg],numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,20.9,kg,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.5,10*3/uL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,4.9,10*6/uL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,12.1,g/dL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,46.2,%,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,81.5,fL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,28.5,pg,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,31.5,g/dL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,12.4,%,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,107.4,10*3/uL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,14.5,%,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,23.5,%,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,8.2,%,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,4.2,%,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,2.5,%,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,2.8,10*3/uL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,1.1,10*3/uL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,0.5,10*3/uL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.4,10*3/uL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,74.4,mg/dL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2.9,mg/dL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,142.7,mmol/L,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,5.2,mmol/L,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,103.4,mmol/L,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,26.6,mmol/L,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),13.1,mL/min,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.3,g/dL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,4.5,g/dL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,12.0,mg/dL,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,103.9,U/L,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,32.6,U/L,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,1.2,U/L,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,7.1,[pH],numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,39.5,mm[Hg],numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,39.4,mm[Hg],numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,22.6,mmol/L,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,78.7,%,numeric
+2020-07-12T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,54.2,%,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,39.6,Cel,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,39.5,/min,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,144.7,/min,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,85.0,%,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,83.0,mm[Hg],numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,127.0,mm[Hg],numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,20.9,kg,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.1,10*3/uL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,4.1,10*6/uL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,11.7,g/dL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,38.9,%,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,89.5,fL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,31.3,pg,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,35.2,g/dL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,14.3,%,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,113.1,10*3/uL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,25.6,%,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,7.6,%,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,8.2,%,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,3.7,%,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,2.8,%,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,2.1,10*3/uL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,0.8,10*3/uL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,0.6,10*3/uL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,74.4,mg/dL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,9.0,mg/dL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2.9,mg/dL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,9.2,mg/dL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,142.7,mmol/L,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,5.2,mmol/L,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,103.4,mmol/L,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,26.6,mmol/L,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),6.5,mL/min,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,5.5,g/dL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,5.0,g/dL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,14.2,mg/dL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,71.8,U/L,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,38.8,U/L,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,6.9,U/L,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,7.1,[pH],numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,35.5,mm[Hg],numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,41.6,mm[Hg],numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,25.2,mmol/L,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,82.4,%,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,77.5,%,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,48065-7,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,0.5,ug/mL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2276-4,Ferritin [Mass/volume] in Serum or Plasma,451.7,ug/L,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,89579-7,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,2.0,pg/mL,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,226.8,U/L,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,14.5,U/L,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,8.2,mg/L,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5902-2,Prothrombin time (PT),11.3,s,numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6301-6,INR in Platelet poor plasma by Coagulation assay,1.5,{INR},numeric
+2020-07-13T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33959-8,Procalcitonin [Mass/volume] in Serum or Plasma,0.0,ng/mL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,41.6,Cel,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,39.3,/min,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,130.7,/min,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,85.4,%,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,78.0,mm[Hg],numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,124.0,mm[Hg],numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,21.2,kg,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.2,10*3/uL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,5.7,10*6/uL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,13.2,g/dL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,41.6,%,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,87.4,fL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,28.6,pg,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,35.4,g/dL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,14.8,%,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,132.7,10*3/uL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,10.1,%,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,19.2,%,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,10.4,%,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,4.4,%,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,2.1,%,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,3.7,10*3/uL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,0.8,10*3/uL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,0.6,10*3/uL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,90.8,mg/dL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,12.6,mg/dL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2.8,mg/dL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,140.9,mmol/L,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,3.7,mmol/L,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,102.1,mmol/L,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,28.1,mmol/L,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),10.3,mL/min,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.8,g/dL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,4.3,g/dL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,12.0,mg/dL,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,54.5,U/L,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,24.2,U/L,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,16.8,U/L,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,7.3,[pH],numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,37.8,mm[Hg],numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,52.4,mm[Hg],numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,25.8,mmol/L,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,85.2,%,numeric
+2020-07-14T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,69.8,%,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,39.2,Cel,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,13.3,/min,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,171.8,/min,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,75.8,%,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,85.0,mm[Hg],numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,132.0,mm[Hg],numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,21.2,kg,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.4,10*3/uL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,4.2,10*6/uL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,12.8,g/dL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,39.4,%,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,92.6,fL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,31.7,pg,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,34.4,g/dL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,14.9,%,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,105.8,10*3/uL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,20.8,%,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,15.8,%,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,5.8,%,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,4.6,%,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,3.0,%,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,2.5,10*3/uL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,1.0,10*3/uL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,0.6,10*3/uL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.6,10*3/uL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,90.8,mg/dL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,12.6,mg/dL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,3.0,mg/dL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,140.9,mmol/L,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,3.7,mmol/L,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,102.1,mmol/L,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,28.1,mmol/L,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),8.7,mL/min,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.9,g/dL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,4.9,g/dL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,11.8,mg/dL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,83.2,U/L,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,38.0,U/L,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,23.0,U/L,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,7.2,[pH],numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,36.8,mm[Hg],numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,39.4,mm[Hg],numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,26.1,mmol/L,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,84.9,%,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,56.0,%,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,48065-7,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,0.6,ug/mL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2276-4,Ferritin [Mass/volume] in Serum or Plasma,525.8,ug/L,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,89579-7,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,3.3,pg/mL,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,244.3,U/L,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,15.6,U/L,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,10.4,mg/L,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5902-2,Prothrombin time (PT),11.1,s,numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6301-6,INR in Platelet poor plasma by Coagulation assay,2.9,{INR},numeric
+2020-07-15T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33959-8,Procalcitonin [Mass/volume] in Serum or Plasma,0.2,ng/mL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,40.5,Cel,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,14.5,/min,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,141.7,/min,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,88.9,%,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,80.0,mm[Hg],numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,127.0,mm[Hg],numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,21.2,kg,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.9,10*3/uL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,4.5,10*6/uL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,12.6,g/dL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,38.2,%,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,96.9,fL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,32.3,pg,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,33.1,g/dL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,13.4,%,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,140.3,10*3/uL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,18.4,%,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,7.3,%,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,14.2,%,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,5.7,%,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,2.1,%,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,2.8,10*3/uL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,1.1,10*3/uL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,1.3,10*3/uL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.4,10*3/uL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,90.8,mg/dL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,12.6,mg/dL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2.5,mg/dL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,140.9,mmol/L,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,3.7,mmol/L,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,102.1,mmol/L,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,28.1,mmol/L,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),13.0,mL/min,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,5.9,g/dL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,4.4,g/dL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,14.0,mg/dL,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,79.9,U/L,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,35.4,U/L,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,36.1,U/L,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,7.3,[pH],numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,43.5,mm[Hg],numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,45.2,mm[Hg],numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,23.2,mmol/L,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,82.1,%,numeric
+2020-07-16T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,91.1,%,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,39.7,Cel,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,24.7,/min,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,173.0,/min,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,78.1,%,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,83.0,mm[Hg],numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,132.0,mm[Hg],numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,21.2,kg,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.6,10*3/uL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,4.2,10*6/uL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,11.7,g/dL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,38.9,%,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,87.6,fL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,31.0,pg,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,32.7,g/dL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,13.5,%,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,122.2,10*3/uL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,37.4,%,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,18.4,%,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,8.4,%,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,4.3,%,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,3.5,%,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,2.0,10*3/uL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,1.0,10*3/uL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,0.9,10*3/uL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.5,10*3/uL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,90.8,mg/dL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,12.6,mg/dL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2.6,mg/dL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,140.9,mmol/L,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,3.7,mmol/L,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,102.1,mmol/L,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,28.1,mmol/L,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),11.5,mL/min,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.1,g/dL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,5.2,g/dL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,9.4,mg/dL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,104.6,U/L,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,20.2,U/L,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,14.5,U/L,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,6.9,[pH],numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,36.0,mm[Hg],numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,45.7,mm[Hg],numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,24.3,mmol/L,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,83.6,%,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,55.9,%,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,48065-7,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,0.7,ug/mL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2276-4,Ferritin [Mass/volume] in Serum or Plasma,590.9,ug/L,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,89579-7,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,3.5,pg/mL,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,261.5,U/L,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,17.2,U/L,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,11.3,mg/L,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5902-2,Prothrombin time (PT),11.4,s,numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6301-6,INR in Platelet poor plasma by Coagulation assay,1.6,{INR},numeric
+2020-07-17T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33959-8,Procalcitonin [Mass/volume] in Serum or Plasma,0.1,ng/mL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,38.0,Cel,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,25.7,/min,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,178.7,/min,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,86.9,%,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,82.0,mm[Hg],numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,127.0,mm[Hg],numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,21.2,kg,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.4,10*3/uL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,4.4,10*6/uL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,12.7,g/dL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,46.0,%,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,96.2,fL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,27.8,pg,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,33.1,g/dL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,12.6,%,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,125.8,10*3/uL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,23.0,%,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,11.5,%,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,12.6,%,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,5.5,%,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,2.6,%,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,2.5,10*3/uL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,1.0,10*3/uL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,1.3,10*3/uL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.5,10*3/uL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.4,10*3/uL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,90.8,mg/dL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,12.6,mg/dL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,3.0,mg/dL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,140.9,mmol/L,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,3.7,mmol/L,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,102.1,mmol/L,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,28.1,mmol/L,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),5.2,mL/min,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,6.0,g/dL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,4.2,g/dL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,14.7,mg/dL,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,84.3,U/L,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,28.5,U/L,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,27.6,U/L,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,7.0,[pH],numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,35.6,mm[Hg],numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,55.3,mm[Hg],numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,23.7,mmol/L,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,77.7,%,numeric
+2020-07-18T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,47.4,%,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,40.9,Cel,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,21.7,/min,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,88.1,/min,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,76.6,%,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,78.0,mm[Hg],numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,129.0,mm[Hg],numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,21.2,kg,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.9,10*3/uL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,5.4,10*6/uL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,11.6,g/dL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,38.5,%,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,84.0,fL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,30.9,pg,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,35.0,g/dL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,13.5,%,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,101.8,10*3/uL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,12.5,%,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,24.2,%,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,12.7,%,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,3.4,%,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,2.9,%,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,3.6,10*3/uL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,1.1,10*3/uL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,0.8,10*3/uL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.5,10*3/uL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,90.8,mg/dL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,12.6,mg/dL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2.6,mg/dL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,140.9,mmol/L,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,3.7,mmol/L,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,102.1,mmol/L,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,28.1,mmol/L,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),11.0,mL/min,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.8,g/dL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,5.2,g/dL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,11.9,mg/dL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,100.5,U/L,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,2.4,U/L,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,24.0,U/L,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,7.2,[pH],numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,39.6,mm[Hg],numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,53.7,mm[Hg],numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,26.3,mmol/L,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,81.4,%,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,73.7,%,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,48065-7,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,0.5,ug/mL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2276-4,Ferritin [Mass/volume] in Serum or Plasma,592.7,ug/L,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,89579-7,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,5.0,pg/mL,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,269.5,U/L,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,22.4,U/L,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,10.8,mg/L,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5902-2,Prothrombin time (PT),12.4,s,numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6301-6,INR in Platelet poor plasma by Coagulation assay,2.4,{INR},numeric
+2020-07-19T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33959-8,Procalcitonin [Mass/volume] in Serum or Plasma,0.1,ng/mL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,40.3,Cel,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,27.0,/min,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,122.1,/min,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,88.3,%,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,84.0,mm[Hg],numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,137.0,mm[Hg],numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,21.2,kg,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.9,10*3/uL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,5.7,10*6/uL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,11.8,g/dL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,43.3,%,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,80.9,fL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,27.3,pg,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,31.9,g/dL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,15.2,%,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,143.3,10*3/uL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,37.2,%,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,14.7,%,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,6.6,%,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,4.4,%,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,2.1,%,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,2.7,10*3/uL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,1.2,10*3/uL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,1.1,10*3/uL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.4,10*3/uL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,90.8,mg/dL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,12.6,mg/dL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2.5,mg/dL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,140.9,mmol/L,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,3.7,mmol/L,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,102.1,mmol/L,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,28.1,mmol/L,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),12.0,mL/min,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.4,g/dL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,3.5,g/dL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,10.3,mg/dL,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,116.7,U/L,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,26.1,U/L,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,6.7,U/L,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,7.1,[pH],numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,39.0,mm[Hg],numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,41.1,mm[Hg],numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,24.4,mmol/L,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,84.8,%,numeric
+2020-07-20T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,47.9,%,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,41.7,Cel,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,9279-1,Respiratory rate,20.3,/min,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8867-4,Heart rate,194.6,/min,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,80.5,%,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8462-4,Diastolic Blood Pressure,84.0,mm[Hg],numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8480-6,Systolic Blood Pressure,128.0,mm[Hg],numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,29463-7,Body Weight,21.2,kg,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,3.5,10*3/uL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,4.2,10*6/uL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,13.5,g/dL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,44.1,%,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,787-2,MCV [Entitic volume] by Automated count,86.2,fL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,785-6,MCH [Entitic mass] by Automated count,27.7,pg,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,786-4,MCHC [Mass/volume] by Automated count,34.4,g/dL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,788-0,Erythrocyte distribution width [Ratio] by Automated count,15.3,%,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,125.9,10*3/uL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,770-8,Neutrophils/100 leukocytes in Blood by Automated count,25.9,%,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,10.5,%,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5905-5,Monocytes/100 leukocytes in Blood by Automated count,13.8,%,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,713-8,Eosinophils/100 leukocytes in Blood by Automated count,5.3,%,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,706-2,Basophils/100 leukocytes in Blood by Automated count,2.4,%,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,751-8,Neutrophils [#/volume] in Blood by Automated count,2.9,10*3/uL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,731-0,Lymphocytes [#/volume] in Blood by Automated count,1.2,10*3/uL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,742-7,Monocytes [#/volume] in Blood by Automated count,1.2,10*3/uL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,711-2,Eosinophils [#/volume] in Blood by Automated count,0.5,10*3/uL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,704-7,Basophils [#/volume] in Blood by Automated count,0.3,10*3/uL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2345-7,Glucose [Mass/volume] in Serum or Plasma,75.8,mg/dL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,13.8,mg/dL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2.9,mg/dL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,17861-6,Calcium [Mass/volume] in Serum or Plasma,8.6,mg/dL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2951-2,Sodium [Moles/volume] in Serum or Plasma,139.0,mmol/L,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2823-3,Potassium [Moles/volume] in Serum or Plasma,3.9,mmol/L,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2075-0,Chloride [Moles/volume] in Serum or Plasma,102.2,mmol/L,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma,23.6,mmol/L,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33914-3,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),13.7,mL/min,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2885-2,Protein [Mass/volume] in Serum or Plasma,7.1,g/dL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1751-7,Albumin [Mass/volume] in Serum or Plasma,5.2,g/dL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,8.2,mg/dL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,39.8,U/L,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,3.4,U/L,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,25.6,U/L,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2744-1,pH of Arterial blood,7.2,[pH],numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,39.0,mm[Hg],numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2703-7,Oxygen [Partial pressure] in Arterial blood,52.1,mm[Hg],numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1960-4,Bicarbonate [Moles/volume] in Arterial blood,22.7,mmol/L,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,2708-6,Oxygen saturation in Arterial blood,82.2,%,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,42.0,%,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,48065-7,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,0.6,ug/mL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2276-4,Ferritin [Mass/volume] in Serum or Plasma,613.2,ug/L,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,89579-7,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,4.7,pg/mL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,327.5,U/L,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,27.8,U/L,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,10.7,mg/L,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,5902-2,Prothrombin time (PT),11.9,s,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,6301-6,INR in Platelet poor plasma by Coagulation assay,1.5,{INR},numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,33959-8,Procalcitonin [Mass/volume] in Serum or Plasma,0.2,ng/mL,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,36.8,Cel,numeric
+2020-07-21T08:01:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,94531-1,SARS-CoV-2 RNA Pnl Resp NAA+probe,Not detected (qualifier value),,text
+2020-07-22T11:12:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,vital-signs,8310-5,Body temperature,36.2,Cel,numeric
+2020-07-22T11:12:05Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,e284df65-17b8-bc4f-5845-efb636dcbf1e,laboratory,94531-1,SARS-CoV-2 RNA Pnl Resp NAA+probe,Not detected (qualifier value),,text
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,vital-signs,8302-2,Body Height,113.1,cm,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,vital-signs,29463-7,Body Weight,23.0,kg,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,vital-signs,39156-5,Body mass index (BMI) [Ratio],18.0,kg/m2,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,91.7,%,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,vital-signs,8462-4,Diastolic Blood Pressure,72.0,mm[Hg],numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,vital-signs,8480-6,Systolic Blood Pressure,107.0,mm[Hg],numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,vital-signs,8867-4,Heart rate,84.0,/min,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,6.1,10*3/uL,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,4.9,10*6/uL,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,13.8,g/dL,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,45.1,%,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,laboratory,787-2,MCV [Entitic volume] by Automated count,89.1,fL,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,laboratory,785-6,MCH [Entitic mass] by Automated count,28.1,pg,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,laboratory,786-4,MCHC [Mass/volume] by Automated count,35.8,g/dL,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,laboratory,21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,40.8,fL,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,185.5,10*3/uL,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,laboratory,32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,514.7,fL,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,laboratory,32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count,11.5,fL,numeric
+2021-03-01T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,c0926ec5-e3c7-f26d-5a2d-b843ffc7de86,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2022-03-07T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,d1cbb0ab-47d9-3b53-8533-094c32680da0,vital-signs,8302-2,Body Height,119.8,cm,numeric
+2022-03-07T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,d1cbb0ab-47d9-3b53-8533-094c32680da0,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1.0,{score},numeric
+2022-03-07T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,d1cbb0ab-47d9-3b53-8533-094c32680da0,vital-signs,29463-7,Body Weight,24.7,kg,numeric
+2022-03-07T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,d1cbb0ab-47d9-3b53-8533-094c32680da0,vital-signs,39156-5,Body mass index (BMI) [Ratio],17.2,kg/m2,numeric
+2022-03-07T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,d1cbb0ab-47d9-3b53-8533-094c32680da0,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,81.6,%,numeric
+2022-03-07T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,d1cbb0ab-47d9-3b53-8533-094c32680da0,vital-signs,8462-4,Diastolic Blood Pressure,75.0,mm[Hg],numeric
+2022-03-07T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,d1cbb0ab-47d9-3b53-8533-094c32680da0,vital-signs,8480-6,Systolic Blood Pressure,111.0,mm[Hg],numeric
+2022-03-07T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,d1cbb0ab-47d9-3b53-8533-094c32680da0,vital-signs,8867-4,Heart rate,73.0,/min,numeric
+2022-03-07T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,d1cbb0ab-47d9-3b53-8533-094c32680da0,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2022-03-07T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,d1cbb0ab-47d9-3b53-8533-094c32680da0,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2023-03-13T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f9e85b90-bf01-b518-ecc6-f9b986ca26b0,vital-signs,8302-2,Body Height,125.9,cm,numeric
+2023-03-13T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f9e85b90-bf01-b518-ecc6-f9b986ca26b0,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+2023-03-13T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f9e85b90-bf01-b518-ecc6-f9b986ca26b0,vital-signs,29463-7,Body Weight,27.3,kg,numeric
+2023-03-13T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f9e85b90-bf01-b518-ecc6-f9b986ca26b0,vital-signs,39156-5,Body mass index (BMI) [Ratio],17.2,kg/m2,numeric
+2023-03-13T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f9e85b90-bf01-b518-ecc6-f9b986ca26b0,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,75.0,%,numeric
+2023-03-13T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f9e85b90-bf01-b518-ecc6-f9b986ca26b0,vital-signs,8462-4,Diastolic Blood Pressure,72.0,mm[Hg],numeric
+2023-03-13T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f9e85b90-bf01-b518-ecc6-f9b986ca26b0,vital-signs,8480-6,Systolic Blood Pressure,113.0,mm[Hg],numeric
+2023-03-13T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f9e85b90-bf01-b518-ecc6-f9b986ca26b0,vital-signs,8867-4,Heart rate,89.0,/min,numeric
+2023-03-13T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f9e85b90-bf01-b518-ecc6-f9b986ca26b0,vital-signs,9279-1,Respiratory rate,15.0,/min,numeric
+2023-03-13T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f9e85b90-bf01-b518-ecc6-f9b986ca26b0,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2024-03-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f6bb9a42-9e60-0779-3cd8-0687d7962f17,vital-signs,8302-2,Body Height,131.6,cm,numeric
+2024-03-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f6bb9a42-9e60-0779-3cd8-0687d7962f17,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,4.0,{score},numeric
+2024-03-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f6bb9a42-9e60-0779-3cd8-0687d7962f17,vital-signs,29463-7,Body Weight,29.8,kg,numeric
+2024-03-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f6bb9a42-9e60-0779-3cd8-0687d7962f17,vital-signs,39156-5,Body mass index (BMI) [Ratio],17.2,kg/m2,numeric
+2024-03-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f6bb9a42-9e60-0779-3cd8-0687d7962f17,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,65.3,%,numeric
+2024-03-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f6bb9a42-9e60-0779-3cd8-0687d7962f17,vital-signs,8462-4,Diastolic Blood Pressure,72.0,mm[Hg],numeric
+2024-03-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f6bb9a42-9e60-0779-3cd8-0687d7962f17,vital-signs,8480-6,Systolic Blood Pressure,120.0,mm[Hg],numeric
+2024-03-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f6bb9a42-9e60-0779-3cd8-0687d7962f17,vital-signs,8867-4,Heart rate,90.0,/min,numeric
+2024-03-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f6bb9a42-9e60-0779-3cd8-0687d7962f17,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2024-03-18T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,f6bb9a42-9e60-0779-3cd8-0687d7962f17,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2025-03-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,cc1c6386-d764-cb7b-89cf-1ade5a5994aa,vital-signs,8302-2,Body Height,136.5,cm,numeric
+2025-03-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,cc1c6386-d764-cb7b-89cf-1ade5a5994aa,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+2025-03-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,cc1c6386-d764-cb7b-89cf-1ade5a5994aa,vital-signs,29463-7,Body Weight,32.3,kg,numeric
+2025-03-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,cc1c6386-d764-cb7b-89cf-1ade5a5994aa,vital-signs,39156-5,Body mass index (BMI) [Ratio],17.3,kg/m2,numeric
+2025-03-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,cc1c6386-d764-cb7b-89cf-1ade5a5994aa,vital-signs,59576-9,Body mass index (BMI) [Percentile] Per age and sex,57.8,%,numeric
+2025-03-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,cc1c6386-d764-cb7b-89cf-1ade5a5994aa,vital-signs,8462-4,Diastolic Blood Pressure,73.0,mm[Hg],numeric
+2025-03-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,cc1c6386-d764-cb7b-89cf-1ade5a5994aa,vital-signs,8480-6,Systolic Blood Pressure,117.0,mm[Hg],numeric
+2025-03-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,cc1c6386-d764-cb7b-89cf-1ade5a5994aa,vital-signs,8867-4,Heart rate,61.0,/min,numeric
+2025-03-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,cc1c6386-d764-cb7b-89cf-1ade5a5994aa,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+2025-03-24T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,cc1c6386-d764-cb7b-89cf-1ade5a5994aa,social-history,72166-2,Tobacco smoking status,Never smoked tobacco (finding),,text
+2015-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QALY,QALY,0.0,a,numeric
+2016-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QALY,QALY,0.0,a,numeric
+2017-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QALY,QALY,1.0,a,numeric
+2018-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QALY,QALY,2.0,a,numeric
+2019-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QALY,QALY,3.0,a,numeric
+2020-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QALY,QALY,4.0,a,numeric
+2021-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QALY,QALY,5.0,a,numeric
+2022-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QALY,QALY,6.0,a,numeric
+2023-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QALY,QALY,7.0,a,numeric
+2024-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QALY,QALY,8.0,a,numeric
+2025-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QALY,QALY,9.0,a,numeric
+2015-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,DALY,DALY,0.0,a,numeric
+2016-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,DALY,DALY,0.0,a,numeric
+2017-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,DALY,DALY,0.0,a,numeric
+2018-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,DALY,DALY,0.0,a,numeric
+2019-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,DALY,DALY,0.0,a,numeric
+2020-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,DALY,DALY,0.0,a,numeric
+2021-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,DALY,DALY,0.0,a,numeric
+2022-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,DALY,DALY,0.0,a,numeric
+2023-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,DALY,DALY,0.0,a,numeric
+2024-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,DALY,DALY,0.0,a,numeric
+2025-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,DALY,DALY,0.0,a,numeric
+2015-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QOLS,QOLS,1.0,{score},numeric
+2016-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QOLS,QOLS,1.0,{score},numeric
+2017-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QOLS,QOLS,1.0,{score},numeric
+2018-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QOLS,QOLS,1.0,{score},numeric
+2019-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QOLS,QOLS,1.0,{score},numeric
+2020-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QOLS,QOLS,1.0,{score},numeric
+2021-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QOLS,QOLS,1.0,{score},numeric
+2022-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QOLS,QOLS,1.0,{score},numeric
+2023-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QOLS,QOLS,1.0,{score},numeric
+2024-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QOLS,QOLS,1.0,{score},numeric
+2025-03-16T13:32:37Z,583c0740-39e1-9e33-f9d6-4fdb2b815669,,,QOLS,QOLS,1.0,{score},numeric

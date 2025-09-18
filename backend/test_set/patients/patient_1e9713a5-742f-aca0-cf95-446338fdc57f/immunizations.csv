@@ -1,0 +1,22 @@
+immunizations_immunizations_DATE,PATIENT,immunizations_immunizations_ENCOUNTER,immunizations_immunizations_CODE,immunizations_immunizations_DESCRIPTION,immunizations_immunizations_BASE_COST
+2015-12-11T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,318c6535-167e-12b3-1152-1a098ae07822,21,varicella,136.0
+2015-12-11T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,318c6535-167e-12b3-1152-1a098ae07822,10,IPV,136.0
+2015-12-11T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,318c6535-167e-12b3-1152-1a098ae07822,140,Influenza  seasonal  injectable  preservative free,136.0
+2015-12-11T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,318c6535-167e-12b3-1152-1a098ae07822,20,DTaP,136.0
+2015-12-11T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,318c6535-167e-12b3-1152-1a098ae07822,3,MMR,136.0
+2016-10-21T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,f78ccd82-03cc-a85b-9786-2943612451c6,140,Influenza  seasonal  injectable  preservative free,136.0
+2017-12-22T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,4d5a9dcd-be89-8d86-1a61-ef274c170c7e,140,Influenza  seasonal  injectable  preservative free,136.0
+2018-12-28T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,ef933d19-4d76-e7d0-c6b9-5357d07a02e8,140,Influenza  seasonal  injectable  preservative free,136.0
+2020-01-03T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,541612dc-459e-4f2b-43ec-26d1101cf57f,140,Influenza  seasonal  injectable  preservative free,136.0
+2021-01-08T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,e1d1e83c-e1a6-2d37-3c40-0b1c1441a869,140,Influenza  seasonal  injectable  preservative free,136.0
+2022-01-14T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,ffb34a33-b1b2-aea3-2585-8980eeb20b08,115,Tdap,136.0
+2022-01-14T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,ffb34a33-b1b2-aea3-2585-8980eeb20b08,140,Influenza  seasonal  injectable  preservative free,136.0
+2022-01-14T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,ffb34a33-b1b2-aea3-2585-8980eeb20b08,62,HPV  quadrivalent,136.0
+2022-01-14T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,ffb34a33-b1b2-aea3-2585-8980eeb20b08,114,meningococcal MCV4P,136.0
+2023-01-20T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,8db03b2b-3a1a-cc0d-8132-365bb45b3b33,140,Influenza  seasonal  injectable  preservative free,136.0
+2023-01-20T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,8db03b2b-3a1a-cc0d-8132-365bb45b3b33,62,HPV  quadrivalent,136.0
+2023-02-10T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,bb698c5d-1b36-145a-60d9-13046fe46a91,208,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,136.0
+2023-03-03T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,22e5abe3-384e-b4c7-69ea-ac1b21ab1a28,208,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,136.0
+2024-01-26T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,3a3168e8-ff55-eb4a-0770-fab743ef4cd1,140,Influenza  seasonal  injectable  preservative free,136.0
+2024-01-26T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,3a3168e8-ff55-eb4a-0770-fab743ef4cd1,62,HPV  quadrivalent,136.0
+2025-01-31T02:38:44Z,1e9713a5-742f-aca0-cf95-446338fdc57f,5171f668-7c74-088b-246d-ee8391534b0c,140,Influenza  seasonal  injectable  preservative free,136.0

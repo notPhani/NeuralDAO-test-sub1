@@ -1,0 +1,13 @@
+immunizations_immunizations_DATE,PATIENT,immunizations_immunizations_ENCOUNTER,immunizations_immunizations_CODE,immunizations_immunizations_DESCRIPTION,immunizations_immunizations_BASE_COST
+1987-09-19T19:46:24Z,fc3e2c0f-6809-7e7b-4ad8-769a732bf13a,87bbeb73-e40c-8098-5c96-4b8ebf790dbc,140,Influenza  seasonal  injectable  preservative free,136.0
+1988-09-24T19:46:24Z,fc3e2c0f-6809-7e7b-4ad8-769a732bf13a,3d1d4f56-5592-db50-8326-86fd1a43caab,140,Influenza  seasonal  injectable  preservative free,136.0
+1988-09-24T19:46:24Z,fc3e2c0f-6809-7e7b-4ad8-769a732bf13a,3d1d4f56-5592-db50-8326-86fd1a43caab,33,pneumococcal polysaccharide vaccine  23 valent,136.0
+1989-09-30T19:46:24Z,fc3e2c0f-6809-7e7b-4ad8-769a732bf13a,ff96213a-20ec-55b1-98ad-f93d9f8cab3c,140,Influenza  seasonal  injectable  preservative free,136.0
+1990-10-06T19:46:24Z,fc3e2c0f-6809-7e7b-4ad8-769a732bf13a,6a361963-0f01-2f8e-8af8-cf953d6eb85a,140,Influenza  seasonal  injectable  preservative free,136.0
+1991-10-12T19:46:24Z,fc3e2c0f-6809-7e7b-4ad8-769a732bf13a,3790a9af-103d-6cdd-a8ba-a3ac1b8c1fbe,140,Influenza  seasonal  injectable  preservative free,136.0
+1992-10-17T19:46:24Z,fc3e2c0f-6809-7e7b-4ad8-769a732bf13a,c48e454d-3f7f-5e0c-0fff-3c70c6b066f5,140,Influenza  seasonal  injectable  preservative free,136.0
+1993-10-23T19:46:24Z,fc3e2c0f-6809-7e7b-4ad8-769a732bf13a,35692e73-ecb3-cdc6-bd32-0dec5a66672f,140,Influenza  seasonal  injectable  preservative free,136.0
+1993-10-23T19:46:24Z,fc3e2c0f-6809-7e7b-4ad8-769a732bf13a,35692e73-ecb3-cdc6-bd32-0dec5a66672f,113,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,136.0
+1994-10-29T19:46:24Z,fc3e2c0f-6809-7e7b-4ad8-769a732bf13a,5d455307-2791-6bc5-2aae-1e31286e232d,140,Influenza  seasonal  injectable  preservative free,136.0
+1995-11-04T19:46:24Z,fc3e2c0f-6809-7e7b-4ad8-769a732bf13a,572b2389-6a5b-bce7-9afa-3b6d649c0cd2,140,Influenza  seasonal  injectable  preservative free,136.0
+1996-11-09T19:46:24Z,fc3e2c0f-6809-7e7b-4ad8-769a732bf13a,dbfd6532-427b-a16e-556b-c0db990edfe9,140,Influenza  seasonal  injectable  preservative free,136.0

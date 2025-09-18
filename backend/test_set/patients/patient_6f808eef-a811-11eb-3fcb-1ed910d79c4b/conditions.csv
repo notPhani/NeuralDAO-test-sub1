@@ -1,0 +1,11 @@
+conditions_conditions_START,conditions_conditions_STOP,PATIENT,conditions_conditions_ENCOUNTER,conditions_conditions_SYSTEM,conditions_conditions_CODE,conditions_conditions_DESCRIPTION
+2013-06-28,,6f808eef-a811-11eb-3fcb-1ed910d79c4b,e836dae0-b4ac-a2f5-3492-684b26875e48,http://snomed.info/sct,105531004,Housing unsatisfactory (finding)
+2013-06-28,,6f808eef-a811-11eb-3fcb-1ed910d79c4b,e836dae0-b4ac-a2f5-3492-684b26875e48,http://snomed.info/sct,473461003,Educated to high school level (finding)
+2013-06-28,2020-07-10,6f808eef-a811-11eb-3fcb-1ed910d79c4b,e836dae0-b4ac-a2f5-3492-684b26875e48,http://snomed.info/sct,160903007,Full-time employment (finding)
+2014-07-04,,6f808eef-a811-11eb-3fcb-1ed910d79c4b,415f56fd-7a80-72fd-3795-bc5e5ec6b4a5,http://snomed.info/sct,314529007,Medication review due (situation)
+2014-07-04,2017-07-07,6f808eef-a811-11eb-3fcb-1ed910d79c4b,415f56fd-7a80-72fd-3795-bc5e5ec6b4a5,http://snomed.info/sct,706893006,Victim of intimate partner abuse (finding)
+2017-07-07,2020-07-10,6f808eef-a811-11eb-3fcb-1ed910d79c4b,12818e8d-136c-fe8b-ed2a-e340323ae4db,http://snomed.info/sct,73595000,Stress (finding)
+2017-10-10,2017-11-02,6f808eef-a811-11eb-3fcb-1ed910d79c4b,26458262-5303-57a6-89dc-298ba46c01cf,http://snomed.info/sct,444814009,Viral sinusitis (disorder)
+2020-07-10,,6f808eef-a811-11eb-3fcb-1ed910d79c4b,18163d30-154f-65ff-a51f-e57b55268405,http://snomed.info/sct,160904001,Part-time employment (finding)
+2023-07-14,2023-07-28,6f808eef-a811-11eb-3fcb-1ed910d79c4b,36279a6a-ddd0-d6a1-5410-cce2e3f5d7a9,http://snomed.info/sct,66383009,Gingivitis (disorder)
+2023-12-09,2023-12-17,6f808eef-a811-11eb-3fcb-1ed910d79c4b,3704dd1e-a6c2-f3c4-9660-d2a3a912924e,http://snomed.info/sct,195662009,Acute viral pharyngitis (disorder)

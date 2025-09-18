@@ -1,0 +1,13 @@
+PATIENT,payer_transitions_payer_transitions_MEMBERID,payer_transitions_payer_transitions_START_DATE,payer_transitions_payer_transitions_END_DATE,payer_transitions_payer_transitions_PAYER,payer_transitions_payer_transitions_SECONDARY_PAYER,payer_transitions_payer_transitions_PLAN_OWNERSHIP,payer_transitions_payer_transitions_OWNER_NAME
+edc17058-55fb-08c7-12df-ece93a402e50,5c3a81c5-84d4-6cb2-e46c-66cc91bf794a,2014-03-31T01:38:45Z,2015-04-06T01:38:45Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Self,Tobias236 Harris789
+edc17058-55fb-08c7-12df-ece93a402e50,cfe6a1c8-42e7-cd87-226c-3a6c2e396dca,2015-04-06T01:38:45Z,2016-04-04T01:38:45Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Spouse,Mrs. Harris789
+edc17058-55fb-08c7-12df-ece93a402e50,1a4dd0c7-215d-379a-db72-69307a0f8055,2016-04-04T01:38:45Z,2017-04-03T01:38:45Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Self,Tobias236 Harris789
+edc17058-55fb-08c7-12df-ece93a402e50,07218f55-d300-f55a-42f2-2146c232960a,2017-04-03T01:38:45Z,2018-04-02T01:38:45Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Spouse,Mrs. Harris789
+edc17058-55fb-08c7-12df-ece93a402e50,fb1331dc-5912-7d78-a580-f1be3dc2f1b8,2018-04-02T01:38:45Z,2019-04-01T01:38:45Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Spouse,Mrs. Harris789
+edc17058-55fb-08c7-12df-ece93a402e50,20bbbd7b-6b04-ba03-7f70-ff9fba9a9180,2019-04-01T01:38:45Z,2020-04-06T01:38:45Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Spouse,Mrs. Harris789
+edc17058-55fb-08c7-12df-ece93a402e50,600c511b-2791-62b3-514d-2fdcff441f59,2020-04-06T01:38:45Z,2021-04-05T01:38:45Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Self,Tobias236 Harris789
+edc17058-55fb-08c7-12df-ece93a402e50,3f831acc-fb70-e4d5-b328-56503c75e1bb,2021-04-05T01:38:45Z,2022-04-04T01:38:45Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Spouse,Mrs. Harris789
+edc17058-55fb-08c7-12df-ece93a402e50,1c4ca6d7-6593-bea7-2d0a-c29d6fe0d27f,2022-04-04T01:38:45Z,2023-04-03T01:38:45Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Self,Tobias236 Harris789
+edc17058-55fb-08c7-12df-ece93a402e50,550164f8-12a0-bdda-f75b-f4fd9b0a1b58,2023-04-03T01:38:45Z,2024-04-01T01:38:45Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Spouse,Mrs. Harris789
+edc17058-55fb-08c7-12df-ece93a402e50,c5b57e01-05cc-063f-6353-1c4cace87ebd,2024-04-01T01:38:45Z,2025-03-31T01:38:45Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Self,Tobias236 Harris789
+edc17058-55fb-08c7-12df-ece93a402e50,e2df8ebd-691d-5957-68f9-0489d029c2b4,2025-03-31T01:38:45Z,2026-03-31T01:38:45Z,8fa6c185-e44e-3e34-8bd8-39be8694f4ce,,Spouse,Mrs. Harris789

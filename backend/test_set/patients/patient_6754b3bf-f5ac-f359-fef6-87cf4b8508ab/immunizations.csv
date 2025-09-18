@@ -1,0 +1,12 @@
+immunizations_immunizations_DATE,PATIENT,immunizations_immunizations_ENCOUNTER,immunizations_immunizations_CODE,immunizations_immunizations_DESCRIPTION,immunizations_immunizations_BASE_COST
+2015-10-27T19:04:00Z,6754b3bf-f5ac-f359-fef6-87cf4b8508ab,4c2735af-9443-185b-1522-44f354337824,140,Influenza  seasonal  injectable  preservative free,136.0
+2016-11-01T19:04:00Z,6754b3bf-f5ac-f359-fef6-87cf4b8508ab,31fdbf66-da57-c664-836e-0520c8280406,140,Influenza  seasonal  injectable  preservative free,136.0
+2017-11-07T19:04:00Z,6754b3bf-f5ac-f359-fef6-87cf4b8508ab,37ec63c6-b49c-24d8-375d-30dfb27a1bf9,140,Influenza  seasonal  injectable  preservative free,136.0
+2017-11-07T19:04:00Z,6754b3bf-f5ac-f359-fef6-87cf4b8508ab,37ec63c6-b49c-24d8-375d-30dfb27a1bf9,114,meningococcal MCV4P,136.0
+2018-11-13T19:04:00Z,6754b3bf-f5ac-f359-fef6-87cf4b8508ab,ded2d789-373f-d242-48a3-8ba5154678de,140,Influenza  seasonal  injectable  preservative free,136.0
+2019-11-19T19:04:00Z,6754b3bf-f5ac-f359-fef6-87cf4b8508ab,41e66413-3152-8b8b-d1e8-6024463a21a7,140,Influenza  seasonal  injectable  preservative free,136.0
+2020-11-24T19:04:00Z,6754b3bf-f5ac-f359-fef6-87cf4b8508ab,87cef41c-a6bb-ac94-9424-cf430d5af5da,140,Influenza  seasonal  injectable  preservative free,136.0
+2023-11-28T19:04:00Z,6754b3bf-f5ac-f359-fef6-87cf4b8508ab,5155cc0b-5587-cedc-5f6e-0918ceaa11c0,140,Influenza  seasonal  injectable  preservative free,136.0
+2023-11-28T19:04:00Z,6754b3bf-f5ac-f359-fef6-87cf4b8508ab,5155cc0b-5587-cedc-5f6e-0918ceaa11c0,113,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,136.0
+2023-11-28T19:04:00Z,6754b3bf-f5ac-f359-fef6-87cf4b8508ab,5155cc0b-5587-cedc-5f6e-0918ceaa11c0,43,Hep B  adult,136.0
+2023-11-28T19:04:00Z,6754b3bf-f5ac-f359-fef6-87cf4b8508ab,5155cc0b-5587-cedc-5f6e-0918ceaa11c0,114,meningococcal MCV4P,136.0

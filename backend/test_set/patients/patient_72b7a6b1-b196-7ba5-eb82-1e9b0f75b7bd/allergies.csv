@@ -1,0 +1,12 @@
+allergies_allergies_START,allergies_allergies_STOP,PATIENT,allergies_allergies_ENCOUNTER,allergies_allergies_CODE,allergies_allergies_SYSTEM,allergies_allergies_DESCRIPTION,allergies_allergies_TYPE,allergies_allergies_CATEGORY,allergies_allergies_REACTION1,allergies_allergies_DESCRIPTION1,allergies_allergies_SEVERITY1,allergies_allergies_REACTION2,allergies_allergies_DESCRIPTION2,allergies_allergies_SEVERITY2
+2010-07-08,,72b7a6b1-b196-7ba5-eb82-1e9b0f75b7bd,088fca23-640d-3953-0057-44fc1c7c8075,609328004,SNOMED-CT,Allergic disposition (finding),allergy,environment,,,,,,
+2010-07-08,,72b7a6b1-b196-7ba5-eb82-1e9b0f75b7bd,088fca23-640d-3953-0057-44fc1c7c8075,111088007,SNOMED-CT,Latex (substance),allergy,environment,418290006.0,Itching (finding),MODERATE,247472004.0,Wheal (finding),MILD
+2010-07-08,,72b7a6b1-b196-7ba5-eb82-1e9b0f75b7bd,088fca23-640d-3953-0057-44fc1c7c8075,288328004,SNOMED-CT,Bee venom (substance),allergy,environment,271807003.0,Eruption of skin (disorder),MODERATE,,,
+2010-07-08,,72b7a6b1-b196-7ba5-eb82-1e9b0f75b7bd,088fca23-640d-3953-0057-44fc1c7c8075,84489001,SNOMED-CT,Mold (organism),allergy,environment,,,,,,
+2010-07-08,,72b7a6b1-b196-7ba5-eb82-1e9b0f75b7bd,088fca23-640d-3953-0057-44fc1c7c8075,260147004,SNOMED-CT,House dust mite (organism),allergy,environment,,,,,,
+2010-07-08,,72b7a6b1-b196-7ba5-eb82-1e9b0f75b7bd,088fca23-640d-3953-0057-44fc1c7c8075,264287008,SNOMED-CT,Animal dander (substance),allergy,environment,271807003.0,Eruption of skin (disorder),MILD,247472004.0,Wheal (finding),MILD
+2010-07-08,,72b7a6b1-b196-7ba5-eb82-1e9b0f75b7bd,088fca23-640d-3953-0057-44fc1c7c8075,256277009,SNOMED-CT,Grass pollen (substance),allergy,environment,,,,,,
+2010-07-08,,72b7a6b1-b196-7ba5-eb82-1e9b0f75b7bd,088fca23-640d-3953-0057-44fc1c7c8075,782576004,SNOMED-CT,Tree pollen (substance),allergy,environment,,,,,,
+2010-07-08,,72b7a6b1-b196-7ba5-eb82-1e9b0f75b7bd,088fca23-640d-3953-0057-44fc1c7c8075,102263004,SNOMED-CT,Eggs (edible) (substance),allergy,food,,,,,,
+2010-07-08,,72b7a6b1-b196-7ba5-eb82-1e9b0f75b7bd,088fca23-640d-3953-0057-44fc1c7c8075,735029006,SNOMED-CT,Shellfish (substance),allergy,food,271807003.0,Eruption of skin (disorder),MODERATE,402387002.0,Allergic angioedema (disorder),MODERATE
+2010-07-08,,72b7a6b1-b196-7ba5-eb82-1e9b0f75b7bd,088fca23-640d-3953-0057-44fc1c7c8075,762952008,SNOMED-CT,Peanut (substance),allergy,food,247472004.0,Wheal (finding),MODERATE,267036007.0,Dyspnea (finding),MILD

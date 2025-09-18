@@ -1,0 +1,13 @@
+PATIENT,payer_transitions_payer_transitions_MEMBERID,payer_transitions_payer_transitions_START_DATE,payer_transitions_payer_transitions_END_DATE,payer_transitions_payer_transitions_PAYER,payer_transitions_payer_transitions_SECONDARY_PAYER,payer_transitions_payer_transitions_PLAN_OWNERSHIP,payer_transitions_payer_transitions_OWNER_NAME
+e64918a6-528c-b49e-dff2-3cbe33266342,d942f514-9503-8432-b31e-a1f53d127c5f,2014-03-21T21:22:53Z,2015-03-27T21:22:53Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Micaela928 Ullrich385
+e64918a6-528c-b49e-dff2-3cbe33266342,426fb447-ebb6-6b6c-1d23-f0f58f64f97a,2015-03-27T21:22:53Z,2016-03-25T21:22:53Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Micaela928 Danica886 Lindgren255
+e64918a6-528c-b49e-dff2-3cbe33266342,d2d1bbd7-b0fe-a924-7e37-65a3d72b2b3f,2016-03-25T21:22:53Z,2017-03-24T21:22:53Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Micaela928 Danica886 Lindgren255
+e64918a6-528c-b49e-dff2-3cbe33266342,1cfceb13-d3af-a418-9283-16ecef254780,2017-03-24T21:22:53Z,2018-03-23T21:22:53Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Lindgren255
+e64918a6-528c-b49e-dff2-3cbe33266342,5aac166e-3152-1aba-ce4f-e673e6f14da5,2018-03-23T21:22:53Z,2019-03-22T21:22:53Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Micaela928 Danica886 Lindgren255
+e64918a6-528c-b49e-dff2-3cbe33266342,8d42f051-5dc8-9d34-8d2e-29ccb0a1dd6d,2019-03-22T21:22:53Z,2020-03-27T21:22:53Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Lindgren255
+e64918a6-528c-b49e-dff2-3cbe33266342,3c4197cf-629c-26ff-0b41-44a11a9b61c6,2020-03-27T21:22:53Z,2021-03-26T21:22:53Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Lindgren255
+e64918a6-528c-b49e-dff2-3cbe33266342,21c7f7ac-ae1a-c153-2504-e9d16508eb66,2021-03-26T21:22:53Z,2022-03-25T21:22:53Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Lindgren255
+e64918a6-528c-b49e-dff2-3cbe33266342,a1fc6670-e138-ba39-ac0f-8cc9ab2b4d07,2022-03-25T21:22:53Z,2023-03-24T21:22:53Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Self,Micaela928 Danica886 Lindgren255
+e64918a6-528c-b49e-dff2-3cbe33266342,2c4782b8-d6a2-4297-62ab-705d8a31c834,2023-03-24T21:22:53Z,2024-03-22T21:22:53Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Lindgren255
+e64918a6-528c-b49e-dff2-3cbe33266342,ceaeb037-e492-6826-754d-105de0674f95,2024-03-22T21:22:53Z,2025-03-21T21:22:53Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Lindgren255
+e64918a6-528c-b49e-dff2-3cbe33266342,05386347-d7a3-166a-3283-f0d0c50bb64a,2025-03-21T21:22:53Z,2026-03-21T21:22:53Z,26aab0cd-6aba-3e1b-ac5b-05c8867e762c,,Spouse,Mr. Lindgren255

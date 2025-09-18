@@ -1,0 +1,3 @@
+procedures_procedures_START,procedures_procedures_STOP,PATIENT,procedures_procedures_ENCOUNTER,procedures_procedures_SYSTEM,procedures_procedures_CODE,procedures_procedures_DESCRIPTION,procedures_procedures_BASE_COST,procedures_procedures_REASONCODE,procedures_procedures_REASONDESCRIPTION
+2025-05-27T20:08:40Z,2025-05-27T20:23:40Z,e83fe1b3-f94f-5591-f851-1da300e24e99,36f71a94-39fb-52d7-534f-233fedab053a,http://snomed.info/sct,430193006,Medication reconciliation (procedure),352.9,,
+2025-07-01T20:08:40Z,2025-07-01T20:23:40Z,e83fe1b3-f94f-5591-f851-1da300e24e99,7fa45f07-3a0b-b3b6-d0db-83da1769d41c,http://snomed.info/sct,430193006,Medication reconciliation (procedure),774.59,,

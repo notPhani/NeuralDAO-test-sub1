@@ -1,0 +1,276 @@
+observations_observations_DATE,PATIENT,observations_observations_ENCOUNTER,observations_observations_CATEGORY,observations_observations_CODE,observations_observations_DESCRIPTION,observations_observations_VALUE,observations_observations_UNITS,observations_observations_TYPE
+1953-08-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,vital-signs,8302-2,Body Height,165.1,cm,numeric
+1953-08-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+1953-08-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,vital-signs,29463-7,Body Weight,63.8,kg,numeric
+1953-08-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,vital-signs,39156-5,Body mass index (BMI) [Ratio],23.4,kg/m2,numeric
+1953-08-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,vital-signs,8462-4,Diastolic Blood Pressure,84.0,mm[Hg],numeric
+1953-08-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,vital-signs,8480-6,Systolic Blood Pressure,110.0,mm[Hg],numeric
+1953-08-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,vital-signs,8867-4,Heart rate,70.0,/min,numeric
+1953-08-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,vital-signs,9279-1,Respiratory rate,12.0,/min,numeric
+1953-08-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,160.6,mg/dL,numeric
+1953-08-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,laboratory,2571-8,Triglycerides,111.7,mg/dL,numeric
+1953-08-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,laboratory,18262-6,Low Density Lipoprotein Cholesterol,84.2,mg/dL,numeric
+1953-08-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,54.1,mg/dL,numeric
+1953-08-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,social-history,72166-2,Tobacco smoking status,Ex-smoker (finding),,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,Yes,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,93027-1,Are you a refugee?,No,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,93038-8,Stress level,Not at all,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,3 to 5 times a week,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,93091,/a,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,76437-3,Primary insurance,None/uninsured,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,67875-5,Employment status - current,Full-time work,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,82589-3,Highest level of education,More than high school,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,56799-0,Address,140 Jerde Pathway Unit 0,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,93033-9,Are you worried about losing your housing?,No,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,71802-3,Housing status,I have housing,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,63512-8,How many people are living or staying at this address?,6.0,{#},numeric
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,54899-0,Preferred language,English,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,32624-9,Race,White,,text
+1953-08-29T20:26:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+1953-08-29T20:54:54Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0.0,{score},numeric
+1953-08-29T21:21:09Z,750eda4e-3f12-c701-869e-1d392387dfa0,ddcd56b1-aaf9-2e7a-2562-da737576794f,survey,76504-0,Total score [HARK],0.0,{score},numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.3,%,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,vital-signs,8302-2,Body Height,165.1,cm,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1.0,{score},numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,vital-signs,29463-7,Body Weight,68.4,kg,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,vital-signs,39156-5,Body mass index (BMI) [Ratio],25.1,kg/m2,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,vital-signs,8462-4,Diastolic Blood Pressure,95.0,mm[Hg],numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,vital-signs,8480-6,Systolic Blood Pressure,152.0,mm[Hg],numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,vital-signs,8867-4,Heart rate,72.0,/min,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,vital-signs,9279-1,Respiratory rate,12.0,/min,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,2339-0,Glucose [Mass/volume] in Blood,95.5,mg/dL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,12.4,mg/dL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,38483-4,Creatinine [Mass/volume] in Blood,0.9,mg/dL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.4,mg/dL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,2947-0,Sodium [Moles/volume] in Blood,144.0,mmol/L,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,6298-4,Potassium [Moles/volume] in Blood,3.9,mmol/L,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,2069-3,Chloride [Moles/volume] in Blood,105.1,mmol/L,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,28.6,mmol/L,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,213.4,mg/dL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,2571-8,Triglycerides,110.6,mg/dL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,18262-6,Low Density Lipoprotein Cholesterol,143.1,mg/dL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,48.2,mg/dL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,8.5,10*3/uL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,4.0,10*6/uL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,13.3,g/dL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,37.4,%,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,787-2,MCV [Entitic volume] by Automated count,81.2,fL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,785-6,MCH [Entitic mass] by Automated count,30.9,pg,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,786-4,MCHC [Mass/volume] by Automated count,35.2,g/dL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,44.8,fL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,164.5,10*3/uL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,390.3,fL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,laboratory,32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count,10.1,fL,numeric
+1956-09-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,social-history,72166-2,Tobacco smoking status,Ex-smoker (finding),,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,93027-1,Are you a refugee?,No,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,93038-8,Stress level,A little bit,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,3 to 5 times a week,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,93091,/a,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,76437-3,Primary insurance,None/uninsured,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,67875-5,Employment status - current,Part-time or temporary work,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,82589-3,Highest level of education,More than high school,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,56799-0,Address,140 Jerde Pathway Unit 0,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,93033-9,Are you worried about losing your housing?,No,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,71802-3,Housing status,I have housing,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,63512-8,How many people are living or staying at this address?,6.0,{#},numeric
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,54899-0,Preferred language,English,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,32624-9,Race,White,,text
+1956-09-01T20:20:53Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+1956-09-01T20:47:21Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],0.0,{score},numeric
+1956-09-01T21:17:15Z,750eda4e-3f12-c701-869e-1d392387dfa0,744496fb-8d06-ed6b-bdf1-23b3b8762e81,survey,76504-0,Total score [HARK],0.0,{score},numeric
+1956-10-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,3abefdef-d9ce-d4c3-99f7-decba62cd2e4,vital-signs,8462-4,Diastolic Blood Pressure,87.0,mm[Hg],numeric
+1956-10-01T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,3abefdef-d9ce-d4c3-99f7-decba62cd2e4,vital-signs,8480-6,Systolic Blood Pressure,142.0,mm[Hg],numeric
+1956-11-30T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,97a6600a-08ca-0286-c427-86eea05f6ac4,vital-signs,8462-4,Diastolic Blood Pressure,81.0,mm[Hg],numeric
+1956-11-30T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,97a6600a-08ca-0286-c427-86eea05f6ac4,vital-signs,8480-6,Systolic Blood Pressure,131.0,mm[Hg],numeric
+1957-01-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,8e13115c-a02d-257e-354b-c466f75eed0c,vital-signs,8462-4,Diastolic Blood Pressure,65.0,mm[Hg],numeric
+1957-01-29T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,8e13115c-a02d-257e-354b-c466f75eed0c,vital-signs,8480-6,Systolic Blood Pressure,109.0,mm[Hg],numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.8,%,numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,vital-signs,8302-2,Body Height,165.1,cm,numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,vital-signs,29463-7,Body Weight,70.3,kg,numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,vital-signs,39156-5,Body mass index (BMI) [Ratio],25.8,kg/m2,numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,vital-signs,8462-4,Diastolic Blood Pressure,65.0,mm[Hg],numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,vital-signs,8480-6,Systolic Blood Pressure,107.0,mm[Hg],numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,vital-signs,8867-4,Heart rate,93.0,/min,numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,vital-signs,9279-1,Respiratory rate,13.0,/min,numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,laboratory,2339-0,Glucose [Mass/volume] in Blood,82.1,mg/dL,numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,10.8,mg/dL,numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,laboratory,38483-4,Creatinine [Mass/volume] in Blood,0.9,mg/dL,numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.1,mg/dL,numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,laboratory,2947-0,Sodium [Moles/volume] in Blood,139.2,mmol/L,numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.0,mmol/L,numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,laboratory,2069-3,Chloride [Moles/volume] in Blood,105.1,mmol/L,numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,25.2,mmol/L,numeric
+1957-09-07T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,social-history,72166-2,Tobacco smoking status,Ex-smoker (finding),,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,93027-1,Are you a refugee?,No,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,93038-8,Stress level,Not at all,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,Less than once a week,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,93091,/a,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,76437-3,Primary insurance,Medicaid,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,67875-5,Employment status - current,Full-time work,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,82589-3,Highest level of education,More than high school,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,56799-0,Address,140 Jerde Pathway Unit 0,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,93033-9,Are you worried about losing your housing?,No,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,71802-3,Housing status,I have housing,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,63512-8,How many people are living or staying at this address?,6.0,{#},numeric
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,54899-0,Preferred language,English,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,32624-9,Race,White,,text
+1957-09-07T20:37:18Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+1957-09-07T21:12:29Z,750eda4e-3f12-c701-869e-1d392387dfa0,a3e203e0-851b-af59-2f1c-ab6f7a9e33a3,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],2.0,{score},numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.2,%,numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,vital-signs,8302-2,Body Height,165.1,cm,numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,3.0,{score},numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,vital-signs,29463-7,Body Weight,71.8,kg,numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,vital-signs,39156-5,Body mass index (BMI) [Ratio],26.3,kg/m2,numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,vital-signs,8462-4,Diastolic Blood Pressure,70.0,mm[Hg],numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,vital-signs,8480-6,Systolic Blood Pressure,112.0,mm[Hg],numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,vital-signs,8867-4,Heart rate,77.0,/min,numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,laboratory,2339-0,Glucose [Mass/volume] in Blood,91.7,mg/dL,numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,7.5,mg/dL,numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,laboratory,38483-4,Creatinine [Mass/volume] in Blood,0.9,mg/dL,numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.2,mg/dL,numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,laboratory,2947-0,Sodium [Moles/volume] in Blood,136.1,mmol/L,numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.4,mmol/L,numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,laboratory,2069-3,Chloride [Moles/volume] in Blood,110.6,mmol/L,numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,23.6,mmol/L,numeric
+1958-09-13T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,social-history,72166-2,Tobacco smoking status,Ex-smoker (finding),,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,93027-1,Are you a refugee?,No,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,93038-8,Stress level,A little bit,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,1 or 2 times a week,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,93091,/a,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,76437-3,Primary insurance,None/uninsured,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,67875-5,Employment status - current,Part-time or temporary work,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,82589-3,Highest level of education,More than high school,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,56799-0,Address,140 Jerde Pathway Unit 0,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,93033-9,Are you worried about losing your housing?,No,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,71802-3,Housing status,I have housing,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,63512-8,How many people are living or staying at this address?,6.0,{#},numeric
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,54899-0,Preferred language,English,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,32624-9,Race,White,,text
+1958-09-13T20:37:22Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+1958-09-13T20:56:23Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],2.0,{score},numeric
+1958-09-13T21:35:01Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1.0,{score},numeric
+1958-09-13T22:08:51Z,750eda4e-3f12-c701-869e-1d392387dfa0,2c7dfa10-11ad-e95c-1159-642b23635b23,survey,75626-2,Total score [AUDIT-C],4.0,{score},numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.2,%,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,vital-signs,8302-2,Body Height,165.1,cm,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,1.0,{score},numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,vital-signs,29463-7,Body Weight,73.3,kg,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,vital-signs,39156-5,Body mass index (BMI) [Ratio],26.9,kg/m2,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,vital-signs,8462-4,Diastolic Blood Pressure,69.0,mm[Hg],numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,vital-signs,8480-6,Systolic Blood Pressure,118.0,mm[Hg],numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,vital-signs,8867-4,Heart rate,83.0,/min,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,vital-signs,9279-1,Respiratory rate,12.0,/min,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,laboratory,2339-0,Glucose [Mass/volume] in Blood,95.7,mg/dL,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,16.5,mg/dL,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,laboratory,38483-4,Creatinine [Mass/volume] in Blood,0.9,mg/dL,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.3,mg/dL,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,laboratory,2947-0,Sodium [Moles/volume] in Blood,137.5,mmol/L,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.5,mmol/L,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,laboratory,2069-3,Chloride [Moles/volume] in Blood,109.5,mmol/L,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,29.0,mmol/L,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,laboratory,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,191.1,mg/dL,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,laboratory,2571-8,Triglycerides,124.1,mg/dL,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,laboratory,18262-6,Low Density Lipoprotein Cholesterol,106.9,mg/dL,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,laboratory,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,59.4,mg/dL,numeric
+1959-09-19T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,social-history,72166-2,Tobacco smoking status,Ex-smoker (finding),,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,Yes,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,93027-1,Are you a refugee?,No,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,93038-8,Stress level,A little bit,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,5 or more times a week,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,I choose not to answer this question,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,93091,/a,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,76437-3,Primary insurance,None/uninsured,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,67875-5,Employment status - current,Full-time work,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,82589-3,Highest level of education,More than high school,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,56799-0,Address,140 Jerde Pathway Unit 0,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,93033-9,Are you worried about losing your housing?,No,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,71802-3,Housing status,I have housing,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,63512-8,How many people are living or staying at this address?,6.0,{#},numeric
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,54899-0,Preferred language,English,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,32624-9,Race,White,,text
+1959-09-19T20:25:26Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+1959-09-19T21:05:08Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],1.0,{score},numeric
+1959-09-19T21:41:47Z,750eda4e-3f12-c701-869e-1d392387dfa0,bee057fd-b36a-84eb-4bd7-7aca0929be46,survey,75626-2,Total score [AUDIT-C],2.0,{score},numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.8,%,numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,vital-signs,8302-2,Body Height,165.1,cm,numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,vital-signs,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,2.0,{score},numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,vital-signs,29463-7,Body Weight,74.7,kg,numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,vital-signs,39156-5,Body mass index (BMI) [Ratio],27.4,kg/m2,numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,vital-signs,8462-4,Diastolic Blood Pressure,69.0,mm[Hg],numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,vital-signs,8480-6,Systolic Blood Pressure,116.0,mm[Hg],numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,vital-signs,8867-4,Heart rate,93.0,/min,numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,vital-signs,9279-1,Respiratory rate,14.0,/min,numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,laboratory,2339-0,Glucose [Mass/volume] in Blood,94.9,mg/dL,numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,laboratory,6299-2,Urea nitrogen [Mass/volume] in Blood,18.9,mg/dL,numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,laboratory,38483-4,Creatinine [Mass/volume] in Blood,1.1,mg/dL,numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,laboratory,49765-1,Calcium [Mass/volume] in Blood,9.8,mg/dL,numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,laboratory,2947-0,Sodium [Moles/volume] in Blood,141.1,mmol/L,numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,laboratory,6298-4,Potassium [Moles/volume] in Blood,4.0,mmol/L,numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,laboratory,2069-3,Chloride [Moles/volume] in Blood,101.9,mmol/L,numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,laboratory,20565-8,Carbon dioxide  total [Moles/volume] in Blood,23.0,mmol/L,numeric
+1960-09-24T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,social-history,72166-2,Tobacco smoking status,Ex-smoker (finding),,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,76501-6,Within the last year  have you been afraid of your partner or ex-partner?,No,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,93026-3,Do you feel physically and emotionally safe where you currently live?,No,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,93027-1,Are you a refugee?,No,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,93028-9,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,No,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,93038-8,Stress level,Quite a bit,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,93029-7,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,Less than once a week,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,93030-5,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,No,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,93031-3,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,Food,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,63586-2,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,93091,/a,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,76437-3,Primary insurance,None/uninsured,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,67875-5,Employment status - current,Otherwise unemployed but not seeking work (ex: student  retired  disabled  unpaid primary care giver),,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,82589-3,Highest level of education,More than high school,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,56799-0,Address,140 Jerde Pathway Unit 0,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,93033-9,Are you worried about losing your housing?,No,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,71802-3,Housing status,I have housing,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,63512-8,How many people are living or staying at this address?,6.0,{#},numeric
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,54899-0,Preferred language,English,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,93034-7,Have you been discharged from the armed forces of the United States?,No,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,93035-4,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,No,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,32624-9,Race,White,,text
+1960-09-24T20:27:57Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,56051-6,Do you consider yourself Hispanic/Latino?,No,,text
+1960-09-24T21:03:23Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],5.0,{score},numeric
+1960-09-24T21:25:25Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,44261-6,Patient Health Questionnaire 9 item (PHQ-9) total score [Reported],20.0,{score},numeric
+1960-09-24T22:02:27Z,750eda4e-3f12-c701-869e-1d392387dfa0,1d32a35b-b52c-8ea7-1b63-9dfddff67126,survey,75626-2,Total score [AUDIT-C],2.0,{score},numeric
+1961-04-09T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,d72a6968-61e7-5da4-5ac8-a43fe2b8cb66,laboratory,88262-1,Gram positive blood culture panel by Probe in Positive blood culture,Positive (qualifier value),,text
+1961-04-09T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,d72a6968-61e7-5da4-5ac8-a43fe2b8cb66,exam,44963-7,Capillary refill [Time] of Nail bed,Increased capillary filling time (finding),,text
+1961-04-09T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,d72a6968-61e7-5da4-5ac8-a43fe2b8cb66,vital-signs,2708-6,Oxygen saturation in Arterial blood,91.0,%,numeric
+1961-04-09T19:46:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,d72a6968-61e7-5da4-5ac8-a43fe2b8cb66,laboratory,32693-4,Lactate [Moles/volume] in Blood,1.5,mmol/L,numeric
+1961-04-09T20:16:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,d72a6968-61e7-5da4-5ac8-a43fe2b8cb66,vital-signs,8478-0,Mean blood pressure,57.7,mm[Hg],numeric
+1961-04-09T21:16:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,d72a6968-61e7-5da4-5ac8-a43fe2b8cb66,laboratory,32693-4,Lactate [Moles/volume] in Blood,0.1,mmol/L,numeric
+1961-04-09T21:16:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,d72a6968-61e7-5da4-5ac8-a43fe2b8cb66,laboratory,8462-4,Diastolic Blood Pressure,104.3,mm[Hg],numeric
+1961-04-09T21:16:24Z,750eda4e-3f12-c701-869e-1d392387dfa0,d72a6968-61e7-5da4-5ac8-a43fe2b8cb66,vital-signs,8480-6,Systolic Blood Pressure,108.4,mm[Hg],numeric

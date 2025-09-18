@@ -1,0 +1,12 @@
+conditions_conditions_START,conditions_conditions_STOP,PATIENT,conditions_conditions_ENCOUNTER,conditions_conditions_SYSTEM,conditions_conditions_CODE,conditions_conditions_DESCRIPTION
+1956-06-10,1957-02-17,30e48e16-2df7-207e-7a3d-1650ef0c1ed8,94232307-b873-a322-854d-e62cc5f76395,http://snomed.info/sct,314529007,Medication review due (situation)
+1957-05-19,1958-05-18,30e48e16-2df7-207e-7a3d-1650ef0c1ed8,e58d4460-9bb7-5db0-7f29-a26618d0d21a,http://snomed.info/sct,314529007,Medication review due (situation)
+1958-11-16,1958-11-16,30e48e16-2df7-207e-7a3d-1650ef0c1ed8,17548caa-b8da-1a2a-1694-882e431484ad,http://snomed.info/sct,314529007,Medication review due (situation)
+1958-11-24,1958-11-24,30e48e16-2df7-207e-7a3d-1650ef0c1ed8,7908cbe5-a42a-dc03-e5a6-4c58204904d2,http://snomed.info/sct,109570002,Primary dental caries (disorder)
+1958-12-07,1958-12-20,30e48e16-2df7-207e-7a3d-1650ef0c1ed8,2334fe5a-4f36-618d-fe22-c9fab9195d4b,http://snomed.info/sct,10509002,Acute bronchitis (disorder)
+1959-05-17,1959-11-15,30e48e16-2df7-207e-7a3d-1650ef0c1ed8,85fa29b0-ef6a-a60b-d9a1-5b44c058bb2a,http://snomed.info/sct,314529007,Medication review due (situation)
+1960-02-29,1960-04-02,30e48e16-2df7-207e-7a3d-1650ef0c1ed8,71efbe9c-198e-b956-7754-f61f4819390d,http://snomed.info/sct,36971009,Sinusitis (disorder)
+1960-05-15,,30e48e16-2df7-207e-7a3d-1650ef0c1ed8,1b7be3e7-cde8-10cf-96cf-aced0d4aa298,http://snomed.info/sct,314529007,Medication review due (situation)
+1960-05-23,1960-05-23,30e48e16-2df7-207e-7a3d-1650ef0c1ed8,65d75eed-79f7-dfac-6516-56f0bc8f17a5,http://snomed.info/sct,278588009,Fractured dental filling (finding)
+1961-04-13,,30e48e16-2df7-207e-7a3d-1650ef0c1ed8,651a515e-a9d1-fe91-e975-51af18251589,http://snomed.info/sct,262521009,Traumatic injury of spinal cord and/or vertebral column (disorder)
+1961-04-13,,30e48e16-2df7-207e-7a3d-1650ef0c1ed8,651a515e-a9d1-fe91-e975-51af18251589,http://snomed.info/sct,1734006,Fracture of vertebral column with spinal cord injury (disorder)

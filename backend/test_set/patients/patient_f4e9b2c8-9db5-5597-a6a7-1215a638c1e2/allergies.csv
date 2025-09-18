@@ -1,0 +1,9 @@
+allergies_allergies_START,allergies_allergies_STOP,PATIENT,allergies_allergies_ENCOUNTER,allergies_allergies_CODE,allergies_allergies_SYSTEM,allergies_allergies_DESCRIPTION,allergies_allergies_TYPE,allergies_allergies_CATEGORY,allergies_allergies_REACTION1,allergies_allergies_DESCRIPTION1,allergies_allergies_SEVERITY1,allergies_allergies_REACTION2,allergies_allergies_DESCRIPTION2,allergies_allergies_SEVERITY2
+1964-08-13,,f4e9b2c8-9db5-5597-a6a7-1215a638c1e2,bb21642f-1e99-7021-d818-3400a6659ef1,609328004,SNOMED-CT,Allergic disposition (finding),allergy,environment,,,,,,
+1964-08-13,,f4e9b2c8-9db5-5597-a6a7-1215a638c1e2,bb21642f-1e99-7021-d818-3400a6659ef1,111088007,SNOMED-CT,Latex (substance),allergy,environment,,,,,,
+1964-08-13,,f4e9b2c8-9db5-5597-a6a7-1215a638c1e2,bb21642f-1e99-7021-d818-3400a6659ef1,84489001,SNOMED-CT,Mold (organism),allergy,environment,,,,,,
+1964-08-13,,f4e9b2c8-9db5-5597-a6a7-1215a638c1e2,bb21642f-1e99-7021-d818-3400a6659ef1,260147004,SNOMED-CT,House dust mite (organism),allergy,environment,,,,,,
+1964-08-13,,f4e9b2c8-9db5-5597-a6a7-1215a638c1e2,bb21642f-1e99-7021-d818-3400a6659ef1,264287008,SNOMED-CT,Animal dander (substance),allergy,environment,878820003.0,Rhinoconjunctivitis (disorder),MODERATE,247472004.0,Wheal (finding),MILD
+1964-08-13,,f4e9b2c8-9db5-5597-a6a7-1215a638c1e2,bb21642f-1e99-7021-d818-3400a6659ef1,29046,RxNorm,Lisinopril,intolerance,medication,237849008.0,Drug-induced hyperkalemia (disorder),MODERATE,,,
+1964-08-13,,f4e9b2c8-9db5-5597-a6a7-1215a638c1e2,bb21642f-1e99-7021-d818-3400a6659ef1,3718001,SNOMED-CT,Cow's milk (substance),allergy,food,247472004.0,Wheal (finding),MILD,,,
+1964-08-13,,f4e9b2c8-9db5-5597-a6a7-1215a638c1e2,bb21642f-1e99-7021-d818-3400a6659ef1,762952008,SNOMED-CT,Peanut (substance),allergy,food,300359004.0,Finding of vomiting (finding),MILD,271807003.0,Eruption of skin (disorder),MILD
