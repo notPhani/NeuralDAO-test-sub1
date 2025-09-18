@@ -1,9 +1,0 @@
-immunizations_immunizations_DATE,PATIENT,immunizations_immunizations_ENCOUNTER,immunizations_immunizations_CODE,immunizations_immunizations_DESCRIPTION,immunizations_immunizations_BASE_COST
-2016-05-24T20:41:48Z,1a9873c2-1d93-e9d6-4e36-77fdb07fbcb2,bcc28b5b-2489-9303-091e-539dc26daa5c,140,Influenza  seasonal  injectable  preservative free,136.0
-2017-05-23T20:41:48Z,1a9873c2-1d93-e9d6-4e36-77fdb07fbcb2,c595dfba-3014-846b-819b-c716ad80be0c,140,Influenza  seasonal  injectable  preservative free,136.0
-2018-05-08T20:41:48Z,1a9873c2-1d93-e9d6-4e36-77fdb07fbcb2,38efd97b-f8fb-d1a4-0810-da16f8f68843,140,Influenza  seasonal  injectable  preservative free,136.0
-2019-06-04T20:41:48Z,1a9873c2-1d93-e9d6-4e36-77fdb07fbcb2,beffcacb-934b-3485-5023-0c97df559779,140,Influenza  seasonal  injectable  preservative free,136.0
-2020-05-05T20:41:48Z,1a9873c2-1d93-e9d6-4e36-77fdb07fbcb2,9e8f3589-5cf4-f256-f33c-d309c9e4d5e5,140,Influenza  seasonal  injectable  preservative free,136.0
-2021-03-09T20:41:48Z,1a9873c2-1d93-e9d6-4e36-77fdb07fbcb2,adb55c27-e121-7afd-9c4a-96d86628730f,208,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,136.0
-2021-03-30T20:41:48Z,1a9873c2-1d93-e9d6-4e36-77fdb07fbcb2,f828c8e9-59b2-df18-ff43-41713e4d8acc,208,COVID-19  mRNA  LNP-S  PF  30 mcg/0.3 mL dose,136.0
-2021-05-04T20:41:48Z,1a9873c2-1d93-e9d6-4e36-77fdb07fbcb2,334cb05d-444c-34e6-30ad-ba0d91bd07e2,140,Influenza  seasonal  injectable  preservative free,136.0

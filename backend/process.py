@@ -99,7 +99,29 @@ def merge_patient(patient_folder):
 
 #merge_patient("C:/Users/HP/NeuralDAO-test-sub1/backend/test_set/patients/patient_0a1bd9a2-fc21-7ad3-3d85-cf31b68eec28")
 
-if __name__ =="__main__":
-    files = os.listdir("c:/Users/HP/NeuralDAO-test-sub1/backend/test_set/patients")
-    for file in files:
-        merge_patient(os.path.join("C:/Users/HP/NeuralDAO-test-sub1/backend/test_set/patients", file))
+import os
+
+def clean_patient_folder(patient_folder):
+    """
+    Delete all CSV files except 'merged_patient_data.csv' inside the patient's folder
+    """
+    for file in os.listdir(patient_folder):
+        if file.endswith('.csv') and file != 'merged_patient_data.csv':
+            file_path = os.path.join(patient_folder, file)
+            try:
+                os.remove(file_path)
+                print(f"Deleted {file_path}")
+            except Exception as e:
+                print(f"Error deleting {file_path}: {e}")
+
+def clean_all_patients_folders(patients_root_dir):
+    """
+    Iterate over all patient folders and clean them
+    """
+    for patient_folder in os.listdir(patients_root_dir):
+        full_path = os.path.join(patients_root_dir, patient_folder)
+        if os.path.isdir(full_path):
+            clean_patient_folder(full_path)
+
+# Example usage:
+clean_all_patients_folders('C:/Users/HP/NeuralDAO-test-sub1/backend/test_set/patients')

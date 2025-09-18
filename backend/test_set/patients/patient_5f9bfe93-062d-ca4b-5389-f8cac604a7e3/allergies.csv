@@ -1,3 +1,0 @@
-allergies_allergies_START,allergies_allergies_STOP,PATIENT,allergies_allergies_ENCOUNTER,allergies_allergies_CODE,allergies_allergies_SYSTEM,allergies_allergies_DESCRIPTION,allergies_allergies_TYPE,allergies_allergies_CATEGORY,allergies_allergies_REACTION1,allergies_allergies_DESCRIPTION1,allergies_allergies_SEVERITY1,allergies_allergies_REACTION2,allergies_allergies_DESCRIPTION2,allergies_allergies_SEVERITY2
-1966-01-05,,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,dc9cfc84-99fd-10b3-81df-d4ee8b576d31,609328004,SNOMED-CT,Allergic disposition (finding),allergy,environment,,,,,,
-1966-01-05,,5f9bfe93-062d-ca4b-5389-f8cac604a7e3,dc9cfc84-99fd-10b3-81df-d4ee8b576d31,102263004,SNOMED-CT,Eggs (edible) (substance),allergy,food,402387002.0,Allergic angioedema (disorder),MODERATE,,,

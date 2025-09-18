@@ -1,5 +1,0 @@
-allergies_allergies_START,allergies_allergies_STOP,PATIENT,allergies_allergies_ENCOUNTER,allergies_allergies_CODE,allergies_allergies_SYSTEM,allergies_allergies_DESCRIPTION,allergies_allergies_TYPE,allergies_allergies_CATEGORY,allergies_allergies_REACTION1,allergies_allergies_DESCRIPTION1,allergies_allergies_SEVERITY1,allergies_allergies_REACTION2,allergies_allergies_DESCRIPTION2,allergies_allergies_SEVERITY2
-2019-06-16,,5c68f376-dd2c-1133-a9cf-f023a5d99078,151e31fa-bdec-5ea0-08a2-435cf0685f03,609328004,SNOMED-CT,Allergic disposition (finding),allergy,environment,,,,,,
-2019-06-16,,5c68f376-dd2c-1133-a9cf-f023a5d99078,151e31fa-bdec-5ea0-08a2-435cf0685f03,1191,RxNorm,Aspirin,allergy,medication,,,,,,
-2019-06-16,,5c68f376-dd2c-1133-a9cf-f023a5d99078,151e31fa-bdec-5ea0-08a2-435cf0685f03,7984,RxNorm,Penicillin V,allergy,medication,267036007.0,Dyspnea (finding),MILD,,,
-2019-06-16,,5c68f376-dd2c-1133-a9cf-f023a5d99078,151e31fa-bdec-5ea0-08a2-435cf0685f03,762952008,SNOMED-CT,Peanut (substance),allergy,food,39579001.0,Anaphylaxis (disorder),SEVERE,247472004.0,Wheal (finding),MODERATE

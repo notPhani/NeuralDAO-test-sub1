@@ -1,7 +1,0 @@
-allergies_allergies_START,allergies_allergies_STOP,PATIENT,allergies_allergies_ENCOUNTER,allergies_allergies_CODE,allergies_allergies_SYSTEM,allergies_allergies_DESCRIPTION,allergies_allergies_TYPE,allergies_allergies_CATEGORY,allergies_allergies_REACTION1,allergies_allergies_DESCRIPTION1,allergies_allergies_SEVERITY1,allergies_allergies_REACTION2,allergies_allergies_DESCRIPTION2,allergies_allergies_SEVERITY2
-2008-07-22,,bd6e7acc-7c87-7f0a-5d15-959cf11e22da,e0332ea9-2a2b-b4dd-a953-f9815d411184,609328004,SNOMED-CT,Allergic disposition (finding),allergy,environment,,,,,,
-2008-07-22,,bd6e7acc-7c87-7f0a-5d15-959cf11e22da,e0332ea9-2a2b-b4dd-a953-f9815d411184,84489001,SNOMED-CT,Mold (organism),allergy,environment,,,,,,
-2008-07-22,,bd6e7acc-7c87-7f0a-5d15-959cf11e22da,e0332ea9-2a2b-b4dd-a953-f9815d411184,264287008,SNOMED-CT,Animal dander (substance),allergy,environment,878820003.0,Rhinoconjunctivitis (disorder),MODERATE,271807003.0,Eruption of skin (disorder),MILD
-2008-07-22,,bd6e7acc-7c87-7f0a-5d15-959cf11e22da,e0332ea9-2a2b-b4dd-a953-f9815d411184,782576004,SNOMED-CT,Tree pollen (substance),allergy,environment,,,,,,
-2008-07-22,,bd6e7acc-7c87-7f0a-5d15-959cf11e22da,e0332ea9-2a2b-b4dd-a953-f9815d411184,412071004,SNOMED-CT,Wheat (substance),allergy,food,39579001.0,Anaphylaxis (disorder),SEVERE,,,
-2008-07-22,,bd6e7acc-7c87-7f0a-5d15-959cf11e22da,e0332ea9-2a2b-b4dd-a953-f9815d411184,735971005,SNOMED-CT,Fish (substance),allergy,food,267036007.0,Dyspnea (finding),MODERATE,271807003.0,Eruption of skin (disorder),MILD

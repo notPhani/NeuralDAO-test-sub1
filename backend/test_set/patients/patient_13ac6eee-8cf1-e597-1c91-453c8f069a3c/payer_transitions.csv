@@ -1,6 +1,0 @@
-PATIENT,payer_transitions_payer_transitions_MEMBERID,payer_transitions_payer_transitions_START_DATE,payer_transitions_payer_transitions_END_DATE,payer_transitions_payer_transitions_PAYER,payer_transitions_payer_transitions_SECONDARY_PAYER,payer_transitions_payer_transitions_PLAN_OWNERSHIP,payer_transitions_payer_transitions_OWNER_NAME
-13ac6eee-8cf1-e597-1c91-453c8f069a3c,64dbfbf3-c7ee-59be-d457-a504599ec1ca,2021-04-19T06:06:05Z,2022-04-25T06:06:05Z,df166300-5a78-3502-a46a-832842197811,,Self,Hiram237 Welch179
-13ac6eee-8cf1-e597-1c91-453c8f069a3c,620666e4-9558-1d1e-f38c-0308949f4036,2022-04-25T06:06:05Z,2023-04-24T06:06:05Z,df166300-5a78-3502-a46a-832842197811,,Self,Hiram237 Welch179
-13ac6eee-8cf1-e597-1c91-453c8f069a3c,025e8d43-f887-7039-5291-96888554a7af,2023-04-24T06:06:05Z,2024-04-22T06:06:05Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Guardian,Muriel394 Kutch271
-13ac6eee-8cf1-e597-1c91-453c8f069a3c,025e8d43-f887-7039-5291-96888554a7af,2024-04-22T06:06:05Z,2025-04-21T06:06:05Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Guardian,Muriel394 Kutch271
-13ac6eee-8cf1-e597-1c91-453c8f069a3c,025e8d43-f887-7039-5291-96888554a7af,2025-04-21T06:06:05Z,2026-04-19T06:06:05Z,734afbd6-4794-363b-9bc0-6a3981533ed5,,Guardian,Muriel394 Kutch271

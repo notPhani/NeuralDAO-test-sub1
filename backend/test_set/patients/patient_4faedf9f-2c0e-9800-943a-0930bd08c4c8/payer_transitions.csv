@@ -1,4 +1,0 @@
-PATIENT,payer_transitions_payer_transitions_MEMBERID,payer_transitions_payer_transitions_START_DATE,payer_transitions_payer_transitions_END_DATE,payer_transitions_payer_transitions_PAYER,payer_transitions_payer_transitions_SECONDARY_PAYER,payer_transitions_payer_transitions_PLAN_OWNERSHIP,payer_transitions_payer_transitions_OWNER_NAME
-4faedf9f-2c0e-9800-943a-0930bd08c4c8,,2023-01-01T22:53:26Z,2024-01-07T22:53:26Z,e03e23c9-4df1-3eb6-a62d-f70f02301496,,,
-4faedf9f-2c0e-9800-943a-0930bd08c4c8,,2024-01-07T22:53:26Z,2025-01-05T22:53:26Z,e03e23c9-4df1-3eb6-a62d-f70f02301496,,,
-4faedf9f-2c0e-9800-943a-0930bd08c4c8,,2025-01-05T22:53:26Z,2026-01-01T22:53:26Z,e03e23c9-4df1-3eb6-a62d-f70f02301496,,,
